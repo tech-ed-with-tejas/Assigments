@@ -2,10 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+local_croma_db/
+diet_pdf_database/
 # C extensions
 *.so
-
+*coa.pdf
+*.DS_Store
+.DS_Store
 # Distribution / packaging
 .Python
 build/

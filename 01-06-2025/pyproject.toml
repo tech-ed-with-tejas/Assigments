@@ -1,0 +1,24 @@
+[project]
+name = "01-06-2025"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "dotenv>=0.9.9",
+    "pdf2image>=1.17.0",
+    "pdfminer-six>=20250506",
+    "pi-heif>=0.22.0",
+    "pillow>=11.2.1",
+    "pytesseract>=0.3.13",
+    "unstructured[ocr]>=0.17.2",
+    "unstructured-inference>=1.0.5",
+    "unstructured-pytesseract>=0.3.15",
+    "chromadb>=1.0.12",
+    "sentence-transformers>=4.1.0",
+    "transformers>=4.52.4",
+    "torch>=2.7.1",
+    "langchain>=0.3.25",
+    "langchain-huggingface>=0.2.0",
+    "langchain-google-genai>=2.1.5",
+]
