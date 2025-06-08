@@ -22,7 +22,7 @@ class ProcessQuery(Embeddings):
 
     def get_images_that_match_query(self,query):
         img_embeeed = self.embed_text(query)
-        return self.data_base_image.query_store_by_embedding(query=img_embeeed)
+        return self.data_base_image.query_store_by_embedding(query=img_embeeed,num_results=2)
     def get_images_from_db(self,image):
         base64_strs = []
         for i in range(len(image['ids'][0])):
