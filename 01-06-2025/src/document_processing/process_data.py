@@ -9,10 +9,7 @@ from src.embeddings.embedder import Embeddings
 class DataProcessor(ProcessPDF,Embeddings):
     def __init__(self):
         super().__init__()
-        
-        # self.get_data_from_pdf()
-        # self.segergate_data()
-        # self.get_cout_for_each_data_category()
+
         
 
     def base64_to_pil_image(self,base64_str):
@@ -91,7 +88,6 @@ class DataProcessor(ProcessPDF,Embeddings):
             return splitter.split_text(text)
     def cleanup(self):
         super().cleanup()
-        # explicitly drop large attributes
         for attr in list(self.__dict__.keys()):
             delattr(self, attr)
 if __name__ == "__main__":

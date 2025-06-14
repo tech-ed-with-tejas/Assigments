@@ -39,11 +39,10 @@ class ProcessPDF:
                         filename=self.pdf_path,                  
                         strategy= self.strategy, 
                         infer_table_structure=True,   
-                        languages=["eng"],                  # mandatory to set as ``True``
+                        languages=["eng"],                 
                                   
                         extract_images_in_pdf=self.images,                           
-                        # extract_image_block_types=self.block_types,          
-                        # extract_image_block_output_dir=self.image_dir, 
+                    
                         extract_image_block_to_payload=True
                 )
         else:
@@ -54,7 +53,6 @@ class ProcessPDF:
                         strategy= self.strategy, 
                         languages=["eng"],                                  
                         extract_images_in_pdf=self.images,                           
-                        # extract_image_block_types=self.block_types,          
                         extract_image_block_output_dir=self.image_dir, 
                        
                 )
@@ -96,11 +94,9 @@ class ProcessPDF:
         return text
     
     def cleanup(self):
-        # explicitly drop large attributes
         for attr in list(self.__dict__.keys()):
             delattr(self, attr)
-##
-##
+
 if __name__ == "__main__":
     print(os.getcwd())
     loaded_pdf = ProcessPDF(pdf_path="../data/chapter12.pdf")

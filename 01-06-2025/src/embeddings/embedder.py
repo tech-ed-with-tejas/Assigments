@@ -7,7 +7,6 @@ sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 dotenv_path = find_dotenv()
 if dotenv_path:
     load_dotenv(dotenv_path)
-    # print(f"Environment variables loaded from: {dotenv_path}")
 else:
     print("Warning: .env file not found. Ensure it's in the project root.")
 from langchain_huggingface import HuggingFaceEmbeddings #type :ignore
