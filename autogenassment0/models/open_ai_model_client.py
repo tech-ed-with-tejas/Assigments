@@ -21,8 +21,8 @@ def get_model_client():
     """
     
     model_client = OpenAIChatCompletionClient(
-        model="gemini-1.5-flash-8b",
-        api_key=os.getenv('GOOGLE_API_KEY'),
+        model="gpt-4o",
+        api_key=os.getenv('OPENAI_API_KEY'),
     )
     return model_client
 
