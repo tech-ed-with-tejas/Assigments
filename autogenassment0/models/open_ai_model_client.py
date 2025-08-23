@@ -23,6 +23,7 @@ def get_model_client():
     model_client = OpenAIChatCompletionClient(
         model="gpt-4o",
         api_key=os.getenv('OPENAI_API_KEY'),
+        temperature =0.1
     )
     return model_client
 

@@ -5,6 +5,7 @@ from teams.innerteams.DietaryNeedsteam import dietry_team
 SOM_DIETARY_ANALYSIS = """
 Take the output from the Dietary Needs Analysis Team and generate a bullet-point list
 covering all user requirements (goals, calorie arget, preferences, restrictions, and activity adjustments).
+Please Rutern :TASK Status Done once you task is Completed.
 """
 
 def diertery_som(model_client):

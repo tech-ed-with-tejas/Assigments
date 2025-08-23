@@ -30,4 +30,7 @@ Present the 4-week plan in a clear, structured table format:
 - Meal name or description
 
 Include a short note at the end summarizing the nutritional intent of the plan.
+Please Rutern :TASK Status Done once you task is Completed. AND ALSO MNETION "TERMINATE"
+
+
 """

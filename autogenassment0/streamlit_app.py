@@ -1,55 +1,54 @@
 import streamlit as st
 import asyncio
 import os
-
-from teams.analyzer_gpt import getDataAnalyzerTeam
-from models.openai_model_client import get_model_client
-from config.docker_util import getDockerCommandLineExecutor,start_docker_container,stop_docker_container
+from teams.outerteams.meal_plan_generator import meal_plan_generator
+from models.open_ai_model_client import get_model_client
 from autogen_agentchat.messages import TextMessage
-from autogen_agentchat.base import TaskResult
 
 
 st.title('MEAL PLAN GENERATOR') 
-
-uploaded_file = st.file_uploader("Upload a CSV file", type=["csv"])
-
-
-# streamlit's variable
-
+openai_model_client = get_model_client()
 
 if 'messages' not in st.session_state:
     st.session_state.messages = []
 if 'autogen_team_state' not in st.session_state:
     st.session_state.autogen_team_state = None
-if('images_shown') not in st.session_state:
-    st.session_state.images_shown=[]
-
-task = st.chat_input("Enter your task here...")
 
 
-async def run_analyser_gpt(docker,openai_model_client,task):
+task = st.chat_input("Enter your  weight loass goal and basic daily activity goal and any preference We can design you a meal plan")
+
+
+async def run_analyser_gpt(openai_model_client,task):
     try:
-        await start_docker_container(docker)
-        team = getDataAnalyzerTeam(docker,openai_model_client)
+        # await start_docker_container(docker)
+        team =  meal_plan_generator(openai_model_client)
 
         if st.session_state.autogen_team_state is not None:
             await team.load_state(st.session_state.autogen_team_state)
 
         async for message in team.run_stream(task=task):
-            # print(message)
+            print(message)
+            print(message.source,"_---------__-----")
             if isinstance(message,TextMessage):
                 if message.source.startswith('user'):
                     with st.chat_message('user',avatar='👤'):
                         st.markdown(message.content)
-                elif message.source.startswith('Data_Analyzer_agent'):
-                    with st.chat_message('Data Analyzer',avatar='🤖'):
+
+                elif message.source.startswith('UserProxyageb'):
+                    with st.chat_message('user',avatar  ='👤'):
+                        inputs = st.chat_input("Enter your  weight loass goal and basic daily activity goal and any preference We can design you a meal plan")
+
+                        st.markdown(inputs)
+                    st.session_state.messages.append(inputs)
+                    
+                else:
+                     with st.chat_message('Plan Gnerator Analyzer',avatar='🤖'):
                         st.markdown(message.content)
-                elif message.source.startswith('Python_Code_Executor'):
-                    with st.chat_message('Data Analyzer',avatar='👨‍💻'):
-                        st.markdown(message.content)
+
+           
                 st.session_state.messages.append(message.content)
                 # st.markdown(f"{message.content}")
-            elif isinstance(message,TaskResult):
+            else: # isinstance(message,TaskResult):
                 st.markdown(f'Stop Reason :{message.stop_reason}')
 
                 st.session_state.messages.append(message.stop_reason)
@@ -61,7 +60,7 @@ async def run_analyser_gpt(docker,openai_model_client,task):
         st.error(f"Error: {e}")
         return e
     finally:   
-        await stop_docker_container(docker)
+        pass
 
 
 async def do_something_big():
@@ -72,36 +71,15 @@ if st.session_state.messages:
         st.markdown(msg)
 
 if task:
-   if uploaded_file is not None: 
-        
-        if not os.path.exists('temp'):
-            os.makedirs('temp', exist_ok=True)
    
-        with open('temp/data.csv','wb') as f:
-            f.write(uploaded_file.getbuffer())
 
-        openai_model_client= get_model_client()
-        docker = getDockerCommandLineExecutor()
-
-        error = asyncio.run(run_analyser_gpt(docker,openai_model_client,task))
+        error = asyncio.run(run_analyser_gpt(openai_model_client,task))
 
         if error:
             st.error(f'An error occured: {error}')
 
-        # # see all the *.png in temp and show them on streamlit app
-        # png_files = [f for f in os.listdir('temp') if f.endswith('.png')]
-        # if png_files:
-        #     for png_file in png_files:
-        #         st.image(os.path.join('temp', png_file), caption=png_file)
-        
-        if os.path.exists('temp/output.png'):
-            # if('output.png' not in st.session_state.images_shown):
-            #     st.session_state.images_shown.append('output.png')
-            # if 'output.png' not in st.session_state.images_shown:
-            st.image('temp/output.png')
-   
-   else:
-       st.warning('Please upload the file and provide the task')
+     
+
 
 else:
     st.warning('Please provide the task')

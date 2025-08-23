@@ -14,14 +14,16 @@ from autogen_agentchat.messages import TextMessage
 
 
 model_client = get_model_client()
-meal_planner_agent = dietry_team(model_client)
+meal_planner_agent = meal_plan_generator(model_client)
 
 task = '''
 "Hi, I’m 32 years old, male, height 5’9 inc”, weight 82 kg. I want to lose about 5–6 kg in the next 2 months.
-I work in an office so I’m mostly sitting, but I go for a 30-minute walk 4 times a week so slightly moderate activity.I eat chicken and fish but no beef or pork. I’m lactose intolerant, and I like rice, paneer, eggs, and apples.
+I work in an office so I’m mostly sitting, but I go for a 30-minute walk 4 times a week so slightly moderate activity.I eat chicken and fish but no beef or pork.
+I’m lactose intolerant, and I like rice, paneer, eggs, and apples.
 
 '''
 # I work in an office so I’m mostly sitting, but I go for a 30-minute walk 4 times a week so slightly moderate activity.I eat chicken and fish but no beef or pork. I’m lactose intolerant, and I like rice, paneer, eggs, and apples.
+#I work in an office so I’m mostly sitting, but I go for a 30-minute walk 4 times a week so slightly moderate activity.I eat chicken and fish but no beef or pork. I’m lactose intolerant, and I like rice, paneer, eggs, and apples.
 
 task1 ='''- **Weight Loss Goal**: Lose 5–6 kg in two months. 
 - **Calorie Target**: Approximately 2,293 kcal/day to achieve a moderate calorie deficit.
@@ -36,47 +38,45 @@ task1 ='''- **Weight Loss Goal**: Lose 5–6 kg in two months.
   - Incorporate strength training 2–3 times weekly with bodyweight exercises or light weights.'''
 #I work in an office so I’m mostly sitting, but I go for a 30-minute walk 4 times a week.I eat chicken and fish but no beef or pork. I’m lactose intolerant, and I like rice, paneer, eggs, and apples.
 
-task3 ='''**Meal Plan Summary:**
+task3 ='''**Summarized Meal Plan:**
 
 **Breakfast:**
-
-* Scrambled Eggs with Spinach and whole-wheat toast
-* Chicken and Vegetable Stir-fry with brown rice
-* Greek Yogurt (dairy-free) with Berries and Nuts
-* Oatmeal with Apples and Cinnamon
-* Fish (Salmon or Tuna) with a side salad
+1. Scrambled Eggs with Spinach and Whole-Wheat Toast
+2. Avocado Toast with Poached Egg on Whole-Grain Bread
+3. Greek Yogurt (dairy-free) with Berries and Chia Seeds
+4. Oatmeal with Apples, Cinnamon, and Almond Butter
+5. Smoked Salmon with Avocado on Rye Bread
 
 **Lunch:**
-
-* Chicken Salad Sandwich on Whole-Wheat Bread
-* Lentil Soup with whole-grain crackers
-* Leftover Chicken and Vegetable Stir-fry
-* Tuna Salad with mixed greens and avocado
-* Paneer and Vegetable Curry with brown rice
+1. Grilled Chicken Salad with Quinoa and Mixed Greens
+2. Lentil Soup with Whole-Grain Crackers
+3. Turkey and Avocado Wrap with Whole-Wheat Tortilla
+4. Tuna Salad with Mixed Greens and Olive Oil Dressing
+5. Chickpea and Vegetable Stir-fry with Brown Rice
 
 **Dinner:**
-
-* Baked Fish with Roasted Vegetables
-* Chicken and Vegetable Curry with Brown Rice
-* Shrimp Scampi with zucchini noodles
-* Vegetarian Chili with Brown Rice
-* Egg Fried Rice
+1. Baked Fish with Roasted Vegetables and Quinoa
+2. Chicken and Vegetable Curry with Brown Rice
+3. Grilled Shrimp with Zucchini Noodles and Pesto
+4. Vegetarian Chili with Brown Rice
+5. Stir-fried Tofu with Broccoli and Cashews
 
 **Snacks:**
+1. Apple Slices with Almond Butter
+2. Handful of Almonds or Walnuts
+3. Greek Yogurt (dairy-free) with Fresh Fruit
+4. Hard-Boiled Eggs
+5. Mixed Vegetables with Hummus
 
-* Apple slices with peanut butter (ensure allergy-free)
-* Handful of almonds or walnuts
-* Greek Yogurt (dairy-free) with fruit
-* Hard-boiled eggs
-* Mixed vegetables with hummus (ensure allergy-free)'''
+This meal plan is designed to maintain weight and improve overall health, aligning with a moderate activity level and a calorie goal of 2000-2200 calories per day. It includes a balanced distribution of macronutrients and adheres to dietary preferences and restrictions.'''
 
-stream = meal_planner_agent.run_stream(task=task)
+# stream = meal_planner_agent.run_stream(task=task)
 task = TextMessage(content=task,source='User')
 async def main():
     # async for message in meal_planner_agent.run_stream(task=task):
     #         print(message.source)
     #         print(message.content)
-    await Console(stream)
+    # await Console(stream)
     
     
     # result = await meal_planner_agent.run(task=task)
@@ -84,6 +84,7 @@ async def main():
     # for each_agent_message in result.messages:
     #     print(f'{((each_agent_message))} ' )
     #     print('\n \n')
+    await Console(meal_planner_agent.run_stream(task=task),output_stats=True)
 
 
 if (__name__ == '__main__'):

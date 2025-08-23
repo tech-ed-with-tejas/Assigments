@@ -15,13 +15,33 @@ Inputs:
 - Conversation history: {history}
 - Participants/Agents: {participants}
 
-Sequence: Dietary_Needs_SOM → Meals_SOM → Summariser_Agent.
-Before moving to the next step, get user approval.
-Once all steps are done, compile and confirm the full plan with the user; update if needed.
-Format task calls as: 1. <agent> : <task>
-Rules: Call ONE agent at a time, follow sequence, don't skip steps.
+**Rules of Engagement:**
+
+- Always follow the order: **Dietary_Needs_SOM → Meals_SOM → Summariser_Agent**.
+- Interact with only **one agent at a time**.
+- Once an agent returns `Task Status: Done`, go to the nect agent.
+- While calling the summarising agent pass the input from the Dietary_Needs_SOMs and the Meals_SOM.
+- Only after all three tasks are marked complete, present a consolidated summary to the user.Once Done end the Conversation with APPROVE
+
+---
+
+
+**Completion Criteria:**
+
+Once all agents have completed their tasks:
+- Present a summary of the collected information.
+- Conclude the process with the keyword: **APPROVE**.
+
+---
+
+Inputs:
+- Roles: {roles}
+- Conversation history: {history}
+- Participants/Agents: {participants}
+
+
 """
-termination_condition = TextMentionTermination(text="APPROVE") | MaxMessageTermination(max_messages=6)
+termination_condition = TextMentionTermination(text="TERMINATE") | MaxMessageTermination(max_messages=6)
 def meal_plan_generator(model_client):
     dietary_needs_som_instance = diertery_som(model_client)
     meal_suggestion_agent_instance = meal_plan_som(model_client)

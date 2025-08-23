@@ -54,6 +54,9 @@ calculate the  allowed foods, excluded foods, and any special notes .
 Output:
 Summary ~100 words.  
 Task status : Done/ Incomplete (if incomplete ask the missing parameters)
+
+ASK the user if this is okay.
+
 """
 
 
