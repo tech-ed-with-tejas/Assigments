@@ -49,7 +49,7 @@ This project is a modular, agent-based system for generating, reviewing, and opt
 2. Install dependencies (see `.env` and requirements in your environment).
 3. Run the Streamlit app:
    ```sh
-   streamlit run streamlit_app.py
+   streamlit run streamlit_app.py TDB
    ```
    Or run the CLI:
    ```sh
@@ -61,4 +61,3 @@ This project is a modular, agent-based system for generating, reviewing, and opt
 - Add new agents in `agents/inneragents/` for specialized tasks.
 - Modify team logic in `teams/` for different orchestration strategies.
 - Update model clients in `models/` to use other LLM providers.
-

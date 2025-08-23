@@ -3,11 +3,24 @@ import asyncio
 import os
 from teams.outerteams.meal_plan_generator import meal_plan_generator
 from models.open_ai_model_client import get_model_client
-from autogen_agentchat.messages import TextMessage
+from autogen_agentchat.messages import TextMessage,UserInputRequestedEvent
 
 
 st.title('MEAL PLAN GENERATOR') 
-openai_model_client = get_model_client()
+
+@st.cache_resource
+def load_team():
+     openai_model_client = get_model_client()
+     team =  meal_plan_generator(openai_model_client)
+     return team,openai_model_client
+team,openai_model_client = load_team()
+
+
+
+
+
+
+
 
 if 'messages' not in st.session_state:
     st.session_state.messages = []
@@ -15,38 +28,49 @@ if 'autogen_team_state' not in st.session_state:
     st.session_state.autogen_team_state = None
 
 
-task = st.chat_input("Enter your  weight loass goal and basic daily activity goal and any preference We can design you a meal plan")
+
+if "pending_user_text" not in st.session_state:
+    st.session_state.pending_user_text = None
 
 
-async def run_analyser_gpt(openai_model_client,task):
+
+if st.session_state.get('pending_user_text', None) is None:
+    st.session_state.pending_user_text = None
+
+if "pending_text" not in st.session_state:
+    st.session_state.pending_text = None
+if "awaiting_user_input" not in st.session_state:
+    st.session_state.awaiting_user_input = False
+
+st.write(st.session_state)
+async def run_analyser_gpt(task,team):
+    print("inside run analyser")
     try:
-        # await start_docker_container(docker)
-        team =  meal_plan_generator(openai_model_client)
+        
+        
 
         if st.session_state.autogen_team_state is not None:
             await team.load_state(st.session_state.autogen_team_state)
 
-        async for message in team.run_stream(task=task):
+        async for message in team.run_stream(task=task ):
             print(message)
-            print(message.source,"_---------__-----")
+            
             if isinstance(message,TextMessage):
-                if message.source.startswith('user'):
-                    with st.chat_message('user',avatar='👤'):
-                        st.markdown(message.content)
-
-                # elif message.source.startswith('UserProxyageb'):
-                #     with st.chat_message('user',avatar  ='👤'):
-                      
-                    #     st.markdown(inputs)
-                    # st.session_state.messages.append(inputs)
-                    
-                else:
-                     with st.chat_message('Plan Gnerator Analyzer',avatar='🤖'):
-                        st.markdown(message.content)
-
-           
+                with st.chat_message('message',avatar='👤'):
+                    st.markdown(message.content)
+        
+        
                 st.session_state.messages.append(message.content)
-                # st.markdown(f"{message.content}")
+
+            elif isinstance(message,UserInputRequestedEvent):
+
+                with st.chat_message('user',avatar  ='👤'):
+
+                    st.markdown(st.session_state.get('pending_user_text', "None"))
+                st.session_state.messages.append(st.session_state.get('pending_user_text', "None"))
+                print("hello")
+                break
+                # st.markdow    n(f"{message.content}")
             else: # isinstance(message,TaskResult):
                 st.markdown(f'Stop Reason :{message.stop_reason}')
 
@@ -61,30 +85,22 @@ async def run_analyser_gpt(openai_model_client,task):
     finally:   
         pass
 
-
+state =  team.save_state()
+import json
+print(state)
 async def do_something_big():
     await asyncio.sleep(1)  # Simulate a long-running task
-
-if st.session_state.messages:
-    for msg in st.session_state.messages:
-        st.markdown(msg)
-
-if task:
-            # Create an event loop
-        loop = asyncio.new_event_loop()
-        asyncio.set_event_loop(loop)
-
-      
-        # Run the asynchronous function within the event loop
-        loop.run_until_complete((run_analyser_gpt(openai_model_client,task)))
-
-        # error = asyncio.run(run_analyser_gpt(openai_model_client,task))
-
-        # if error:
-        #     st.error(f'An error occured: {error}')
-
-     
-
-
+# --- Input handling ---
+if st.session_state.awaiting_user_input:
+    followup = st.chat_input("Provide more details")
+    if followup:
+        st.session_state.pending_text = followup
+        asyncio.run(run_analyser_gpt(task=None,team=team))
+        st.session_state.autogen_team_state =  team.save_state()
+        st.stop()
 else:
-    st.warning('Please provide the task')
+    user_text = st.chat_input("Say something about ursefl")
+    if user_text:
+        asyncio.run(run_analyser_gpt(task=user_text,team=team))
+        st.session_state.autogen_team_state =  team.save_state()
+        st.stop()
