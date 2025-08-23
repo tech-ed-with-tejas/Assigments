@@ -34,12 +34,11 @@ async def run_analyser_gpt(openai_model_client,task):
                     with st.chat_message('user',avatar='👤'):
                         st.markdown(message.content)
 
-                elif message.source.startswith('UserProxyageb'):
-                    with st.chat_message('user',avatar  ='👤'):
-                        inputs = st.chat_input("Enter your  weight loass goal and basic daily activity goal and any preference We can design you a meal plan")
-
-                        st.markdown(inputs)
-                    st.session_state.messages.append(inputs)
+                # elif message.source.startswith('UserProxyageb'):
+                #     with st.chat_message('user',avatar  ='👤'):
+                      
+                    #     st.markdown(inputs)
+                    # st.session_state.messages.append(inputs)
                     
                 else:
                      with st.chat_message('Plan Gnerator Analyzer',avatar='🤖'):
@@ -71,12 +70,18 @@ if st.session_state.messages:
         st.markdown(msg)
 
 if task:
-   
+            # Create an event loop
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
 
-        error = asyncio.run(run_analyser_gpt(openai_model_client,task))
+      
+        # Run the asynchronous function within the event loop
+        loop.run_until_complete((run_analyser_gpt(openai_model_client,task)))
 
-        if error:
-            st.error(f'An error occured: {error}')
+        # error = asyncio.run(run_analyser_gpt(openai_model_client,task))
+
+        # if error:
+        #     st.error(f'An error occured: {error}')
 
      
 

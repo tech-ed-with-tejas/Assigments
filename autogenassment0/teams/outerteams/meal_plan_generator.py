@@ -46,7 +46,6 @@ def meal_plan_generator(model_client):
     dietary_needs_som_instance = diertery_som(model_client)
     meal_suggestion_agent_instance = meal_plan_som(model_client)
     summariser_agent_instance = summariser_agent(model_client)
-    user_proxy_agent_instance = user_proxy_agent()
 
     meal_plan_team = RoundRobinGroupChat(
         description="Meal Plan Generation Team",
