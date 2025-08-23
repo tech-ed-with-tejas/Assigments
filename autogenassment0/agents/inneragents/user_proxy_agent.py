@@ -16,7 +16,7 @@ def user_proxy_agent():
     name ='UserProxyageb',
 
     description='Agent that acts as a proxy for the user, providing input and feedback to other agents.',
-    input_func=get_streamlit_input
+    input_func=input
 )
 
     return user_proxy_agent

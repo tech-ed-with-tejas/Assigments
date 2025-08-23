@@ -56,6 +56,134 @@ This project is a modular, agent-based system for generating, reviewing, and opt
    python main.py
    ```
 
+
+## SAMPLE OUTPUT 
+
+  *USER* : "Hi, I’m 32 years old, male, height 5’9”, weight 82 kg. I want to lose about 5–6 kg in the next 1 months.
+I work in an office so I’m mostly sitting, but I go for a 30-minute walk 4 times a week.I eat chicken and fish but no beef or pork. I’m lactose intolerant, and I like rice, paneer, eggs, and apples.
+generate me a meal plan for 1 month."
+
+
+
+## OUTPUT 
+**4-Week Eating Schedule**
+
+**Week 1:**
+
+| Day       | Meal Time | Meal Description                                      |
+|-----------|-----------|-------------------------------------------------------|
+| Monday    | Breakfast | Scrambled eggs with spinach and tomatoes, whole-grain toast, apple slices |
+|           | Lunch     | Grilled chicken salad with mixed greens, cherry tomatoes, cucumbers, vinaigrette |
+|           | Dinner    | Baked salmon with steamed asparagus and quinoa        |
+|           | Snack     | Apple slices with almond butter                       |
+| Tuesday   | Breakfast | Oatmeal with almond milk, sliced apples, cinnamon     |
+|           | Lunch     | Quinoa bowl with chickpeas, roasted vegetables, lemon-tahini dressing |
+|           | Dinner    | Grilled chicken breast with roasted sweet potatoes, green beans |
+|           | Snack     | Carrot sticks with hummus                             |
+| Wednesday | Breakfast | Paneer and vegetable stir-fry with brown rice         |
+|           | Lunch     | Tuna salad with lettuce, cherry tomatoes, olives, balsamic vinaigrette |
+|           | Dinner    | Paneer tikka with brown rice, cucumber salad          |
+|           | Snack     | Mixed nuts (almonds, walnuts, cashews)                |
+| Thursday  | Breakfast | Avocado toast with poached egg, apple slices          |
+|           | Lunch     | Stir-fried tofu with broccoli, carrots, jasmine rice  |
+|           | Dinner    | Fish curry with basmati rice, sautéed spinach         |
+|           | Snack     | Rice cakes with avocado, cherry tomatoes              |
+| Friday    | Breakfast | Smoothie with almond milk, banana, spinach, plant-based protein powder |
+|           | Lunch     | Lentil soup with whole-grain bread                    |
+|           | Dinner    | Vegetable stir-fry with tofu over brown rice          |
+|           | Snack     | Hard-boiled eggs with salt and pepper                 |
+| Saturday  | Breakfast | Scrambled eggs with spinach and tomatoes, whole-grain toast, apple slices |
+|           | Lunch     | Grilled chicken salad with mixed greens, cherry tomatoes, cucumbers, vinaigrette |
+|           | Dinner    | Baked salmon with steamed asparagus and quinoa        |
+|           | Snack     | Apple slices with almond butter                       |
+
+**Week 2:**
+
+| Day       | Meal Time | Meal Description                                      |
+|-----------|-----------|-------------------------------------------------------|
+| Monday    | Breakfast | Oatmeal with almond milk, sliced apples, cinnamon     |
+|           | Lunch     | Quinoa bowl with chickpeas, roasted vegetables, lemon-tahini dressing |
+|           | Dinner    | Grilled chicken breast with roasted sweet potatoes, green beans |
+|           | Snack     | Carrot sticks with hummus                             |
+| Tuesday   | Breakfast | Paneer and vegetable stir-fry with brown rice         |
+|           | Lunch     | Tuna salad with lettuce, cherry tomatoes, olives, balsamic vinaigrette |
+|           | Dinner    | Paneer tikka with brown rice, cucumber salad          |
+|           | Snack     | Mixed nuts (almonds, walnuts, cashews)                |
+| Wednesday | Breakfast | Avocado toast with poached egg, apple slices          |
+|           | Lunch     | Stir-fried tofu with broccoli, carrots, jasmine rice  |
+|           | Dinner    | Fish curry with basmati rice, sautéed spinach         |
+|           | Snack     | Rice cakes with avocado, cherry tomatoes              |
+| Thursday  | Breakfast | Smoothie with almond milk, banana, spinach, plant-based protein powder |
+|           | Lunch     | Lentil soup with whole-grain bread                    |
+|           | Dinner    | Vegetable stir-fry with tofu over brown rice          |
+|           | Snack     | Hard-boiled eggs with salt and pepper                 |
+| Friday    | Breakfast | Scrambled eggs with spinach and tomatoes, whole-grain toast, apple slices |
+|           | Lunch     | Grilled chicken salad with mixed greens, cherry tomatoes, cucumbers, vinaigrette |
+|           | Dinner    | Baked salmon with steamed asparagus and quinoa        |
+|           | Snack     | Apple slices with almond butter                       |
+| Saturday  | Breakfast | Oatmeal with almond milk, sliced apples, cinnamon     |
+|           | Lunch     | Quinoa bowl with chickpeas, roasted vegetables, lemon-tahini dressing |
+|           | Dinner    | Grilled chicken breast with roasted sweet potatoes, green beans |
+|           | Snack     | Carrot sticks with hummus                             |
+
+**Week 3:**
+
+| Day       | Meal Time | Meal Description                                      |
+|-----------|-----------|-------------------------------------------------------|
+| Monday    | Breakfast | Paneer and vegetable stir-fry with brown rice         |
+|           | Lunch     | Tuna salad with lettuce, cherry tomatoes, olives, balsamic vinaigrette |
+|           | Dinner    | Paneer tikka with brown rice, cucumber salad          |
+|           | Snack     | Mixed nuts (almonds, walnuts, cashews)                |
+| Tuesday   | Breakfast | Avocado toast with poached egg, apple slices          |
+|           | Lunch     | Stir-fried tofu with broccoli, carrots, jasmine rice  |
+|           | Dinner    | Fish curry with basmati rice, sautéed spinach         |
+|           | Snack     | Rice cakes with avocado, cherry tomatoes              |
+| Wednesday | Breakfast | Smoothie with almond milk, banana, spinach, plant-based protein powder |
+|           | Lunch     | Lentil soup with whole-grain bread                    |
+|           | Dinner    | Vegetable stir-fry with tofu over brown rice          |
+|           | Snack     | Hard-boiled eggs with salt and pepper                 |
+| Thursday  | Breakfast | Scrambled eggs with spinach and tomatoes, whole-grain toast, apple slices |
+|           | Lunch     | Grilled chicken salad with mixed greens, cherry tomatoes, cucumbers, vinaigrette |
+|           | Dinner    | Baked salmon with steamed asparagus and quinoa        |
+|           | Snack     | Apple slices with almond butter                       |
+| Friday    | Breakfast | Oatmeal with almond milk, sliced apples, cinnamon     |
+|           | Lunch     | Quinoa bowl with chickpeas, roasted vegetables, lemon-tahini dressing |
+|           | Dinner    | Grilled chicken breast with roasted sweet potatoes, green beans |
+|           | Snack     | Carrot sticks with hummus                             |
+| Saturday  | Breakfast | Paneer and vegetable stir-fry with brown rice         |
+|           | Lunch     | Tuna salad with lettuce, cherry tomatoes, olives, balsamic vinaigrette |
+|           | Dinner    | Paneer tikka with brown rice, cucumber salad          |
+|           | Snack     | Mixed nuts (almonds, walnuts, cashews)                |
+
+**Week 4:**
+
+| Day       | Meal Time | Meal Description                                      |
+|-----------|-----------|-------------------------------------------------------|
+| Monday    | Breakfast | Avocado toast with poached egg, apple slices          |
+|           | Lunch     | Stir-fried tofu with broccoli, carrots, jasmine rice  |
+|           | Dinner    | Fish curry with basmati rice, sautéed spinach         |
+|           | Snack     | Rice cakes with avocado, cherry tomatoes              |
+| Tuesday   | Breakfast | Smoothie with almond milk, banana, spinach, plant-based protein powder |
+|           | Lunch     | Lentil soup with whole-grain bread                    |
+|           | Dinner    | Vegetable stir-fry with tofu over brown rice          |
+|           | Snack     | Hard-boiled eggs with salt and pepper                 |
+| Wednesday | Breakfast | Scrambled eggs with spinach and tomatoes, whole-grain toast, apple slices |
+|           | Lunch     | Grilled chicken salad with mixed greens, cherry tomatoes, cucumbers, vinaigrette |
+|           | Dinner    | Baked salmon with steamed asparagus and quinoa        |
+|           | Snack     | Apple slices with almond butter                       |
+| Thursday  | Breakfast | Oatmeal with almond milk, sliced apples, cinnamon     |
+|           | Lunch     | Quinoa bowl with chickpeas, roasted vegetables, lemon-tahini dressing |
+|           | Dinner    | Grilled chicken breast with roasted sweet potatoes, green beans |
+|           | Snack     | Carrot sticks with hummus                             |
+| Friday    | Breakfast | Paneer and vegetable stir-fry with brown rice         |
+|           | Lunch     | Tuna salad with lettuce, cherry tomatoes, olives, balsamic vinaigrette |
+|           | Dinner    | Paneer tikka with brown rice, cucumber salad          |
+|           | Snack     | Mixed nuts (almonds, walnuts, cashews)                |
+| Saturday  | Breakfast | Avocado toast with poached egg, apple slices          |
+|           | Lunch     | Stir-fried tofu with broccoli, carrots, jasmine rice  |
+|           | Dinner    | Fish curry with basmati rice, sautéed spinach         |
+|           | Snack     | Rice cakes with avocado, cherry tomatoes              |
+
 ## Customization
 
 - Add new agents in `agents/inneragents/` for specialized tasks.
