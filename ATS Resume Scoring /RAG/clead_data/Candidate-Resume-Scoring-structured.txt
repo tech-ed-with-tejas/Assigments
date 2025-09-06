@@ -1,0 +1,137 @@
+
+=== Page 1 ===
+Candidate Resume Scoring
+
+
+=== Page 2 ===
+Table of Contents
+-  • Data Input • Process • Recommendation • Stack Ranking • Success Evaluation • Value Generation • Non-Goals 02 03 03 04 05 05 06 07 08 09 09 10 11, 12
+-  Acknowledgements
+-  Definitive Hiring Guide on Candidate Screening
+
+
+=== Page 3 ===
+ Introduction
+-  Getting a bunch of candidates for your open job positions leads to a large amount of time being wasted on checking their resumes. Such a bottleneck is not acceptable if you want to ease out the process. Automating resume screening is one of the best options in such a case. What is resume screening? Well, it is the process of identifying what qualities a candidate consists of and then scoring them based on these skills that they consist of.
+-  This allows the recruiters to get a clear view of whether the candidate is eligible for the said position. Especially when there is a lot of information being provided in the resume finding that one essential factor which will qualify the candidate is important. This can now be automated with the resume screening procedure.
+-  Resume screening is also said to be a part of the candidate screening procedure. With multiple stages being involved in the candidate screening, it is essential to remove as many bottlenecks as possible and change the process to an efficient one. Resume screening hence proves to be a crucial step to determine whether the candidate can move on to the next stage of interviewing. This method increases efficiency especially when high-volume applications are being sent in.
+-  The screening will help search for three parts of a resume such as:
+-  Must-haves are the utmost important skills, whereas happy-to-haves are those that will add-on to the efficiency of the position and the impressions such as a candidate’s communication and team-building skills will also play a part in this selection.
+
+Experience TurboHire live in action
+-  Definitive Hiring Guide to Candidate Resume Scoring
+
+
+=== Page 4 ===
+ Problem
+-  For every open job, organizations receive a high flow of candidate resumes which then have to be manually screened by the recruitment teams.
+-  This approach of screening candidates is inefficient in the following way:
+
+Solution
+-  The standard industry approach is to use an AI-powered resume scoring tool that can mimic recruiters mindset by utilizing various parameters from resumes to highlight the relevant candidates towards the top of the stack-rank.
+-  For every job, candidates will be scored based on the following criteria:
+-  Other criteria for scoring candidates are found in the appendix.
+-  Definitive Hiring Guide to Candidate Resume Scoring
+
+
+=== Page 5 ===
+Evaluation Approach
+-  This section aims to briefly describe the approach followed by the teams to evaluate the outcome of the engine.
+
+
+=== Page 6 ===
+ 
+-  The client shared 156 job profiles consisting of various features required for scoring candidates for the job profile.
+-  Further to job data, the following candidate data will also be provided:
+-  A database of over 11K profiles will be shared for evaluation purposes Hired candidate data mapped to job profiles
+-  The process would be divided into 3 parts post the data is available:
+
+Definitive Hiring Guide to Candidate Resume Scoring
+
+
+=== Page 7 ===
+ Recommendation
+-  The recommendation engine will be aimed to sort the candidate profiles across different job profiles
+-  The output of this step is the mapping of candidates with existing job profiles in the following format:
+-  Candidate ID Job Profile Score John Profile 1 70 John Profile 2 70 Albert Profile 3 69 Albert Profile 2 55 Jane Profile 4 60 Jane Profile 3 50 Jane Profie 2 40
+
+Definitive Hiring Guide to Candidate Resume Scoring
+
+
+=== Page 8 ===
+ Stack Ranking
+-  The scoring engine will rank all the candidates in the pool of candidates for every job profile with the following scores
+-  Qualification Score (QS) - %age score for matching qualification
+-  This data will be made available for every job profile in the following format:
+-  Candidate ID Actual Stage Rank OS SS ES QS John Hired 1 70 20 7 44 Jane Pool 2 70 20 13 38 Albert Hired 3 69 20 7 43 William Pool 4 69 20 7 43 Raj Pool 5 67 20 13 34 Shane Pool 6 67 20 0 48
+
+Definitive Hiring Guide to Candidate Resume Scoring
+
+
+=== Page 9 ===
+ Success Evaluation
+-  There will be two levels of evaluation of the ranking engine. The first one will be evaluated based on the historic evaluation of offered candidates and the second one will be based on the human-in-the-loop approach
+-  During this evaluation, we will look at the rank of the offered candidates for each job profile.
+-  Success - Average rank of offered candidates to be within 25 across all jobs.
+-  The second evaluation will be done by a human being who will rank the candidate as (Relevant, Non Relevant). The scoring engine is expected to generate relevant candidates as per the following tables:
+-  Success: Out of 156 Jobs At least 120 Have Good Or Great Rating For All Top, 5 scores
+
+Definitive Hiring Guide to Candidate Resume Scoring
+
+
+=== Page 10 ===
+ 2022 Hiring Guide
+
+ Value Generation
+-  This approach to candidate scoring generates value for the organization with:
+
+ Non-Goals
+-  This approach to candidate scoring is not supposed to be a replacement of the manual recruiter screening but as an aid to the process of candidate selection
+-  The following are situations where the engine might not perform well
+
+ Experience TurboHire live in action
+
+Definitive Hiring Guide to Candidate Resume Scoring
+
+
+=== Page 11 ===
+ 2022 Hiring Guide
+-  Out of a complete Resume application of 11,000, AI was able to extract a total 1,161 candidates relevant for any job, reducing user effort by 90% in one go.
+-  Total Jobs 156 Total Resumes 11,000 Non-Relevant Resumes filtered out by AI 90% Top 5 (1 or More Relevant) 78% Top 5 (2 or More Relevant) 67%
+-  The above results are generated using the out-of-the-box model, is expected to reach the following numbers as the self-learning AI sees more shortlist data in the organization.
+
+Definitive Hiring Guide to Candidate Resume Scoring
+
+
+=== Page 12 ===
+Appendix
+-  The following list contains a table of features utilized by the scoring engine to rank candidates for available job profiles.
+-  Feature Description Approach Skills YoE Job Title/Role Education Background Watchlisted Companies This feature will cover all The skills will be extracted from the job descriptions & the skills important for resume using Entity detection the job & TurboHire Knowledge Graph Years of experience TurboHire will extract the years of required for a given experience from the job profile in profile unstructured or structured format & from resume The title of the role for TurboHire will extract the role which hiring is being from the JD and also utilize the canonical names for better done mapping. It will also extract previous job titles from resumes Degree will be extracted from The highest degree required by the job Job description using TurboHire Knowledge Graph & from to be held by the candidate resume using parsing Will be extracted from JD The list of recommended previous companies and from the resume of the candidate
+-  Definitive Hiring Guide to Candidate Resume Scoring
+
+
+=== Page 13 ===
+ Feature
+
+ Description
+
+Approach
+-  Skill Category Certifications Industry Domain Proficiency Soft Competency Overlay of information from It is a human-readable Knowledge Graph on top of label for a group of skills for detecting hard skills the extracted skills Relevant certifications To be extracted from job for a job role description and resumes for scoring The industry in which The industry will be taken as the candidate should input from the job descriptions have worked and will be extracted from resume based on the knowledge graph of companies TurboHire will take as input the The proficiency proficiency across a 5-pointer required for various scale and will tag resumes with skillsets for the role proficiency across these skillsets Other required TurboHire will take the softskills as inputs and will make best competency for a job efforts by analysing the resume role like communication etc. text to add competency scores
+-  Note: The above features will be utilized over time to get the required accuracy for various job roles to achieve the above mentioned success criteria
+-  Definitive Hiring Guide to Candidate Resume Scoring
+
+
+=== Page 14 ===
+Acknowledgements
+-  Recruitment begins when there is a need for hire and ends when the hire is on board. Understanding what kind of recruitment process your team would need can be really beneficial. With this knowledge, you can attract deserving candidates to your organization by capitalizing on opportunities to improve each step of the recruitment process.
+-  Research by Abheet Aggarwal Chief Data Science Officer
+-  Definitive Hiring Guide to Candidate Resume Scoring
+
+
+=== Page 15 ===
+ About TurboHire
+-  TurboHire is an end-to-end Recruitment Automation and Applicant Tracking platform that is easy-to-use and provides configurable solutions enabling recruiters to streamline their hiring process. Based on user input, we have been able to improve the quality of hire of our customers by 5x. TurboHire is powered by Augmented Intelligence and empowers users with 55+ features across every stage of hiring.
+-  It’s smart. It’s intelligent. It’s fast. More importantly, it’s customisable.
+
+Experience TurboHire live in action
+-  Definitive Hiring Guide to Candidate Resume Scoring

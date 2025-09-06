@@ -1,0 +1,1307 @@
+
+=== Page 1 ===
+ 
+-  See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/228078912
+
+ Assistive Technology Assessment Handbook
+-  Book · March 2012
+-  DOI: 10.1201/b11821
+-  101
+-  2 authors:
+
+Stefano Federici
+-  Marcia Scherer Institute for Matching Person and Technology
+-  SEE PROFILE
+-  SEE PROFILE
+-  The user has requested enhancement of the downloaded file.
+
+
+=== Page 2 ===
+Assistive Technology Assessment Handbook
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 3 ===
+ Series Edito rs
+-  President Institute for Matching Person and Technology
+-  Executive
+-  Professor Orthopaedics and Rehabilitation University of Rochester Medical Center
+-  Editor-in-Chief Disability and Rehabilitation
+-  Founding Editor Aphasiology
+
+ Published Titles
+-  Assistive Technology Assessment Handbook, edited by Stefano Federici and Marcia J. Scherer
+
+Forthcoming Titles
+-  Quality of Life Technology, Richard Schultz
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 4 ===
+ Assistive Technology Assessment Handbook
+
+Edited by Stefano Federici and Marcia J. Scherer
+-  CRC Press is an imprint of the Taylor & Francis Group, an informa business
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 5 ===
+
+-  CRC Press Taylor & Francis Group 6000 Broken Sound Parkway NW, Suite 300
+-  © 2012 by Taylor & Francis Group, LLC
+-  No claim to original U.S. Government works
+-  International Standard Book Number-13: 978-1-4398-3866-2 (eBook - PDF)
+-  This book contains information obtained from authentic and highly regarded sources. Reasonable efforts have been made to publish reliable data and information, but the author and publisher cannot assume responsibility for the validity of all materials or the consequences of their use. The authors and publishers have attempted to trace the copyright holders of all material repro- duced in this publication and apologize to copyright holders if permission to publish in this form has not been obtained. If any
+-  Except as permitted under U.S. Copyright Law, no part of this book may be reprinted, reproduced, transmitted, or utilized in any form by any electronic, mechanical, or other means, now known or hereafter invented, including photocopying, microfilming,
+-  For permission to photocopy or use material electronically from this work, please access www.copyright.com (http://www.copy- right.com/) or contact the Copyright Clearance Center, Inc. (CCC), 222 Rosewood Drive, Danvers, MA 01923, 978-750-8400. CCC is a not-for-profit organization that provides licenses and registration for a variety of users. For organizations that have been
+-  Trademark Notice: Product or corporate names may be trademarks or registered trademarks, and are used only for identifica-
+-  Visit the Taylor & Francis Web site at
+-  and the CRC Press Web site at
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 6 ===
+
+-  CRC Press Taylor & Francis Group 6000 Broken Sound Parkway NW, Suite 300
+-  © 2012 by Taylor & Francis Group, LLC
+-  No claim to original U.S. Government works
+-  Printed in the United States of America on acid-free paper
+-  International Standard Book Number: 978-1-4398-3865-5 (Hardback)
+-  This book contains information obtained from authentic and highly regarded sources. Reasonable efforts have been made to publish reliable data and information, but the author and publisher cannot assume responsibility for the validity of all materials or the consequences of their use. The authors and publishers have attempted to trace the copyright holders of all material repro- duced in this publication and apologize to copyright holders if permission to publish in this form has not been obtained. If any
+-  Except as permitted under U.S. Copyright Law, no part of this book may be reprinted, reproduced, transmitted, or utilized in any form by any electronic, mechanical, or other means, now known or hereafter invented, including photocopying, microfilming,
+-  For permission to photocopy or use material electronically from this work, please access www.copyright.com (http://www.copy- right.com/) or contact the Copyright Clearance Center, Inc. (CCC), 222 Rosewood Drive, Danvers, MA 01923, 978-750-8400. CCC is a not-for-profit organization that provides licenses and registration for a variety of users. For organizations that have been
+-  Trademark Notice: Product or corporate names may be trademarks or registered trademarks, and are used only for identifica-
+-  Assistive technology assessment handbook / editor[s], Stefano Federici, Marcia J. Scherer. p. ; cm. -- (Rehabilitation science in practice series) Includes bibliographical references and index. ISBN 978-1-4398-3865-5 (hardback : alk. paper) I. Federici, Stefano. II. Scherer, Marcia J. (Marcia Joslyn), 1948- III. Series: Rehabilitation science in practice series. [DNLM: 1. Self-Help Devices. 2. Technology Assessment, Biomedical. 3. Disabled Persons--rehabilitation. WB 320]
+-  2012000644
+-  Visit the Taylor & Francis Web site at
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 7 ===
+
+-  This book is dedicated to the psychotechnologists of today and the
+-  future, regardless of the country in which they work.
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 8 ===
+ Contents
+-  Foreword .........................................................................................................................................ix Preface .............................................................................................................................................xv
+
+ Section I The Assistive Technology Assessment Model and Basic Definitions
+-  S. Federici and M. J. Scherer
+
+Section II Assessment Professionals: Working on the Multidisciplinary Team
+-  M. J. Scherer and S. Federici
+-  8. The Psychologist.. .. 149 F. Meloni, S. Federici, A. Stella, C. Mazzeschi, B. Cordella, F. Greco, and M. Grasso
+-  Assessment ...........................................................................................................................179 K. Miesenberger, F. Corradi, and M. L. Mele
+-  © 2012 by Taylor & Francis Group, LLC
+-  vii
+
+
+=== Page 9 ===
+Section III Assistive Technology Devices and Services S. Federici and M. J. Scherer
+-  Index .............................................................................................................................................439
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 10 ===
+ Foreword
+
+Global Perspectives and Emerging Themes in Assistive Technology Assessment
+-  I am delighted and privileged to be asked by the eminent editors of this text, Stefano Federici and Marcia J. Scherer, to write a foreword. These colleagues are at the forefront of work within the field of assistive technology and have pioneered much of the current thinking resulting in both the delivery of services to individuals and transformational research. The emergence and importance of this field can be demonstrated through the emergence of Disability and Rehabilitation: Assistive Technology as a standalone journal affiliated with Disability and Rehabilitation. This journal, which embraces the broad field of assistive technology, is edited by Marcia J. Scherer, ably assisted by Stefano Federici as an editorial board member.
+-  These two journals, like this book, are characterized by their international coverage, multiprofessional publications, and interprofessional research of the highest quality. This edited volume includes contributions from five continents and reinforces the global approach to responding to the needs of individuals and in some cases communities requiring support and intervention.
+-  This is no easy challenge, and the need remains to recognize both the integrity of those contributing disciplines and individuals along with the emerging integrative approach to rehabilitation.
+-  What this text does is set a framework for future practice and research within the field of assistive technology assessment. It is clearly structured into three sections, the first of which sets the context, the second brings together perspectives from those professions working in the field, and the third focuses on assistive technology devices themselves and the positive outcomes that can emerge. Each section of this book has a separate introduction, and these contributions themselves are not only informative but reflect the vision of the editors for this field of work.
+-  Having been asked to write this introduction, it was with pleasure that I was able to read the chapters prior to their publication, and rather than repeating or simply reiterating what can readily be assimilated, I found myself reflecting on some of the emerging cross-cutting themes. Although not comprehensive, the four themes that stood out for me characterize the need to develop innovative approaches within this field while recognizing the individuality of both the user and those professionals engaged.
+-  In many ways the topic all of the authors are addressing and the field of enquiry is relatively straightforward. The advances in technology and the potential benefits that can accrue highlight the need to undertake purposeful and sophisticated forms of assessment of individuals to understand their need and how they can benefit from the wide range of available devices. These individuals themselves in different ways are looking for better outcomes in response to their disabilities and broadly through the rehabilitative process to improve in some way or other their quality of life. Therefore, assessment is the first stage of
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 11 ===
+ 
+-  Foreword
+-  this process and facilitates an evaluation of the effectiveness of the intervention that must be undertaken on a regular basis. What then emerges from my initial reading of these outstanding chapters from individuals working in this field?
+
+ Assistive Technology Is Increasingly Complex and Sophisticated, Which Needs to Be Reflected in the Assessment Process
+-  Although this actually states the obvious, it still provides one of the greatest challenges in undertaking the assessment of individuals to determine how best to deploy technology. Chapters 16, 17, and 18 highlight the sophistication emerging within the fields of technology and the potential benefits to individuals.
+-  Nevertheless, the more complex both the assessment process and the technological aids themselves become, there is a danger that they become less accessible, and a number of authors throughout this text remind us through their work of “abandonment,” with one of the greatest problems being that individuals stop using the devices. Furthermore, the more complex the assessment process, the less motivated individuals can become given their need and their understandable desire to have access to available facilities and support. And not only is the complexity difficult for the user and those professionals undertaking the assessments, but there remains the danger that they become more costly and hence have lower impact.
+-  Indeed, the process of assessment itself is costly given the number of professionals who potentially need to be engaged, and there is an “opportunity cost” issue here in terms of direct therapeutic intervention as compared with careful assessment and planning. Therefore, one of our conundrums is that the more complex and greater technological advances we make, there remains a potential threat of the extent to which these can be applied in practice, which in turn affects the vulnerability of those with disabilities.
+
+The Need for Inter- and Multidisciplinary Approaches to Assessment
+-  For me, this is then the second major issue. It is clear from this text that the assessment process is critical to future success, but that it involves a wide range of disciplines and in some cases the emergence of new interdisciplinary approaches. For example, Chapter 9 introduces for the first time to myself the role of the “psychotechnologist.” I am sure there are other integrated professional approaches yet to be brought together. As knowledge within the professional fields involved with assistive technology becomes more sophisticated and our knowledge simply grows exponentially, the capacity to introduce shared professional education and training becomes increasingly difficult.
+-  Furthermore, we do need to recognize and indeed value the different perspectives offered by the vast range of individuals working within this field through their initial education, training, and postgraduate study. There are different paradigms ranging from those working primarily in the field from a medical perspective, through to those in focused but relatively multidisciplinary professions, and on to those making such enormous contributions through their technological rather than social skills.
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 12 ===
+ 
+-  Foreword
+-  No one person or profession can any longer cover this breadth, and we therefore need to find new ways of working together.
+-  Fortunately, it is not the case that people cannot do this, but it is a time-consuming, resource-intensive process, and the outputs as prioritized and measured need to demonstrate the effectiveness of such an approach.
+-  I know that myself and Marcia J. Scherer are proud to be editing journals that encourage multidisciplinary approaches and perspectives on different aspects of rehabilitation and work hard to include contributions from diverse cultures and backgrounds. In reflecting upon these issues, we should not forget the range of professionals not included in this text, particularly those working in the field of employment, advocacy, insurance, and related business professions. There is nothing negative about recognizing the changing roles of professionals, but the challenge remains to help all of us take different perspectives and to give away some aspects of our own understanding to work better with others.
+
+ The Impact of the Environment and the Context
+-  Individuals and indeed communities both embrace and are constrained by the context in which they live. The assessment of an individual has to take this into account, and both place and context are integral to this process. In relatively structured rehabilitation, there are well-worked processes and procedures within which to undertake assessment and to draw upon the services and opportunities presented by the environment within which this is done. However, there are circumstances in which the assessment process is either limited through the resources that are available or by the requirement to respond at a pragmatic level. Community-based programs are often limited by personnel and resources and rely much more upon those living and working within that particular environment. Disasters such as those recently affecting Japan and Haiti require swift and emergency response mechanisms in which the assessment process might be less important when looking to provide assistive technologies to help support the vast numbers of individuals clearly in need. These issues are not confined to the environment or the context but to the interpersonal connections of the individual being assessed.
+-  Chapter 5 highlights the impact on caregivers and the family, but we should add to this the wide range of individual contacts, including friends, peers, and those in the workplace.
+-  This also affects the social context and influences those outputs by which the effectiveness of any intervention is judged, including economic well-being. Underpinning this in many cases is a commitment to enhance the quality of life, often through participation in the world of others with the view to retaining and playing a respected role within wider society.
+
+What the User Wants and How Can It Be Measured?
+-  The importance of participation and enhancing the quality of life as much as alleviating some aspects of disability was referred to in the previous section. In many cases these measures are more important to the individual and more greatly affect the way in which
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 13 ===
+ 
+-  Foreword
+-  the success of having access to assistive technology is measured. Chapter 15 is an excellent overview of the “user experience framework.” Any perceived improvement through the use of assistive technology must be recognized and valued by the individual himself or herself for the impact to be measured effectively.
+-  Many studies are published that do show improvement on a range of variables, and although these are important in demonstrating the efficacy of particular techniques without recourse to simply measuring the impact on the individual from his or her perspective, they do lack an element of validity.
+-  This is not to say that publications of this kind should not be published; it just further reinforces the complexity of working in the field of rehabilitation. The more recent emphasis on goal-setting both jointly with professionals and individually is a positive way forward in terms of measuring impact. There is both a realism to goal-setting and the opportunity to be aspirational and to go beyond that which perhaps others think possible. The goal of employment is not unlikely to remain critical to many for reintegration into the life experienced prior to the disability. This might not always be possible, but without understanding the perspective of the user, the success or otherwise of intervention cannot fully be understood.
+-  At the heart of undertaking an assessment of an individual for the use of assisted technology is where this person is starting from, where they want to go or believe they can get, aspirational thinking to take them further, and the journey itself. I judge that this book in the way it has brought together such a wide range of committed individuals has as its underpinning philosophy a commitment to listening to and responding positively to the voice of the individual participant. Resources are still given to rather than owned by those requiring them, and as in other changing areas such as education and social care there may yet be a further strengthening of the role of the user by providing resources from which they can choose or even purchase.
+-  I found this book stimulating, and I am proud to have had an opportunity to contribute a few thoughts. Thank you to Marcia and Stefano for this opportunity to join you in contributing to this debate.
+
+Dave J. Muller
+-  Editor-in-Chief, Disability and Rehabilitation Suffolk New College, United Kingdom
+-  The collaboration between Marcia J. Scherer and the Centre for Technological Aid and Research Ausilioteca of the Leonarda Vaccari Institute in Rome was born when Marcia, accompanied with Stefano Federici, visited our institute. On that day, a warm empathy between me and Marcia was born. An interesting brainstorm about the various activities took off: activities that we could carry out together because we realized that we share the same visions. The activities of the Leonarda Vaccari Institute—with its multidisciplinary team—reflected the working methods for the Matching Person and Technology model carried out by Professor Scherer.
+-  Almost a year later, I went to Rochester University to see Marcia again, and it was there that we managed to bring the drafting of the handbook to reality. The Ausilioteca di Roma (Centre for Technological Aid of Rome) put itself at the authors’ disposal to verify the
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 14 ===
+
+-  Foreword
+-  assistive technology assessment process model and the new competencies that had to be given to the new specific figure of the psycotechnologist.
+-  The following are just a few words to understand what the Leonarda Vaccari Institute does and, in particular, what the Ausilioteca di Roma stands for. The Leonarda Vaccari Institute, the oldest nonprofit educational institution in Italy, addresses the special needs of children, adolescents, and adults with disabilities. Founded in 1936 by Professor Marchesa Leonarda Vaccari to help children affected with polio, today the institute provides comprehensive service to hundreds of individuals each year. The Leonarda Vaccari Institute is acknowledged as the Moral Entity with Royal Charter No. 2032 and public noncommercial initiative certified by the Region of Lazio; the institute functions under the National Health Service. Established 75 years ago, today the institution is one of the most experienced centers for the rehabilitation of people affected by severe mental and/ or physical disabilities between the developmental stages of childhood and adulthood. On December 8, 2007, the President of Italy, Giorgio Napolitano, awarded the Leonarda Vaccari Institute with the Gold Medal of Merit for Public Health Service. In the same year, the center was included in the 2° “Eurispes survey” among the 100 Italian Centres of Excellence. The Vaccari Institute is certified with the ISO 9001-200 IMQ/CSQ 9211.LVA quality.
+-  The intent to provide a comprehensive diagnosis and to help people with disabilities with their special needs have been one of the initiative’s main concerns since its founda- tion. In accordance with the institute’s 1936 Constitution, treatment extending to the vari- ous aspects of disability can be synthesised in three procedures: medical care, education, and integration into the labor market. Since then, the Leonarda Vaccari Institute has been expanding its activities throughout comprehensive and individualized interventions, bringing a multidisciplinary analysis to every single case. Each day, the Vaccari Institute provides support to more than 300 people who require re-education and rehabilitation care within the framework of full-time hospital care, day care, or outpatient services. The institute provides a large number of therapies such as kinesitherapy and logotherapy, alternative communication, psychosensory stimulation, respiratory exercises, drama, etc., all charged to the National Health Service. The diagnostic team is composed of experi- enced clinical and school psychologists, psychotechnologists, psychiatrists, neuropsychia- trists, neuropsychologists, pediatricians, orthopedists, rehabilitation therapists, and other professionals working in specific relative fields.
+-  In 1996, the Vaccari Institute founded the Ausilioteca di Roma, a center for technological aid and research. The sector of technological devices is characterized by a fast evolution, by the complexities of solutions that need to be found, and by the necessity to personalize these solutions. This innovative vision leads to different procedures for the various rehabilitation, welfare, and educational processes. To find an international model of assistive technology assessment, the institute has therefore initiated a fruitful collaboration with Stefano Federici of the University of Perugia, Olivetti Belardinelli of the Sapienza University of Rome, and Marcia J. Scherer of the Institute for Matching Person and Technology of Webster, NY. The success of this assistive technology assessment process lies primarily in the selection and implementation of technical aids determined by
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 15 ===
+ 
+-  Foreword
+-  The development of this sector finds its cultural motivations and improvement in the recent declaration of intents issued at the European level (e.g., Madrid 2002; European Year for People with Disabilities 2003), at the national level (e.g., Guidelines for the Rehabilitation released by the Ministry of Health in 1998), and at the international level [e.g., the International Classification of Functioning, Disability, and Health (ICF), promoted by the World Health Organization].
+-  Digital devices are instruments of an extraordinary importance apt to satisfy the needs of autonomy and quality of life of people with disabilities and their families. They also guarantee a suitable proposal by adding value to the right solutions and giving a permanent help to health service professionals and users. Moreover, a good assistive technology match can also guarantee the efficiency of the public expenses in this sector.
+-  The Ausilioteca is a highly specialized service center that operates together with the National Health Service, various public entities, and schools, sustaining different projects and the use of advanced technologies aimed to the best inclusion of people with disabilities in schools and other life environments.
+-  The handbook, realized in collaboration with academic professionals from different countries (United States, Europe, Australia, Brazil, and Japan), contains a scientific pattern for the assignment of assistive technologies to people with disabilities founded under the ICF model. The fulfillment and achievement of the model described in the handbook— together with the highlighted procedures—are one of the best practices carried out by the highly specialized personnel of the Leonarda Vaccari Institute.
+-  It is with satisfaction and gratitude that I thank the authors of the handbook and in particular the editors, Marcia J. Scherer of the Institute for Matching Person and Technology and Stefano Federici of the University of Perugia, for their useful and splendid work.
+
+Saveria Dandini De Sylva
+-  Executive President Istituto Leonarda Vaccari
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 16 ===
+Preface
+-  This book is the result of scientific collaboration and sincere friendship that was born in 2001 and has gradually strengthened over time.
+-  The collaboration begins with the creation, at the Faculty of Psychology, Sapienza University of Rome, of the first course in psychotechnology that was held in Italy. This course aimed to combine multiple topics, bringing together technological and ergonomic arguments and issues concerning the psychology of rehabilitation to train competent psychologists within assistive technology provision.
+-  The course was designed by Stefano Federici and held at the Sapienza University of Rome from 2001 to 2008. The term “psychotechnology,” with the meaning adopted and introduced in the psychology of rehabilitation by Federici, initially sounded like a neologism. In fact, the objective of the course was to integrate technology and ergonomic aspects with those more specific of cognitive ergonomics, reread under the lens of the biopsychosocial model of disability, to train psychologists with both psychological and technological expertise and who were able to lead a user to meet their needs. Only in this way would it have been possible for the user to search and find a technological product that not only was satisfactory to his or her own person, but was also able to support him or her in the integration process within its milieu, by preventing, compensating, monitoring, relieving, or neutralizing disability and social barriers. Therefore, the psychotechnologist should possess those skills to be spent in centers for technical aid that, at the end of the last millennium, have begun to be characterized as autonomous centers of technology device assessment and assignment for an individual’s disability and independent living.
+-  The main theoretical difficulty in designing the psychotechnology course was to integrate technological-engineering models—not dissimilar in some way by certain models of cognitive functioning that tend to generalize and idealize the individual— with the biopsychosocial model of disability. The ergonomic approach to technology, both of cognitive and engineering types, indeed often tends to neglect the emotional, motivational, and social user experience so that it does not take into account those factors that very often affect it with a higher rate of incidence in the successful outcome in device use.
+-  The discovery by Federici of the Matching Person and Technology model by Marcia J. Scherer was like the key to squaring the circle. It is a model that has combined people with disabilities’ needs with assistive technologies in a user-centered context, without neglecting the functional and ergonomic features of the device. The answer to that fateful question was found, namely, that the psychotechnologist usually turned to him- or herself to find an effective integration of knowledge. As Federici was used to repeating in the psychotechnology course at the Sapienza University of Rome: “This course could also be called ‘Matching Person and Technology from the psychologist’s standpoint’.”
+-  The collaboration between the Sapienza University of Rome and the Institute for Matching Person and Technology has produced dozens of theses and several doctoral dissertations concerning the adaptation and validation of the Matching Person and Technology model and tools or related to the professional profile and role of the psychologist in the assistive technology assessment and assignment processes. Some of those researchers and students are now successful professionals in psychotechnology. Furthermore, many authors who
+-  © 2012 by Taylor & Francis Group, LLC
+-  xv
+
+
+=== Page 17 ===
+
+-  xvi
+-  took part in writing of the chapters of this book come from that experience of study and research.
+-  However, the collaboration and friendship between Marcia and Stefano has not only led to the sharing of ideas and research projects, but they have also created a scientific network among Italian, American, and other nations’ scholars who have formed the scientific community that has allowed such a large participation of authors in the writing of this work.
+-  As the editors, let us now respond to the reasons for this book, which certainly was not intended to be a history of this social network or a biography of its editors. This book is a challenge for us: to develop an international ideal model of the assistive technology assessment process that gathers the most recent scientific developments in the assessment and provision of technical aids for an outcome that, if reached, would be a real success—the well-being of the disabled person. Therefore, this model intends to express in an idealized and essential form an assessment process performed in a center for technical aid because it provides such tools for the assessment and the professional profiles that we might also define as “psychotechnological.”
+-  Of course, just because we speak of “challenge,” we reveal our awareness about the problems and limitations of an “international” ideal model. For example, one of the unsolved problems is the difficulty, already met several times, in defining the features of a center for technical aid. The modeling process of a center for technical aid is difficult if one takes into account the extraordinary variety of systems of regional and national health and social care, both public and private. This variety influences in different ways the specific characteristics that are required at a center. Furthermore, the different nature of the center for technical aid makes problematic the definition itself of the individual who addresses to it: user, patient, client, or consumer? The user (for convenience we use this definition, a little more generic than the others) of a center for technical aid could be a patient of a physician (physiatrist) who operates in a national system of health care and sends him or her to a specialized facility, the center for technical aid indeed, for a more thorough assessment of a particular device. This assessment can be provided free of charge if the center is part of a national health system or by paying out money if the center is part of a private health system. Furthermore, the product chosen by the user could be sold or assigned directly from the center for technical aid or, alternatively, the device provision may be made later by other providers, external and independent from the center for technical aid.
+-  These are just some of the issues to be discussed by the authors of this book. In fact, other issues will be also addressed that are even more problematic from a scientific viewpoint. We refer to those that are intrinsically linked to the design of an international model. Because of the difficulty in finding an adequate and effective synthesis of the various models proposed by specific national systems of public health and welfare, the scientific community faces a modeling of assistive technology system delivery that will be increasingly individualized with respect to either the social and cultural diversity of users or to the necessary adjustment of the center for technical aid’s functioning to the local health system. However, it should be noted that this particularization of the models clashes with some trends that are aimed at instead promoting their globalization (for example, this occurs both in social and health policies of the European Community and in those of the World Health Organization). The internationalization of a model is indeed advantageous because it often emerges as a synthesis of experiences and know- hows of regional models. Moreover, it offers the opportunity, by sharing the theoretical
+-  © 2012 by Taylor & Francis Group, LLC
+-  Preface
+
+
+=== Page 18 ===
+
+-  Preface
+-  model and evaluation criteria, to share data essential to scientific research, planning, and evaluation of national and international policies and verify the quality of public services.
+-  A goal that we set in the writing of this project was to narrow the topics, trying to legitimate the choice made. In fact, our intention was not only to provide a theoretical text that aims to develop an ideal model of assistive technology assessment processes, but also to provide an operational tool that is able to outline both the specific space of applicability of the model itself and the main characteristics of a center for technical aid’s functioning, a tool-kit for a proper assessment, and profiles of professionals acting within the center. Moreover, it even seemed essential for us to compare our model with some of the most advanced researches in technologies for rehabilitation and supports for independent living. However, we were well aware that a detailed description of all matters regarding the functioning of a center for technical aid (i.e. assessment tools, professional profiles, the latest technology devices for rehabilitation and independent living) would have required an encyclopedia and not a manual such as this book. Therefore, and this could be read both as a limit and as well an advantage of this book, we have chosen, for each of the three areas mentioned—the tools of evaluation, the experts of the evaluation in a center for technical aid and new technologies—the aspects of the current state of the art that we judged as the most representative or innovative. So, we not only identified for each topic the leading experts and invited them to write about their topic, but also, where possible, we tried to ensure that each chapter was written by more hands, concerted and promoting cross-cultural viewpoints. For this reason, the reader should certainly not be surprised if he or she will not find mention some professions among those that could be treated in such a manual. We tried to give more prominence to the definition, training, and professional role of the new profession of psychotechnologist, as well as to highlighting the professional profile of the speech language pathologist because of the relevance of dysfunctions in language in today’s international health and social policies.
+-  Finally, we would like to stress that this book does not intend to model the assistive technology assessment process as a result of a mere academic mental exercise, but it has even faced an applied research of the model. This is for two main reasons: The theoretical view of the authors’ chapters and editors emerge from experimental research applied to rehabilitation and assistive technologies. In addition, the international ideal model of the assistive technology assessment process is already applied in centers for technical aid. Thanks to scientific and clinical collaboration, economic and operational support of the Centre for Technical Aid of Rome, Leonarda Vaccari Institute—which, in turn, is part of the Italian Network of Centres Advice on Computer and Electronic Aids and cooperates with the Institute for Matching Person and Technology and Columbia University, with whom it shares the principles that underlie the assistive technology assessment process—it was possible to define the assessment model proposed in this book because the model is already operative in the Centre for Technical Aid of Rome. This center offers a noncommercial advisory and support on assistive technology and computers for communication, learning, and autonomy. The service is free of charge for users who access it through the Italian National Health Service. Several scientific projects granted by the institute are in progress at the center to verify not only the advantages of a systematic application of the Matching Person and Technology tools in the assessment process, but also the application of the assistive technology assessment process model. Some results will be presented and discussed in the chapters of this book.
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 19 ===
+
+-  xviii
+-  Sincere thanks go to the authors of the chapters who have welcomed with enthusiasm our model, enriching in many parts the initial draft of this work and giving it a wide-ranging speech that is updated and credible. Special thanks also go to the publisher, Taylor & Francis, who accepted the project with competence, supporting the long process of drafting and revising the work. Again, special thanks go to many peer-reviewers of the chapters, who have played a generous and valuable role, such as guarantors for the scientific nature and validity of each contribution as well as representatives of the international scientific community in this area.
+-  © 2012 by Taylor & Francis Group, LLC
+-  Preface
+
+
+=== Page 20 ===
+ Contributors
+
+ M. Adya
+-  Burton Blatt Institute Syracuse University Syracuse, New York
+
+ R. Amantis
+-  Leonarda Vaccari Institute for Rehabilitation Integration, and Inclusion of Persons with Disabilities Rome, Italy
+
+ G. Basili
+-  Department of Pediatrics Senigallia General Hospital Senigallia, Italy
+
+ N. Birbaumer
+-  Institute of Medical Psychology and Behavioral Neurobiology Eberhard-Karls University Tübingen, Germany
+-  and
+-  IRCCS, San Camillo Scientific Hospital Institute Venezia Lido, Italy
+
+ S. Borsci
+-  Department of Human Science and Education University of Perugia Perugia, Italy
+-  and
+-  and
+-  © 2012 by Taylor & Francis Group, LLC
+
+ L. W. Braga
+-  Director, Neurosciences and Neurorehabili tation Division SARAH Network of Neurorehabilitation Hospitals Brasilia, Brazil
+-  C. M. Capio Institute of Human Performance University of Hong Kong Hong Kong, China
+
+ C. M. Capio
+
+ B. Cordella
+-  Department of Dynamic and Clinical Psychology Sapienza University of Rome Rome, Italy
+
+ F. Corradi
+-  Leonarda Vaccari Institute for Rehabilitation Integration, and Inclusion of Persons with Disabilities Rome, Italy
+
+ V. Corsi
+-  F.A.R.E—Specialist Centre for Dyslexia and Learning Difficulties Perugia, Italy
+
+ G. Craddock
+-  Centre for Excellence in Universal Design Dublin, Ireland
+
+I. L. de Camillis Gil
+-  Neurological Rehabilitation Division SARAH Network of Neurorehabilitation Hospitals
+-  xix
+
+
+=== Page 21 ===
+ D. de Jonge
+-  Division of Occupational Therapy School of Health and Rehabilitation Sciences University of Queensland Brisbane St. Lucia, Queensland, Australia
+
+ L. Demers
+-  School of Rehabilitation Université de Montréal Montréal, Quebec, Canada
+
+ E. Di Giacomo
+-  Department of Computer Engineering University of Perugia Perugia, Italy
+
+ A. Eldridge
+-  Division of Occupational Therapy School of Health and Rehabilitation Sciences University of Queensland Brisbane St. Lucia, Queensland, Australia
+
+ S. Federici
+-  Department of Human Science and Education University of Perugia Perugia, Italy
+-  and
+-  CIRID - Interdisciplinary Centre for Integrated Research on Disability Sapienza University of Rome Rome, Italy
+
+ A. Gossett Zakrajsek
+-  Occupational Therapy Program School of Health Sciences Eastern Michigan University Ypsilanti, Michigan
+
+ M. Grasso
+-  Department of Dynamic and Clinical Psychology Sapienza University of Rome Rome, Italy
+-  © 2012 by Taylor & Francis Group, LLC
+
+ F. Greco
+-  Department of Dynamic and Clinical Psychology Sapienza University of Rome Rome, Italy
+
+ K. Hill
+-  Performance and Testing Teaching Laboratory School of Health and Rehabilitation Sciences University of Pittsburgh Pittsburgh, Pennsylvania
+
+ M. Kurosu
+-  Center of ICT and Distance Education Open University of Japan Chiba City, Japan
+
+ G. E. Lancioni
+-  Department of Psychology University of Bari Bari, Italy
+
+ G. Liotta
+-  Department of Computer Engineering University of Perugia Perugia, Italy
+
+ A. Lo Presti
+-  CIRID Interdisciplinary Centre for Integrated Research on Disability Sapienza University of Rome Rome, Italy
+-  R. Magni Pragma Engineering Sr1 Perugia, Italy
+
+G. Mascolo
+-  External collaborator at the Department of Dynamic and Clinical Psychology Sapienza University of Rome Rome, Italy
+
+
+=== Page 22 ===
+ 
+-  Contributors
+
+ C. Mazzeschi
+-  Department of Human Science and Education University of Perugia Perugia, Italy
+
+ P. Mecocci
+-  Institute of Gerontology and Geriatrics University of Perugia Perugia, Italy
+
+ M. L. Mele
+-  ECoNA—Interuniversity Centre for Research on Cognitive Processing in Natural and Artificial Systems Sapienza University of Rome Rome, Italy
+
+ F. Meloni
+
+ CIRID
+-  Interdisciplinary Centre for Integrated Research on Disability, and Department of Psychology Sapienza University of Rome Rome, Italy
+-  K. Miesenberger Institute Integriert Studieren University of Linz Linz, Austria
+
+ M. Mirza
+-  Institute for Healthcare Studies Northwestern University Chicago, Illinois
+-  M. Morris Burton Blatt Institute Syracuse University Syracuse, New York
+
+ B. W. Mortenson
+-  School of Rehabilitation Université de Montréal Montréal, Quebec, Canada
+-  © 2012 by Taylor & Francis Group, LLC
+
+ M. Olivetti Belardinelli
+-  Department of Psychology and CIRID Interdisciplinary Centre for Integrated Research on Disability Sapienza University of Rome Rome, Italy
+-  and
+
+ D. Oliva
+-  Lega F. D’Oro Research Center Osimo, Italy
+
+ M. F. O’Reilly
+-  Meadows Center for Preventing Educational Risk University of Texas at Austin Austin, Texas
+-  M. Orlandi Vision Research Center of Rome Rome, Italy
+
+ E. Pasqualotto
+-  Institute of Medical Psychology and Behavioral Neurobiology Eberhard-Karls University Tübingen, Germany
+
+M. Pigliautile
+-  Institute of Gerontology and Geriatrics University of Perugia Perugia, Italy
+-  and
+-  Department of Psychology Sapienza University of Rome Rome, Italy
+
+
+=== Page 23 ===
+ 
+-  xxii
+
+ K. S. Pinto
+-  Pediatric Rehabilitation Divisison SARAH Network of Neurorehabilitation Hospitals Brasilia, Brazil
+
+ D. Samant
+-  Burton Blatt Institute Syracuse University Syracuse, New York
+
+ M. J. Scherer
+-  Institute for Matching Person & Technology, Inc. Webster, New York
+-  and
+-  Burton Blatt Institute Syracuse University Syracuse, New York
+
+ P. S. Siebra Beraldo
+-  Clinical Research Division SARAH Network of Neurorehabilitation Hospitals Brasilia, Brazil
+
+ J. Sigafoos
+-  School of Psychology and Pedagogy Victoria University of Wellington Wellington, New Zealand
+
+ N. N. Singh
+-  American Health and Wellness Institute Verona, Virginia
+-  © 2012 by Taylor & Francis Group, LLC
+-  Contributors
+
+ C. H. P. Sit
+-  Institute of Human Performance University of Hong Kong Hong Kong, China
+-  and
+-  Department of Sports Science and Physical Education Chinese University of Hong Kong, China
+
+ A. Stella
+-  Department of Comparative Cultures University for Foreigners Perugia, Italy
+
+ L. Tiberio
+-  Institute for Cognitive Science and Technologies National Research Council of Italy Rome, Italy
+
+ B. Turella
+-  Department of Psychology Sapienza University of Rome Rome, Italy
+
+ P. M. Wielandt
+-  Department of Occupational Therapy School of Health & Human Services Central Queensland University Rockhampton, Australia
+
+S. Zapf
+-  Children’s Journey to Shine, Inc. Houston, Texas
+
+
+=== Page 24 ===
+ The Assistive Technology Assessment Model and Basic Definitions
+-  S. Federici and M. J. Scherer
+
+Introduction
+-  As a part of the human condition, “Disability is complex, dynamic, multidimensional, and contested” (WHO and World Bank 2011, p. 3). The concept of disability conveys a very wide set of different and correlated issues: from disability models to individual functioning and its measurement, from social barriers to the digital divide, from the objective quality of life to subjective experience, to concepts of functioning, activity and participation, human rights and poverty, health and well-being, morbidity, and quality of life (WHO and World Bank 2011). Because of the multidimensionality of disability, the International Classification of Functioning, Disability, and Health (ICF) would like to make clear that disability (and its correlated term “functioning”) must be understood as an umbrella term, “encompassing all body functions, activities and participation” (WHO 2001, p. 3).
+-  Disability’s multidimensionality and complexity entails a kind of “definitional paradox” (Madans and Altman 2006): On the one hand, any theoretical definition of disability implies aporia, and on the other hand, operational meaning is determined by the purpose of research. In fact, Mont explains:
+-  [If] each domain represents a different area of measurement and each category or ele- ment of classification within each domain represents a different area of operationaliza- tion of the broader domain concept, [then] to generate a meaningful general prevalence measure one must determine which component best reflects the information needed to address the purpose of the data collection. (2007, p. 4)
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 25 ===
+ 
+-  Section I: The Assistive Technology Assessment Model and Basic Definitions
+-  user/client and assistive solution. Because the assistive solution represents the outcome of a user-driven process aimed toward the improvement of individual functioning, it can be considered as a mediator of quality of life and well-being in a specific context of use. For these reasons, it is important to underscore that the assistive solution does not coincide with AT because the first one is a complex system in which psycho-socio-environmental factors and AT interact in a nonlinear way by reducing activity limitations and participation restrictions by means of one or more technologies.
+-  The definition of ATA represents the core definition of this handbook, summarizing the properties of the ATA process. All of the chapters in the section first refer to this definition and follow a guiding reference model (see Figure I.1).
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 26 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 27 ===
+ Assessing Individual Functioning and Disability
+-  S. Federici, M. J. Scherer, F. Meloni, F. Corradi, M. Adya, D. Samant, M. Morris, and A. Stella
+
+ CONTENTS
+-  Classification, Declaration, and International Definitions of Functioning and Disability ...............................................................................................................................13 Where Individual Functioning and Disability Are Assessed: Assistive and Rehabilitation Technology Service Delivery Models .....................................................16 1.3.1 Charity-Based Models .............................................................................................17 1.3.2 Community-Based Rehabilitation Models ...........................................................17 1.3.3 Individual Empowerment Models ........................................................................17 1.3.4 Entrepreneurial Models ..........................................................................................17 1.3.5 Globalization Model ................................................................................................18 1.3.6 Universal Design Models........................................................................................18 Assessing Individual Functioning and Disability in the ATA Process .......................20
+
+1.1 The Universal Model of Disability
+-  The origins of the biopsychosocial model date back to the proposal put forward by psy- chiatrist George Engel in 1977 to integrate within the medical model the dominant social and psychological variables:
+-  The dominant model of disease today is biomedical, and it leaves no room within its framework for the social, psychological, and behavioural dimensions of illness. A bio- psychosocial model is proposed that provides a blueprint for research, a framework for teaching, and a design for action in the real world of health care. (1977, p. 130)
+-  Engel made the leading theoretical contribution to building the biopsychosocial model, identified in von Bertalanffy’s general systems theory (von Bertalanffy 1950). According to this approach, the unifying principles in the scientific context are not a reduction of but the organization that explains a scientific phenomenon. It is not sufficient to divide a scientific phenomenon into a simpler unit of analysis and study such units one by one, but it is necessary to study the interrelations among these units. We contrast the old scientific method, which refuses all forms of teleology and is based on linear causality and relations
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 28 ===
+ 
+-  Assessing Individual Functioning and Disability
+-  technical aid column, Figure 1.2) and subjective (the user’s actions column, Figure 1.2), or rather between the objective and subjective functioning measurements. The features of this dynamic, within the assessment process, tie professionals of rehabilitation to finding solutions that take into consideration the social and cultural context of an individual.
+
+ 1.6 Conclusions
+-  An ATA model is needed and proposed in this chapter that is consistent with the ICF in that it emphasizes the individual’s well-being and the best match between the user/client and the assistive solution. This requires a user-driven process through which the selection of one or more technological aids for an assistive solution is facilitated by the comprehensive use of clinical measures, functional analysis, and psycho-socio-environmental evaluations.
+
+ Summary of the Chapter
+-  This chapter discusses the biopsychosocial model as operationalized by the WHO’s International Classification of Functioning, Disability, and Health, the Convention on the Rights of Persons with Disabilities, the 2002 AAMR Definition, Classification, and System of Supports, and most recently the World Report on Disability. A move from the medical to social view of disability requires that assistive technology professionals view disability as existing within a cultural, political, and economic milieu. International models of assistive technology service delivery are reviewed and the need for enhanced assessment of the person with a disability’s functioning is highlighted in order to achieve a good match of person and technology.
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 29 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 30 ===
+ Measuring Individual Functioning
+-  S. Federici, F. Meloni, and F. Corradi
+
+ CONTENTS
+-  2.1.1 The Best Measure: Is There an Elixir of Measurements for Turning an Assessment into Gold? ............................................................................................25 2.1.1.1 Fitting Measure for the Purpose of the Assistive Technology Assessment .................................................................................................28 2.1.1.2 From the Measures to the Purposes (Well-Being), from the Purposes to the Measurers (Multidisciplinary Team) .........................29 2.1.1.3 What Is Measured Versus Who Measures: Balancing the Power of the Assessment .....................................................................................30 2.2.1 Guidelines for Measurement and Assessment ....................................................31 2.2.2 Measurement and Assessment in the ATA Process ...........................................32 2.2.3 Monitoring Individual Functioning in the Context of an AT Use: The Outcome of the ATA Process..................................................................................34 2.3.1 Outcome Analysis Tools .........................................................................................39
+
+ 2.1 What Individual Functioning Measures
+
+2.1.1 The Best Measure: Is There an Elixir of Measurements for Turning an Assessment into Gold?
+-  In June 2001, the U.N. International Seminar on the Measurement of Disability brought together a large number of experts in disability measurement from developed and devel- oping countries to review the current status of methods used in population-based data collection activities to measure disability in national statistical systems (UN 2001). The seminar developed recommendations and priorities to advance work on the measurement of disability. In particular, the seminar improved principles and standard forms for global indicators of disability for use in censuses and helped to build a network of institutions and experts given the broad consensus on the need for population-based measures of disability for countrywide use and international comparisons. The U.N. international seminar experts selected the International Classification of Functioning, Disability, and
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 31 ===
+ 
+-  valid for every assessment. Additionally, the only guiding principle for a proper mea- surement is the clarity of the purpose of the measurement. The second section focuses on how to measure individual functioning by both pointing out some guiding principles for choosing and applying a set of measures and by suggesting some tools that fit these principles. The third section suggests some measurement tools for an ATA process used in a center for technical aid.
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 32 ===
+
+-  Lain Entralgo, P. (1982). El Diagnostico Medico. Barcelona, Spain: Salvat.
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 33 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 34 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 35 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 36 ===
+ Measuring the Assistive Technology Match
+
+ F. Corradi, M. J. Scherer, and A. Lo Presti
+
+ CONTENTS
+-  Introduction ..........................................................................................................................49 3.2.1 The ICF and Other Outcome Measures ................................................................51 3.2.2 The Matching Person and Technology Model .....................................................52 3.2.3 The MPT Process and Measures ............................................................................55 3.2.4 The MPT Model and the ICF ..................................................................................58 3.2.5 Different Versions of Matching Person and Technology ...................................58 3.3.1 The ATA Process in the Center for Technical Aid and in the Rehabilitation Project ..............................................................................................60
+
+3.1 Introduction
+-  The World Health Organization (WHO) Disability and Rehabilitation Action Plan 2006– 2011 (2006) reports that approximately 10% of the world’s population experiences some form of temporary or permanent disability. This document highlights that assistive tech- nology (AT) may be a helpful aid for people with disabilities “to increase their level of inde- pendence in their daily living and to exercise their rights” (WHO 2006, p. 5). To achieve this goal, it is necessary to further the development, production, distribution, and support to use AT. In particular, the aims of the WHO are to
+-  WHO’s World Report on Disability (2011) affirms this commitment.
+-  Different studies show an average rate of approximately 30% of abandonment of AT within the first year of use, realizing that rates vary depending on the type of AT (Philips and Zhao 1993; Scherer 1998; Kittel et al. 2002; Scherer et al. 2004, 2005; Dijcks et al. 2006). A recent study (Federici and Borsci 2011) found approximately 25% AT abandonment in a
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 37 ===
+ 
+-  and private centers for technical aid provision, allowing them to compare, evaluate, and improve their own matching model. The actions required by the ATA model to centers for technical aid can be divided into four fundamental steps: access to the structure and acti- vation of the process, evaluation and activation of the aid/AT selection, delivery, and fol- low-up. The ATA is a user-driven process through which the selection of one or more aids/ AT is facilitated by the utilization of comprehensive clinical measures, functional analysis, and psycho-socio-environmental evaluations that address, in a specific context of use, the personal well-being of the user through the best matching of user/client and assistive solution (Scherer et al., Early Online). Because the ATA process and the MPT model and accompanying measures share a user-driven working methodology and embrace the ICF biopsychosocial model, they can be integrated within a path aiming for the best combina- tion of AT to promote user/customer’s personal well-being.
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 38 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 39 ===
+
+-  Measuring the Assistive Technology Match
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 40 ===
+ The Assessment of the Environments of AT Use: Accessibility, Sustainability, and Universal Design
+-  M. Mirza, A. Gossett Zakrajsek, and S. Borsci
+
+ CONTENTS
+-  Introduction ..........................................................................................................................67 4.2 Accessibility, Sustainability, and Universal Design: An Overview ............................68 4.2.1 What Do We Mean by Accessibility, Sustainability, and Universal Design? ........................................................................................... 68 4.2.2 Interaction between Accessibility, Universal Design, and Sustainability .............................................................................................. 69 4.3 Environment Assessment in the ATA Process Based on the concepts of Accessibility, Sustainability, and Universal Design ........................................................71 4.4 The Environmental Assessment Process: An Overview ...............................................72 4.4.1 The EA Process: Step-by-Step Decision Making .................................................75 4.4.2 Case Evaluation: Considering Accessibility, Universal Design, and Sustainability Within the EA Process ...................................................................76 4.5 Conclusions ...........................................................................................................................79 Summary of the Chapter ..............................................................................................................79 Acknowledgments ........................................................................................................................80
+
+4.1 Introduction
+-  The role of the environment in inhibiting or supporting full societal participation of people with disabilities is increasingly being acknowledged. Theoretical frameworks of disability such as the social model (Oliver 1990) and the International Classification of Functioning, Disability, and Health (ICF; WHO 2001) recognize the role of the environment in “produc- ing” disability, albeit to varying extents. Even the preamble of the United Nations (UN) Convention on the Rights of Persons with Disabilities affirms that disability results from the interaction between individuals with impairments and environmental barriers (UN 2006).
+-  Furthermore, research studies have repeatedly underscored the dynamic relationship between environmental factors and the community participation of people with disabili- ties (Egilson and Traustadottir 2009; Verdonschot et al. 2009). In addition, there is a robust body of literature demonstrating that conflict between assistive technology (AT) and its context of use is an important contributor to AT nonuse and abandonment (Philips and Zhao 1993; Day et al. 2001; Kittel et al. 2002; Scherer 2002; Scherer et al. 2004, 2005; Dijcks
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 41 ===
+ 
+-  achieve the “ideal” design solution which will enhance the match between the AT, the user, and his/her environment. The second part of this chapter offers a step-by-step decision- making process to guide the multidisciplinary team to effectively evaluate the environ- ment as an on-going component of the ATA process. The overall aim of this environmental assessment process is to help practitioners arrive at an assistive solution that will optimize user participation and satisfaction in the context of use. The chapter concludes with a case study exemplifying the environmental assessment process in practice.
+
+ Acknowledgments
+-  We acknowledge the role of Ann Kathleen Barnds and Daisy Feidt in developing some of the key concepts presented in this chapter. We also thank Joy Hammel and Barbara Knecht for their valuable input and guidance in relation to the UD project that this chapter draws upon. Finally, special thanks to Hsiang-Yi Tseng for her work during the UD project.
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 42 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 43 ===
+ Measuring the Impact of AT on Family Caregivers
+
+ L. Demers and B.W. Mortenson
+
+ CONTENTS
+-  Introduction ..........................................................................................................................83 5.2.1 AT and Human Assistance .....................................................................................84 5.2.2 Caregivers of Assistance Users ..............................................................................85 5.3.1 Conceptual Framework 1 ........................................................................................87 5.3.2 Conceptual Framework 2 ........................................................................................89 5.3.3 Conceptual Framework 3 ........................................................................................90 5.4.1 Caregiver Assistive Technology Outcome Measure ...........................................91 5.4.2 Family Impact of Assistive Technology Scale......................................................92 5.4.3 Examples of Outcome Measurement With Vignettes Based on the Assistance Users/Caregiver Dyad Assistive Technology Process Model .......93 5.4.3.1 Vignette 1 ....................................................................................................93 5.4.3.2 Vignette 2 .....................................................................................................95
+
+5.1 Introduction
+-  It is generally understood that assistive technology (AT) has the potential to enhance users’ functioning, and, in the process, allow them to be less dependent on the assistance of others. However, for the vast preponderance of ATs, this secondary assumption is not buttressed by systematic evidence (McWilliam et al. 2000; Henderson et al. 2008). To create an enhanced understanding of the impact of AT on caregivers, we need (1) better empirical evidence, (2) an improved conceptual understanding of the inter-relationship of outcomes between assistance users and caregivers, and (3) more developed and refined measure- ment tools. To address these needs this chapter has the following goals:
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 44 ===
+ 
+-  test their psychometric properties. Given the stage of development of research in this area, mixed methods research studies may provide invaluable data about the impact of AT on informal caregivers from a variety of perspectives. By developing a thorough understanding of the impact of AT on assistance users and their informal caregivers, interventions that are more suitable can be offered and funding that is more appropriate can be sought.
+
+ Summary of the Chapter
+-  In this chapter, we have provided an overview of research that has explored the impact of AT on informal caregivers. We have offered informal caregiver-specific models that help explicate how AT may impact informal caregivers, and we described two measures that are intended to capture this effect. We have proposed that the process of AT provision needs to explicitly acknowledge the role of the informal caregiver. With two vignettes, this chapter provides examples of how these measures could be used to capture the impact of AT on informal caregivers. We have provided suggestions for future work in this area.
+
+ Acknowledgments
+-  Dr. Demers is supported by the Fonds de la Recherche en Sante du Quebec as a senior research scholar. Dr. Mortenson is supported via a postdoctoral fellowship for the Canadian Institutes of Health–Institute of Aging. Funding for the development of the CATOM was provided by the National Institute on Disability and Rehabilitation Research through the Consortium on Assistive Technology Outcomes Research (CATOR, http://www.outcomes. org/). (Grant # H133A060062).
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 45 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 46 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 47 ===
+ Assessment Professionals: Working on the Multidisciplinary Team
+-  M. J. Scherer and S. Federici
+
+ Introduction
+-  How disability is diagnosed and treated differs according to age at onset and the type of disability. Developmental disabilities, which occur in infancy and childhood, are typically diagnosed after behavioral and maturational anomalies are observed and are then confirmed medically. Acquired disability can occur at any time in the life span and treatment is often initiated in a hospital emergency room. Disability associated with a degenerative condition, typically associated with advanced age, is generally managed by primary care physicians, neurologists, gerontologists, and family members.
+
+Treating Developmental Disabilities
+-  Developmental disabilities such as Down syndrome or cerebral palsy cannot be “cured.” However, interventions applied as early as possible can make a great deal of difference in current and future functioning. Orthopedic and neurological impairments can be surgically corrected or medically managed. Often children with developmental disabilities undergo many treatments during their initial development with the goal of strengthening or extending the use of existing capabilities (Scherer 2005). Sensory disabilities can be greatly helped with advances in technology and the means to communicate can be made possible through alternative and augmented communication devices.
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 48 ===
+ TABLE II.1
+-  Chapters of Section II
+-  Chapter Topic 6 The Cognitive Therapist (Olivetti Belardinelli, Turella, and Scherer) 7 The Special Educator (Zapf and Craddock) 8 9 The Psychotechnologist (Miesenberger, Corradi, and Mele) 10 The Optometrist (Orlandi and Amantis) 11 The Occupational Therapist (de Jonge, Wielandt, Zapf, and Eldridge) 12 The Pediatric Specialist (Braga, de Camillis Gil, Pinto, and Siebra Beraldo) 13 The Geriatrician (Pigliautile, Tiberio, Mecocci, and Federici) 14 The Speech–Language Pathologist (Hill and Corsi)
+
+ The Joint Committee states that
+-  When cognitive, communication, emotional, and psychosocial domains are affected, the team should include at least a clinical neuropsychologist or rehabilitation psycholo- gist, and speech–language pathologist. Team membership will vary with the age of the persons served, the type of impairment, the stage of recovery, and the special training of team members (2007, p. 4).
+-  Thus, there is considerable consistency in these two views of the rehabilitation team, the first from Singapore and the second from the United States.
+-  The nine chapters presented in this section (Table II.1) focus on and describe the role of many professions in the rehabilitation of persons with disabilities and their match with appropriate assistive technologies.
+-  Each chapters was written by an international expert in his or her area of specialty. What unites these authors is not only their commitment to optimal rehabilitation outcomes, but their perspective of the biopsychosocial approach to the assistive technology evaluation, selection, and provision.
+
+ Conclusion
+-  The best rehabilitation outcomes are achieved when individuals with shared perspectives, but representing different areas of knowledge and skill, pool their expertise to derive interventions that meet the personal, psychosocial as well as physical needs and preferences of the individual with a disability. This teamwork also needs to be brought to bear on the selection and provision of assistive solutions. Each of the contributors to this section describes how this can be achieved from the viewpoint of their training and practice.
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 49 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 50 ===
+ The Cognitive Therapist
+
+ M. Olivetti Belardinelli, B. Turella, and M. J. Scherer
+
+ CONTENTS
+-  6.1 Cognitive Therapy .............................................................................................................107 6.2 The Cognitive Therapist ................................................................................................... 110 6.3 Cognitive Therapy With Individuals Having Cognitive Disability ........................... 114 6.4 Cognitive Rehabilitation ................................................................................................... 115 6.5 Assistive and Cognitive Support Technologies ............................................................. 116 6.6 Case Study ..........................................................................................................................121 6.6.1 A Real-Life Example of a Vocational Rehabilitation Counselor’s Solution-Seeking for James, Who Has Early Onset Alzheimer’s Disease .... 121 6.6.2 MPT Survey Results and Assessment Analysis ................................................122
+
+6.1 Cognitive Therapy
+-  The origins of cognitive therapy are generally grounded in behavioral therapies. This is true when we consider the original modalities of the behavioral therapies. However, in the frame of the cognitive therapy panorama, we find that it is important now for therapists to consider behavior within a psychodynamic frame.
+-  Behavioral therapy started in the 1940s and 1950s using the conditioning techniques envisaged by Pavlov for human behavior. On this basis, some authors explained human behavior by means of mediators, defined as intervening variables of a biological basis or cognitive type able to interact with antecedents through conditioning to particular consequences. The paradigm of instrumental conditioning afforded the possibility of modifying human behavior. In the first years behavioral modifications were obtained in situations in which it was easy to manipulate the environmental variables, or with subjects characterized with “cognitive simplicity,” such as children, psychotics, and “generically disabled people.” Afterward, neuroses, emotional problems, and behaviors connected with anxiety and depression were faced.
+-  The name behavioral therapy was given by Lazarus to contrast it with the contemporary psychodynamic therapies. Lazarus based his approach on learning experience and conditioning principles.
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 51 ===
+References
+-  Ellis, A. (1962). Reason and Emotion in Psychotherapy. New York: Lyle Stuart.
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 52 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 53 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 54 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 55 ===
+ The Special Educator
+
+ S. Zapf and G. Craddock*
+
+ CONTENTS
+-  7.1 The Role of the Special Educator in Assistive Technology Assessment ....................131 7.2 Teaching Alternatives Using AT ......................................................................................134 7.3 Outcome Studies of Assistive Technology in the Educational Setting ......................136 7.4 Environmental Factors to Promote AT in the Classroom ............................................136 7.5 Going Forward: Universal Design for Learning (UDL) ...............................................138 7.6 Case Evaluation ..................................................................................................................139 7.6.1 First Case Study: Zoey ..........................................................................................139 7.6.2 Second Case Study: John ......................................................................................140 7.7 Conclusions .........................................................................................................................145 Summary of the Chapter ............................................................................................................146
+
+7.1 The Role of the Special Educator in Assistive Technology Assessment
+-  The World Health Organization and the United Nations Global Disability report esti- mates that individuals with disabilities account for 15% of the world population, and there are approximately 150 million children with disabilities in the world (WHO 2010). The definition of special education varies worldwide because many countries use a social classification system similar to the International Classification System addressing the child’s ability to participate across the educational domain, whereas other counties focus on a medical model for education that is based on specific categories of impair- ment or disabilities. Assistive technology (AT) has long been recognized as a tool for enabling independence and access for individuals with disabilities (Bowe 1995; Østensjø et al. 2005; Watson et al. 2010). Although changes in legislation have provided a positive shift to include the consideration of AT in the student’s educational plan/setting, there still remains a deficiency in many developing countries for children with disabilities to have access to needed AT to assist with meeting their educational plan and participation in daily activities. The World Health Organization reports that only 5–15% of individuals with disabilities have access to AT in many developing countries. The United Nations Standard and World Health Organization Rule 4 (WHO 2010) promotes the training of personnel at various levels in AT to improve access for technology. The special educator can play a vital role in providing technology access and implementation of tools to be used with students in the educational setting.
+-  © 2012 by Taylor & Francis Group, LLC
+-  131
+
+
+=== Page 56 ===
+ 
+-  can determine use or nonuse of AT. Finally, as technology advances and AT is increasingly supported within the mainstream market, the authors outline the next stage of technology provision within the classroom—UDL. Ultimately, providing an educational environment where classrooms are designed to cater for all types of students regardless of their disability or special need is optimal. It is imperative for teachers to recognize that all students have varying ability, and it is a measure of their ability, not disability, that should determine how their education is supported. The classroom should provide a range of supports for any stu- dent who may have issues in accessing the curriculum—from reading difficulties to writing to understanding. A special educator should have the knowledge, skills, and competence backed up with the support of technologies to support all within the education environment.
+
+ Summary of the Chapter
+-  This chapter describes the importance of assistive technology in education and the role of the special educator in the process of integrating assistive technology for students with disabilities into the educational system. The special educator is a crucial team member, providing knowledge of the students’ educational capabilities and their daily interaction in the use of assistive technology. Assistive technology can provide many children and adolescents with disabilities the tools necessary to be more successful in school, at work, and at achieving independence in daily living. Unfortunately, many special educators do not receive training in the application of assistive technology nor do they have adequate resources to effectively assess, implement, and follow-up on the use of assistive technology in the classroom. This chapter will identify the special educator’s role in the assessment and implementation of AT. Recommendations for future training needs for special educa- tors will also be discussed.
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 57 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 58 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 59 ===
+ The Psychologist
+-  F. Meloni, S. Federici, A. Stella, C. Mazzeschi, B. Cordella, F. Greco, and M. Grasso
+
+ CONTENTS
+-  Nothing about “Psycho” without Psychologists: The ICF and the Need for Its Revision ...............................................................................................................................151 The Psychologist in a Center for Technical Aid: The Specialist in Personal Factors ...155 8.6.1 When the Psychologist Role in the ATA Process Is Required .........................158 8.6.2 How a Psychologist Facilitates the Awareness of the User/Client’s Context and Multidisciplinary Team Perspectives ...........................................160 8.6.2.1 Methodology ............................................................................................160 8.6.2.2 Goals .........................................................................................................163 8.6.2.3 What a Psychologist Should Do in Promoting a User/Client Request .....................................................................................................164 Psychologist “Know Thyself”: Psychologist and Professional’s Representations of the Disabled Users/Clients and Assistive Technologies .........................................164 8.7.1 Professionals’ Representation of Disability .......................................................165 8.7.2 New Approach in Psychological Practice ...........................................................168 8.7.3 Psychological Professional Practice Guidelines in the ATA Process..............168 8.7.3.1 The User....................................................................................................169 8.7.3.2 The Family ...............................................................................................169 8.7.3.3 The Professionals’ Multidisciplinary Team ........................................170
+
+8.1 The Languishing Psychologist’s Role in Assistive Technology Assessment
+-  Psychology itself is dead. Or, to put it another way, psychology is in a funny situation. My college, Dartmouth, is constructing a magnificent new building for psychology. Yet its four stories go like this: The basement is all neuroscience. The first floor is devoted to classrooms and administration. The second floor houses social psychology, the third floor, cognitive science, and the fourth, cognitive neuroscience. Why is it called the psy- chology building? (Gazzaniga 1998, pp. xi–xii)
+-  © 2012 by Taylor & Francis Group, LLC
+-  149
+
+
+=== Page 60 ===
+ Summary of the Chapter
+-  This chapter deals with the role and the competencies of the psychologist in a center for technical aid. The lapse of the psychologist’s role in ATA is probably due to the noncoding of personal factors in the ICF. In viewing the psychologist as the “specialist” on personal factors, the authors call for a revision of the ICF so that in the biopsychosocial model, the “psycho” does not remain as just a prefix. The psychologist in the center has the goals to support the user’s request in the user-driven process as well as to act as a mediator between users seeking solutions and the multidisciplinary team. He or she also acts to build a team spirit and enhance the relationship between the client and his or her home environment. Finally, an original study closes the chapter, focusing on psychologists and professionals’ representations of disabled users/clients and ATs.
+
+ Acknowledgments
+-  Fabio Meloni, Stefano Federici, and Aldo Stella contributed equally to this study, except for Section 8.6, which was edited by Claudia Mazzeschi, and Section 8.7, which was edited by Barbara Cordella, Francesca Greco, and Massimo Grasso.
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 61 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 62 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 63 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 64 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 65 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 66 ===
+ The Psychotechnologist: A New Profession in the Assistive Technology Assessment
+-  K. Miesenberger, F. Corradi, and M. L. Mele
+
+CONTENTS
+-  Introduction ........................................................................................................................180 9.3.1 Medical Case...........................................................................................................185 9.3.1.1 Motor Evaluation .....................................................................................185 9.3.1.2 Neuropsychological Test ........................................................................185 9.3.1.3 Communication Strategy .......................................................................186 9.3.1.4 Evaluation of Visual, Perceptive, and Motor Functions ....................186 9.3.1.5 Aids and Assistance ...............................................................................186 9.3.1.6 Request .....................................................................................................186 9.3.2 The ATA Process ....................................................................................................186 9.3.2.1 Multidisciplinary Team Meeting ..........................................................186 9.3.2.2 Setting Set-Up ..........................................................................................187 9.3.2.3 Matching Process ....................................................................................187 9.3.2.4 Assistive Solution Multidisciplinary Team Evaluation .....................187 9.3.2.5 User Support ............................................................................................188 9.3.2.6 Follow-Up .................................................................................................188 The AT Assignation Process in a Center for Technical Aid and the Psychotechnologist ............................................................................................................188 9.5.1 The Context of the Profession “Psychotechnologist” .......................................190 9.5.2 Psychotechnologist—The Need for Education ..................................................191 9.5.3 The Assistec Program ...........................................................................................192 9.5.4 The Curriculum ......................................................................................................193 9.5.5 eLearning System ...................................................................................................194 9.5.6 Graduates—Psychotechnologists ........................................................................195 9.5.7 Impact ......................................................................................................................196
+
+
+=== Page 67 ===
+ 
+-  emulates, extends, amplifies and modifies sensory-motor, psychological or cognitive functions of the mind” (Federici 2002), highlighting in this way the intrasystemic rela- tion between the artifact and the user. Starting from these suggestions, the primary role of psychotechnologist is to follow a systemic approach to allow users a better autonomy (TeleMate 2011). This goal is only possible by taking into account the users’ needs, their reached autonomy degree, and the environment in which they live. In this work, we have explained in more detail two fields of application of this new professional figure: the AT assignation process in a center for technical aid and the ICT-based systems and services, i.e., eSystems and eServices.
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 68 ===
+
+-  The Psychotechnologist: A New Profession in the Assistive Technology Assessment 199
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 69 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 70 ===
+ 10
+
+ The Optometrist
+
+ M. Orlandi and R. Amantis
+
+ CONTENTS
+-  Introduction ......................................................................................................................201 10.2.1 The Complexity of the Visual Process from Eye to Brain ............................202 10.2.2 The Visual Abilities in Behavioral Optometry ..............................................208 10.2.2.1 Visual Acuity .....................................................................................208 10.2.2.2 Fixation ............................................................................................... 211 10.2.2.3 Slow Pursuit ......................................................................................212 10.2.2.4 Saccadic Movements.........................................................................213 10.2.2.5 Binocular Vision................................................................................ 214 10.2.2.6 Convergence ...................................................................................... 214 10.2.2.7 Accommodation ................................................................................215 10.2.2.8 Refraction ........................................................................................... 216 10.2.2.9 The Field of Vision ............................................................................218 10.2.2.10 Superior Perceptive Abilities...........................................................219 Evaluation of Visual, Perceptive, and Motor Functions: Clinical Case 1 .................222
+
+10.1 Introduction
+-  The choice of the appropriate assistive technology is conditioned by the visual skills of the subject. Visual perception is a complex process in which various subprocesses participate and in which various anatomic structures are involved. It is therefore neces- sary that the assessment protocol used permits having a clear picture of all of the visual abilities and skills of the patient as well as his/her limits. A detailed analysis of the visual skills permits the assistive technology assessment (ATA) team to plan specific test settings to be used with the patient without having to make random attempts, which usually prove themselves not only to be useless, but also to be frustrating for the patient and the family.
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 71 ===
+ References
+-  Catalano, F. (2006). Elementi di Ottica Generale. Bologna, Italy: Zanichelli.
+-  Denes, G., and Pizzamiglio, L. (1996). Manuale Di Neuropsicologia. Bologna, Italy: Zanichelli. Gallaway, M. (2002). Optometric vision therapy. Binocular Vision & Strabismus Quarterly, 17(2), 82.
+-  Griffin, J. (1982). Binocular Anomalies Procedures for Vision Therapy. Oxford, UK: Butterworth-Heinemann. Hubel, D. H. (1995). Eye, Brain and Vision. Scientific American Library, No. 22. New York: WH Freeman. Leslie, S. (2004). The optometrist’s role in learning difficulties and dyslexia. Clinical and Experimental Optometry Journal, 87(1), 1–3.
+-  Liuzzi, L., and Bartoli, F. (2002). Manuale di Oftalmologia. Torino, Italy: Minerva Medica.
+-  Italy: FrancoAngelo.
+
+Suggested Reading
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 72 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 73 ===
+ The Occupational Therapist: Enabling Activities and Participation Using Assistive Technology
+
+ D. de Jonge, P. M. Wielandt, S. Zapf, and A. Eldridge
+
+ CONTENTS
+-  Place of AT Within These................................................................................................231 11.5.1 Case Study Number 1: ZA ................................................................................236 11.5.1.1 Person .................................................................................................236 11.5.1.2 Current Status ...................................................................................237 11.5.1.3 Environment ......................................................................................238 11.5.1.4 Occupation .........................................................................................238 11.5.2 Case Study Number 2: AB ................................................................................239 11.5.2.1 Person .................................................................................................239 11.5.2.2 Current Status ...................................................................................240
+
+11.1 Occupational Therapist’s Perspective
+-  Occupational therapists use a holistic approach in which they recognize the transac- tion among the person, the activities they need or want to engage in, and the environ- ments in which these activities are undertaken. Occupation, or activity engagement and participation, is seen as playing an essential role in human life and influencing people’s state of health (Kielhofner 2004). Disruption to occupation or activity engagement affects people’s quality of life, restricts their development, reduces capacity, and leads to mal- adaptive reactions (Kielhofner 2004). In contrast, removing barriers to participation allows people to engage in necessary and desired occupations, which result in improved health (Kielhofner 2004).
+-  Each person is seen as simultaneously fulfilling various roles that require them to perform a diversity of activities in a range of environments. Activities range from per- sonal care and household activities to work, leisure, and social participation. People have personal preferences, interests, and expectations that influence their choice of activities and the way they undertake activities. Activities are invariably performed in
+-  © 2012 by Taylor & Francis Group, LLC
+-  229
+
+
+=== Page 74 ===
+ 
+-  and the environments in which these activities are undertaken. In doing so, they can iden- tify the specific requirements of the technology and ensure that it is able to meet the goals and skills of the person as well as the demands of current and future activities and envi- ronments. A detailed understanding of these requirements also enables the therapist to customize the technology to ensure it can be used efficiently and effectively. Occupational therapists also work with the AT user to promote his or her understanding of the technol- ogy and its application so that he or she can monitor its ongoing utility.
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 75 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 76 ===
+ Pediatric Specialists in Assistive Solutions
+-  L. W. Braga, I. L. de Camillis Gil, K. S. Pinto, and P. S. Siebra Beraldo
+
+ CONTENTS
+-  12.6.1 Case 1—Michael (Cerebral Palsy) ........................................................................253 12.6.1.1 Case History ............................................................................................253 12.6.1.2 Motor Evaluation .....................................................................................253 12.6.1.3 Neuropsychological Evaluation ............................................................254 12.6.1.4 Communication Strategy .......................................................................254 12.6.1.5 Evaluation of Visual, Auditive, and Perceptive Functions ................254 12.6.1.6 Neurorehabilitation Team Approach ...................................................254 12.6.2 Case 2—John (Traumatic Brain Injury) ...............................................................260 12.6.2.1 Case History ............................................................................................260 12.6.2.2 Motor Evaluation .....................................................................................260 12.6.2.3 Neuropsychological Evaluation ............................................................260 12.6.2.4 Communication Strategy .......................................................................261 12.6.2.5 Evaluation of Visual, Auditive, and Perceptive Functions ................261 12.6.2.6 Neurorehabilitation Team Approach ...................................................261
+
+12.1 Pediatric Specialists in the Process of Development and Rehabilitation
+-  The development or neurorehabilitation process of the child with impairments requires an approach involving different areas of specialization because these children may present difficulties or challenges in various developmental domains (sensorial, motor, neuropsychological, communication, and socialization, among others). This generates the need for assessments and interventions by interprofessional teams of physicians (pediatricians, orthopedic surgeons, neurologists, geneticists, psychiatrists, and other specialists); nurses; physical, occupational, and speech therapists; psychologists; special educators; technologists such as engineers; and prosthetics/orthotics technicians.
+-  © 2012 by Taylor & Francis Group, LLC
+-  245
+
+
+=== Page 77 ===
+ FIGURE 12.11
+-  (See color insert.) AT resources that facilitate social interaction.
+
+ Summary of the Chapter
+-  This chapter describes the role of the pediatric specialist in the neurorehabilitation process of the child that incorporates AT and its uses, applications, and indications. Two case studies, a child with CP and one with TBI, illustrate how AT impacted the children’s development, recovery, and progress and how the pediatric specialist played an essential role in this process.
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 78 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 79 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 80 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 81 ===
+ The Geriatrician
+-  M. Pigliautile, L. Tiberio, P. Mecocci, and S. Federici
+
+ CONTENTS
+-  13.1 Introduction ........................................................................................................................269 13.2 Analysis of the Older Patient: Diseases, Disability, and Frailty ..................................270 13.2.1 Disease .....................................................................................................................270 13.2.2 Disability .................................................................................................................271 13.2.3 Frailty .......................................................................................................................272 13.3 Geriatric Assessment .........................................................................................................273 13.4 Geriatric Rehabilitation .....................................................................................................275 13.5 Assistive Solutions: A Challenge in Geriatric Rehabilitation ......................................277 13.5.1 Technological Devices for Elderly People With Cognitive Impairments ......278 13.5.2 Technological Devices for Elderly People With Motor Disability ..................279 13.5.3 Socially Assistive Robotics Systems ....................................................................280 13.6 Acceptance, Rejection, or Abandonment of an Assistive Technology .......................281 13.7 The Role of the Geriatrician in the Assistive Technology Assessment Process .......282 13.8 Case Study and the ATA Process ....................................................................................287 13.8.1 The Role of the Geriatrician in the ATA Process for the User A.B. ................288 13.9 Conclusions .........................................................................................................................291 Summary of the Chapter ............................................................................................................292
+
+13.1 Introduction
+-  The word “geriatrics” was coined by Ignatz Leo Nascher (1863–1944), a Viennese man who worked as a physician in New York and who claimed that aging is not a disease but a period of life with its own physiology, requiring the need to treat geriatric medicine as a separate entity, as is done for pediatrics (Achenbaum 1995; Morley 2004). In the 1930s, Marjory Warren developed the principles of modern geriatric medicine in the United Kingdom by enhancing the environment, introducing active rehabilitation programs, and emphasizing the importance of the older person’s motivation (Morley 2004).
+-  Over time, geriatric medicine developed core values, a knowledge base, and clinical skills to improve the health, functioning, and well-being of older people and to afford appropri- ate palliative care, for which a marked expansion over the past three decades occurred to meet the growing needs for care of the aging population (American Geriatrics Society Core Writing Group of the Task Force on the Future of Geriatric Medicine 2005). In fact, the U.S. Census Bureau data (Kinsella and He 2009) reports an extraordinary demographic and epidemiological change that can be seen as a success story for public health policies
+-  © 2012 by Taylor & Francis Group, LLC
+-  269
+
+
+=== Page 82 ===
+ 
+-  dimensions. Rehabilitation is the goal of the geriatric assessment, and the introduction of assistive solutions in geriatric rehabilitation makes possible a scenario in which the functioning of elderly people with physical or cognitive limitations is improved. This chapter provides an overview of the areas where technological systems may offer support to the everyday life of the elderly and their caregivers. The contribution of a geriatrician in a center for technical aid is described, linking the comprehensive geriatric assessment with the ICF model. The lack of implementation of the ICF and the requirement of training in assistive solutions for geriatricians and caregivers are discussed.
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 83 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 84 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 85 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 86 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 87 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 88 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 89 ===
+ Role of Speech–Language Pathologists in Assitive Technology Assessments
+-  K. Hill and V. Corsi
+
+ CONTENTS
+-  14.1.1 Assistive Technology Teams and the SLP ..........................................................303 14.1.2 Evidence-Based Practice and SLPs ......................................................................304 14.1.3 AT Assessments and the SLP ...............................................................................307 14.1.4 Matching Persons With Technology and SLPs ..................................................308 14.1.5 Evaluation of the Effectiveness and Usefulness of the AT .............................. 311 14.1.6 Development and Implementation of AT Intervention Plans .........................313 14.1.7 The SLP’s Role in Advocacy .................................................................................313 14.1.8 Specific Learning Disabilities ..............................................................................313 14.2.1 Characterizing the Client .....................................................................................320 14.2.2 Step 1: Asking Meaningful EBP Questions ........................................................320 14.2.3 Step 2: Collecting Clinical and Personal Evidence ...........................................321 14.2.4 Step 3: Locating and Reviewing Research Evidence ........................................321 14.2.5 Step 4: Using the Evidence ....................................................................................321
+
+14.1 Description of the Professional Profile
+-  A speech–language pathologist (SLP) is a professional trained to evaluate and treat people who have communication and swallowing disorders. A person must have the required aca- demic training and clinical experience to be certified or licensed as an SLP. The SLP is then able to diagnose and treat disorders across the life span pertaining to speech, language, voice, or swallowing. The specific course requirements and extent of clinical training vary internationally across curricula and awarded degrees. In some countries, professionals may practice as speech therapists with a 2- or 4-year degree. However, the more accepted standard for delivering clinical SLP services requires completion of a Master’s degree. In North America, SLPs become independent practitioners after earning a Master’s degree in communication science and disorders, completing a clinical fellowship year, and receiv- ing a Certificate of Clinical Competence from the American Speech–Language-Hearing Association (ASHA). An advanced degree may be earned through a clinical doctorate
+-  © 2012 by Taylor & Francis Group, LLC
+-  301
+
+
+=== Page 90 ===
+ 
+-  and environments. Personal well-being and life experience are directly related to an indi- vidual’s ability to communicate as effectively as possible.
+
+ Acknowledgments
+-  Katya Hill contributed to the entire study except for Section 14.1.8, which was reviewed by Corsi Valerio.
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 91 ===
+
+-  Role of Speech–Language Pathologists in Assitive Technology Assessments
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 92 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 93 ===
+
+-  Role of Speech–Language Pathologists in Assitive Technology Assessments
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 94 ===
+ Assistive Technology Devices and Services
+-  S. Federici and M. J. Scherer
+
+Introduction
+-  Today much information about assistive technologies (ATs) can be obtained from many databases and web sites on the World Wide Web (WWW).* However, we can make a clear distinction between databases and web sites: AT web sites mostly aim to present a cata- logue of technologies for a specific kind of disability, such as the American Printing House for the Blind (http://www.aph.org/), or for other specific groups of disabilities, such as the Cambium Learning Technology Company web site (http://www.intellitools.com/). Databases are more focused on the diffusion of technical information about equipment by collecting a very extensive list of ATs.
+-  The two largest and most complete databases of devices are†
+-  © 2012 by Taylor & Francis Group, LLC
+-  329
+
+
+=== Page 95 ===
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 96 ===
+ Systemic User Experience
+-  S. Borsci, M. Kurosu, M. L. Mele, and S. Federici
+
+ CONTENTS
+-  15.1 Introduction ......................................................................................................................337 15.2 From Accessibility and Usability of Systems to the Users’ Experience of Systems ................................................................................................340 15.2.1 The Relationship Between Accessibility and Usability ................................340 15.2.2 An Overview of the Usability Standards .......................................................341 15.3 Evaluation of Systems .....................................................................................................343 15.3.1 A Conceptual Framework: An Integrated Model of Interaction Evaluation ...........................................................................................................343 15.4 Example of the UX Concept Application in Design Systems for Rehabilitation ....348 15.4.1 UX in the Assistive Technology Assessment Process ..................................348 15.4.2 Sonification of the System .................................................................................351 15.4.2.1 Application of a UX Framework for Designing a Sonified Visual Web Search Engine ..............................................................353 15.5 Conclusions .......................................................................................................................354 Summary of the Chapter ............................................................................................................355
+
+15.1 Introduction
+-  The term User eXperience (UX), proposed in the 1990s by Donald A. Norman and col- leagues (1995) is focused on pleasure, value, and on performance during a human-system interaction. In the design process of the interaction, the usability of the system is a neces- sary but not sufficient condition for obtaining (designing or evaluating) a good level of UX; indeed, although usability is a dimension of the interaction, UX is a holistic perspective on how a user feels about using a system. There are various definitions regarding UX, includ- ing the one provided by Norman in explaining the UX term as “all aspects of the user’s interactions with the product: how it is perceived, learned and used. It includes ease of use and, most important of all, the needs that the product fulfils” (1998, p. 47), and the defini- tion provided by Garrett, “how the product behaves and is used in the real world” (2003, p. 17). Recently, the International Organization for Standardization (ISO) 9241-210 (1999) defined it as “a person’s perceptions and responses that result from the use or anticipated use of a product, system or service.” The ISO also states that
+-  User experience is a consequence of the presentation, functionality, system perfor- mance, interactive behaviour, and assistive capabilities of an interactive system, both hardware and software [...]. It is also a consequence of the user’s prior experiences, atti- tudes, skills, habits and personality (ISO 1999).
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 97 ===
+ 
+-  Systemic User Experience
+-  the redesign of a sonificated web search engine is presented as an example of the growing need of the UX approach in the AT design.
+
+ Summary of the Chapter
+-  This chapter discusses the relation and the role of the constructs of accessibility and usability under the user experience theoretical approach. An integrated model of interac- tion evaluation, a new evaluation perspective based on the user experience, is presented as a framework not only to set up an evaluation of the users’ interaction with assistive tech- nology, but also to organize and evaluate the Assistive Technology Assessment process.
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 98 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 99 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 100 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 101 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 102 ===
+ Web Solutions for Rehabilitation and Daily Life
+
+ G. Liotta, E. Di Giacomo, R. Magni, and F. Corradi
+
+ CONTENTS
+-  Introduction ......................................................................................................................361 The Simplification of the World Wide Web for Disabled Users: The WhatsOnWeb Search Engine .........................................................................................362 16.2.1 Introduction ........................................................................................................362 16.2.2 The Interaction Model .......................................................................................363 16.2.3 The Information Visualization Approach ......................................................365 16.2.3.1 The Application Information Visualization Approach: The Web Accessibility for Disabled Users ............................................366 16.2.3.2 A Sonification Example ....................................................................367 16.2.3.3 A Usability Evaluation .....................................................................368 16.3.1 Introduction to Telemedicine ...........................................................................369 16.3.2 Telerehabilitation ...............................................................................................370 16.3.3 The Nu!Reha Platform .......................................................................................370 16.3.4 Proposed Approach ...........................................................................................371 16.3.5 Clinical Evaluation ............................................................................................372 16.3.5.1 Results and Discussion ....................................................................373 16.3.6 Future Evolutions ............................................................................................... 374
+
+16.1 Introduction
+-  This chapter presents two studies: the first one discusses the design and the evaluation process of a tool for extending the possibility for disabled users to search and access the information on the Internet; the second discusses the development of a telemedicine tool for rehabilitation. Both the tools are created by a User Centered Design perspective (Norman, 1983) with a test–retest process:
+-  © 2012 by Taylor & Francis Group, LLC
+-  361
+
+
+=== Page 103 ===
+ Summary of the Chapter
+-  This chapter presents two studies: the first one discusses the design and the evaluation process of a tool for extending the possibility for disabled users to search and access the information on the Internet (WhatsOnWeb); the second discusses the development of a telemedicine tool for rehabilitation (Nu!Reha). WhatsOnWeb can widen the ability of web users to search and access information through a semantic and spatial organization of information. This tool, by its sonification algorithm, becomes an important tool for visu- ally impaired users because it allows this kind of user to explore the spatial organization of the retrieved information without performance differences to those of nonimpaired users. Also, the use of the user-centered perspective allows the designer to set up the WhatsOnWeb technology for brain–computer interface use with locked-in subjects to spread the semantic web possibility of searching in the World Wide Web. The second tech- nology, the Nu!Reha Desk, is a telemedicine system that can include in the rehabilitation process disabled users without easy access to practitioners. The analysis of the user expe- rience of this technology, and in particular the ease of learning perceived by the users, is the core for the implementation of this tool to optimize access to the rehabilitation process.
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 104 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 105 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 106 ===
+ Brain–Computer Interfaces: The New Landscape in Assistive Technology
+-  E. Pasqualotto, S. Federici, M. Olivetti Belardinelli, and N. Birbaumer
+
+ CONTENTS
+-  17.2.1 EEG ......................................................................................................................381 17.2.2 MEG .....................................................................................................................381 17.2.3 fMRI .....................................................................................................................381 17.2.4 fNIRS ...................................................................................................................382 17.4.1 Potential Users ....................................................................................................384 17.4.2 Development .......................................................................................................385 17.5.1 Potential Users ....................................................................................................387 17.5.2 BCI in Movement Restoration ..........................................................................388 17.6.1 Epilepsy and ADHD ..........................................................................................389 17.6.2 Neurofeedback in Epilepsy and ADHD .........................................................389
+
+17.1 What Is a Brain–Computer Interface?
+-  A brain–computer interface (BCI) provides a direct connection between the brain and an external device, such as a computer or any other system capable of receiving a signal. In June 1999, the First International Meeting on Brain–Computer Interface Technology took place at the Rensselaerville Institute (Albany, NY). The aims of this first meeting, which 50 researchers from 22 different research groups attended, were to review the state of the art of BCI research and to define a shared set of procedures, methods, and definitions. During this meeting, it was established that “a brain–computer interface is a communication system that does not depend on the brain’s normal output pathways of peripheral nerves and muscles” (Wolpaw et al. 2000). In a BCI, neuromuscular activity is not necessary for the production of the activity that is needed to convey the message (Pasqualotto et al. 2011a).
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 107 ===
+ 
+-  New Rehabilitation Opportunities for Persons with Multiple Disabilities
+-  to allow the person direct access to stimulation as well as the possibility to call for social attention and interaction. The fourth section discusses (1) the results obtained with the dif- ferent forms of technology used and their applicability and possible impact in daily educa- tion/rehabilitation contexts, and (2) the possibility of using combinations of microswitches also for programs aimed at simultaneously targeting increases of adaptive responding and reduction of problem behaviors or inadequate postures.
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 108 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 109 ===
+
+-  New Rehabilitation Opportunities for Persons with Multiple Disabilities
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 110 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 111 ===
+
+-  New Rehabilitation Opportunities for Persons with Multiple Disabilities
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 112 ===
+ 
+-  Methods and Technologies for Leisure, Recreation, and an Accessible Sport
+-  C. M. Capio, G. Mascolo, and C. H. P. Sit
+
+ CONTENTS
+-  19.1 Introduction ........................................................................................................................421 19.1.1 Self-Efficacy Theory ...............................................................................................421 19.1.2 Facilitating Psychological Recovery through Sport ..........................................422 19.2 Adapted Physical Activity: When Physical Activity Is for Everyone.........................422 19.2.1 Adapted Physical Activity ....................................................................................423 19.2.2 Types of APA Programs ........................................................................................423 19.3 Sport and Disability...........................................................................................................425 19.3.1 Historical Perspective ............................................................................................426 19.3.2 Classification Systems within Paralympic Sports .............................................427 19.3.3 Sports Participation among Persons With Disabilities .....................................428 19.4 Sport and Disability Techniques and Technologies for a “Sport for All” .................429 19.4.1 Power Wheelchair Sports .....................................................................................429 19.4.2 Prosthetic Technology ...........................................................................................430 19.4.3 Technology for Developing Countries ................................................................431 19.5 Conclusions .........................................................................................................................432 Summary of the Chapter ............................................................................................................432
+
+ 19.1 Introduction
+
+19.1.1 Self-Efficacy Theory
+-  A well-established area of sport psychology has built research on the role of self-efficacy in successful sports participation. Initially proposed by Bandura (1997), self-efficacy refers to the belief than an individual has in his or her the ability to execute a task to generate a specific outcome. This belief of having some amount of control over one’s own function- ing has been described to have a pervasive influence in an individual’s task performance. Studies of the self-efficacy construct in sport have included physical proficiency and dif- ferent aspects of game performance such as strategy selection, prediction of opponent’s actions, and pressure management (Short and Ross-Stewart 2009).
+-  Self-efficacy beliefs have been theorized to be products of an individual’s cognitive pro- cessing of diverse sources of efficacy information (Feltz et al. 2008). The four principal sources of efficacy information as proposed by Bandura (1997) are (1) past performance accomplishments, (2) vicarious experiences, (3) verbal persuasion, and (4) psychological and emotional states. Among individuals with disabilities, efficacy information may be
+-  © 2012 by Taylor & Francis Group, LLC
+-  421
+
+
+=== Page 113 ===
+ 
+-  essential strategy in wheelchair design in developing countries because it not only keeps the costs low, but it also ensures that the chair will be locally maintained (Pfaelzer and Krizack 2000). The corresponding local labor cost was also much lower relative to devel- oped countries, and the combination with local materials resulted in a wheelchair design that cost less than 20% of similar equipment in the United States. It has been advocated that the cost of technology should not be a hindrance for individuals with disability to take part in sports and physical activity (Sport and Development 2011). Essentially, projects such as this one need to be pursued to enhance the participation of individuals with dis- abilities from less developed nations, leading toward the ideal of “sport for all.”
+
+ 19.5 Conclusions
+-  Sport represents one form of physical activity, and among individuals with disabilities, this has been facilitated by adaptation strategies. Disability sport continues to grow in terms of both participation and competition. Such positive change appears to be dynamic, as methods, strategies, and technologies continue to evolve from research findings.
+
+ Summary of the Chapter
+-  This chapter initiated the discussion on methods and technologies that facilitate acces- sible sport through self-efficacy theories that provide the motivation for enabling sports participation for all. The proposition that adapted physical activity (APA) programs sets up the stage for making PA participation possible for everyone was developed. Diverse forms of APA have been documented to have beneficial effects among individuals with disabilities, and sports activities appear to be an important form of PA. The wide extent of sports participation among individuals with disabilities is evident in the Special Olympics and Paralympics.
+-  Such prestigious status of sports for individuals with disabilities has generated a corre- sponding body of research that has started to move towards evidence-based practice. The inherent competitive nature of sports has also been evident, consequently resulting in the use of technology to address evolving demands of athletes with disabilities. While it appears that PA is indeed for everyone, and is achieved through sports as supported by technology, further research is desired to enhance different parameters of the current status.
+
+References
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 114 ===
+
+-  Methods and Technologies for Leisure, Recreation, and an Accessible Sport
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 115 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 116 ===
+
+-  Methods and Technologies for Leisure, Recreation, and an Accessible Sport
+-  IBC. (2007). Boccia. Retrieved from http://www.bocciainternational.com/boccia.html
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 117 ===
+
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 118 ===
+
+-  Methods and Technologies for Leisure, Recreation, and an Accessible Sport
+-  © 2012 by Taylor & Francis Group, LLC
+
+
+=== Page 119 ===
+ Index
+
+ A
+-  Accessibility definitions, 332–333, 340, 341, 343 usability and, 340–341 Accessibility, sustainability, and universal design (UD), 68 continuum model of, 69–70 environmental assessment process and, 71–72, 76–79 environment assessment in ATA process based on concepts of, 71–72 interaction between, 69–71 intersection model of, 69, 70 meaning of, 68–69 Accommodation (vision), 202, 203, 215–216 Action by Design Component (ADC) framework, 368 Adapted physical activity (APA), 422–423 Adapted physical activity (APA) programs, types of, 423–425 Adaptive behavior, defined, 20 Alzheimer’s disease, vocational rehabilitation for, 121–125 American Speech-Language-Hearing Association (ASHA), 301–302 conceptual framework of ASHA practice documents, 302 Ametropias, 217–218 Amyotrophic lateral sclerosis (ALS), 385–386, 390, 392 Assistance Users/Caregiver Dyad Assistive Technology Process Model, outcome measurement with vignettes based on, 93–97 Assistec graduates, fields of expertise of, 196 Assistec program, 192–193, 196 curriculum, 193–194 impact, 196–197 Assistive technology (AT)
+-  Assistive technology (AT) abandonment, 5–6; see also under Assistive technology Assistive technology assessment (ATA), global perspectives and emerging themes in, ix–xiv Assistive technology assessment (ATA) model, 2–5 Assistive technology assessment (ATA) process, 58, 60–61, 221 assessing individual functioning and disability in, 20–23 outcome of, 34–35 Assistive technology assessment (ATA) process flow chart, 22, 189 Assistive Technology Device Predisposition Assessment (ATD-PA), 36–37, 56–61, 120, 123, 157 Assistive technology devices, databases of, 329–330 Assistive technology (AT) match, measuring the, 51–58 outcome measures, 51–52 Assistive Technology Outcomes Measurement System (ATOM), 41–42 Association of Intellectual and Developmental Disabilities (AAIDD), 38–39 AT, see Assistive technology ATA, see Assistive technology assessment Attention deficit hyperactivity disorder (ADHD), 389 neurofeedback in, 389–390 Augmentative and alternative communication (AAC), 136, 252, 309–310, 321–323 Ausilioteca di Roma (Centre for Technological Aid of Rome), xii–xiii
+
+B
+-  Bathing chair, 257 Behavioral-cognitive therapy, see Cognitive- behavioral therapy Behavioral disorders and brain-computer interfaces, 389–390 Binocular vision, 214 Biopsychosocial approach, 103, 114–116
+
+
+=== Page 120 ===
+ 
+-  Biopsychosocial model, 3–5, 11–12, 21, 27 ICF, 3–5, 21, 60, 116–117, 152, 188 interaction system according to, 183 BlinkAndPitch model, 368 BlinkAndPitchSonification model, 368 Body functions, 156 Brain activity, measuring, 381–382 Brain-computer interaction (BCI), 363 Brain-computer interfaces (BCIs), 391–392 AT and, 390–391 behavioral disorders and, 389–390 for communication development of, 385–387 potential users of, 384–385 comparison of technologies, 384 history, 382–383 for motor restoration, potential users of, 387–389 nature of, 379–380
+
+C
+-  Canadian Occupational Performance Measure (COPM), 38, 51–52 Caregiver Assistive Technology Outcome Measure (CATOM), 91–92, 95 domains, 92 scores over time, 95 Caregivers of assistive users, 83–87, 97–98 conceptual framework for understanding outcomes experienced by, 89, 90 conceptual framework on the impact of AT on users and, 87–91 future directions regarding, 97 measurement tools addressing AT impacts on, 91–97 model for AT outcomes on user/caregiver dyad, 88–90 Care-O-Bot, 280 Case studies, AT process involved in selecting and using, 236–242 Center for technical aid, xvi–xvii, 4–5, 22, 32, 171, 221, 350 ATA process in, 60–61, 188–190 flow chart of, 159 environmental assessment process and, 73 psychologist in, 155–157 Cerebral palsy (CP), case studies of, 140, 144–145, 253–259, 264, 320–322 Chair to help child sit and use upper
+-  Index
+-  Charity/donation models, 16, 17 Children; see also Pediatric specialists AT resources applied to daily life of, 250–251 Client-oriented model, see Service delivery models Cognitive-behavioral therapy (CBT), 108–111 Cognitive impairments, 276 technological devices for people with, 278–279 Cognitive Orthosis for Assessing aCtivities in the Home (COACH) system, 279 Cognitive prostheses, 278 Cognitive rehabilitation, 115–116 Cognitive screening, 276 Cognitive support technology (CST), 116–119 Cognitive Support Technology Device Predisposition Assessment (CST PA), 56 Cognitive therapists, 110–113 Cognitive therapy (CT), 107–111 case study, 121–125 with individuals having cognitive disability, 114–115 Communication, see Augmentative and alternative communication; Brain- computer interfaces; Voice output communication aids Community-based rehabilitation (CBR) models, 16, 17 Complete locked-in syndrome (CLIS), 384, 391, 392 Comprehensive geriatric assessment (CGA), 274–275, 292 Computers, see Brain-computer interfaces; Human-computer interaction Cone and rod cell, 204 Context, impact of, xi Convention on the Rights of Persons with Disabilities, 14 Convergence (vision), 203, 204 CoRT (Cognitive Research Trust) Thinking Techniques, 137
+-  Degenerative disabilities, treating, 102 Depression, 276–277 Design for All, 191; see also Universal design Developmental disabilities, treating, 101–102 Disability(ies), 1–2 classification, declaration, and international definitions of, 13–16, 26 measurement of, 25–28
+
+
+=== Page 121 ===
+ 
+-  Index
+-  objective vs. subjective dimensions of, 29–30 personal factors of, 153–154 persons with multiple, 399–400, see also Microswitches professionals’ representation of, 165–168 treating acquired, 102–103 Donation models, see Charity/donation models
+
+ E
+-  eAccessibility, 190–191 Ease of operation, 342; see also Accessibility; Usability Education, vocational field of, 193 Educational setting environmental factors to promote AT in classrooms, 136–138 outcome studies of AT in, 136 Education Technology Device Predisposition Assessment (ET PA), 57, 121 Effectiveness, defined, 333 Efficacy, defined, 333 Efficiency, defined, 333 eInclusion, 190–191 Elderly people, 162 eLearning system, 194–195 Electroencephalography (EEG), 381 Electronic travel aids (ETAs), 352 categories of, 352 Empowering USers Through Assistive Technology (EUSTAT), 42 Encephalopathy, hypoxic-ischemic, 139–143, 236–239 Entrepreneurial models, 16, 17 Environment, impact of, xi Environmental assessment (EA) process, 67–68, 72–75 case evaluation, 76–79 step-by-step decision making, 75–76 Epilepsy, 389 neurofeedback in, 389–390 Ergonomics, 182 eSystems, 181, 338 intrasystemic relation between users and, 339, 340 Evaluation methods/strategies, 230; see also specific topics Evidence-based practice (EBP), 304–307, 320–321 four-step model for, 304, 305
+-  Eye, structure of, 203 Eye movements during reading text, 213
+-  F Family, 169–170; see also Caregivers of assistive users AT resources applied to daily life of child and, 250–251 Family Impact of Assistive Technology Scale (FIATS), 41, 92–93 scores over time, 93, 94 Frailty, defined, 272 Functional magnetic resonance imaging (fMRI), 381–382 Functional near-infrared spectroscopy (fNIRS), 382 Functioning classification, declaration, and international definitions of, 13–16 how to measure, 31 guidelines for measurement and assessment, 31–32 measurement and assessment in ATA process, 32–33 measures of, 25–31 monitoring, in the context of ATA use, 34–35 objective vs. subjective dimensions of, 29–30 personal factors of, 153–154 suggested measurement tools for an ATA process, 35–39 outcome analysis tools, 39–42 G
+
+ F
+
+G
+-  Geriatric assessment, 273–275 vs. assessment of young adults, 274 of a clinical case, 288–291 ICF codes and, 282–287 interaction dimensions of, 274 Geriatric Assessment in a Centre for Technical Aids, 291 Geriatricians, 270, 291–293 role in ATA process, 282–287 case study, 288–291 Geriatric rehabilitation, 275–277 assistive solutions in, 277–281 objectives, 275 Geriatrics, 269–270 Globalization and large-scale manufacturing model, 16–18
+
+
+=== Page 122 ===
+ 
+-  Goal Attainment Scale (GAS), 51, 52 Guido, 279
+
+ H
+-  Health, defined, 20 Healthcare Technology Device Predisposition Assessment (HCT PA), 57, 121 “Hellodoc” project, 372–373 Human assistance, AT and, 84–85 Human-centered design (HCD), 339 Human-computer interaction (HCI), 181, 340–342 hierarchical model for, 362 Hypermetropia, 237–239
+-  I I-Cat robot, 280 Inclusive Learning through Technology (ILT), 137 Individual empowerment model, 16, 17 Individual functioning, see Functioning Individualized education plan (IEP), 132 Individual Prioritised Problem Assessment (IPPA), 41, 51, 52 Information visualization approach (IVA), 365–369 Institute for Matching Person and Technology, xv Intellectual disability (ID), 15, 20 Intelligence, defined, 20 Interaction evaluation, integrated model of, 343–348 Interaction model (human-computer interaction), 363–365 Interdisciplinary approaches to assessment, need for, x–xi Interdisciplinary team approach; see also Multidisciplinary team; Pediatric case evaluation in an interprofessional team; Teamwork assistive solutions and, 248–250 International Classification of Functioning, Disability, and Health (ICF), 1, 3, 13, 14, 25–26 ATA process under the lens of ICF biopsychosocial model, 3–5, 21, 60, 116–117, 152, 188, see also Biopsychosocial model ICF Checklist, 35 ICF codes and geriatric assessment, 282–287 ICF Core Set, 35
+-  Index
+-  Matching Person & Technology Model and, 58, 59 and measuring the AT match, 51 need for revision, 151–153 overview, 151–152 International Classification of Impairments, Disabilities, and Handicaps (ICIDH), 152, 153 Internet, see Web accessibility iSonic system, 353
+-  Language activity monitoring (LAM), 312 Leadership Energy and Environmental Design (LEED), 74 Learning, AT and, 251–253 Learning disabilities, 313–320 Leonarda Vaccari Institute, xii–xiii Locked-in syndrome (LIS), 384–387, 391, 392 Locomotion, device for independent, 256
+
+M
+-  Magnetoencephalography (MEG), 381 MANUS, 279–280 Matching Assistive Technology and Child (MATCH), 58 Matching Older Adults with Dementia and Technology (MOADT), 287–291 Matching Person & Technology (MPT) Model, xv, 7, 36, 39, 51–55, 119, 133, 139 assessment process and forms, 56–57, 119–121, 292 ATA process and, 61–62 different versions of, 58 ICF and, 58, 59 process and measures, 55–58 Medical model, 2, 11, 27 Mental models, 182, 345–348, 354 “Mental prostheses,” 385–387 Mental retardation, see Intellectual disability Microswitches combinations of, 405–407 combinations of VOCAs and, 407–410 experimental, for small (nontypical) responses, 402–405 Microswitch technology, studies using, 401–405 outcomes of, 410–411 practical perspectives and implications of,
+
+
+=== Page 123 ===
+ 
+-  Index
+-  elderly people with, 279–280 Motor functions, evaluation of, 222–223 Motor restoration, brain-computer interfaces for, 387–389 Movement restoration, brain-computer interface in, 388–389 MPT, see Matching Person & Technology (MPT) Model Multidisciplinary approaches to assessment, need for, x–xi Multidisciplinary team, 30, 170, 182; see also Interdisciplinary team approach; Teamwork assessment professionals on, 101–103 meeting with psychologist, 159 Multidisciplinary team evaluation, assistive solution, 160, 187–188 Multidisciplinary team meetings, 159, 186–187
+
+ N
+-  National Health and Aging Trends Study (NHATS), 286 Near-infrared spectroscopy (NIRS), 382 Neurofeedback, 389–390 Nu!Reha Desk, 362, 369–371 clinical evaluation, 372–374 flow chart of experimental design for clinical evaluation of, 374 proposed approach of, 371–372
+
+ O
+-  Occupational therapists (OTs) interventions used by, 231–232 perspective of, 229–230 Older patients disability, 271–272 disease, 270–271 frailty, 272–273 Optic chiasm, 206, 208 Optic nerves and their pathway, 206, 208 Optometrists, role in ATA process, 220–222 vision and, 202–220 Optotype symbol examples, 209
+
+P
+-  PAM-AID (Personal Adaptive Mobility Aid), 279 PanAndPitchBlinking model, 368
+-  PanAndPitch model, 368 Paralympic Games, 425–426 classification systems within Paralympic sports, 427–428 Pediatric case evaluation in an interprofessional team, 253–264 Pediatric specialists in assistive solutions, 248 in the process of development and rehabilitation, 245–248 Perceptive abilities, superior, 219–220 Perceptive functions; see also Visual abilities in behavioral optometry evaluation of, 222–223 Personal factors assistive solutions and, 154–155 of functioning and disability, 153–154 psychologist as specialist in, 155–157 Physical activity (PA), 422–423; see also Adapted physical activity PICO, 306 PitchAndVolume model, 368 POEM, 306 Power wheelchair sports, 429–430 Profession groups, 165, 166 Prosthetic technology, 430–431 P300 Speller, 385 Psychological practice, new approach in, 168 Psychological professional practice guidelines in ATA process, 168–170 Psychologist role in ATA process, 157–158 when it is required, 158–160 Psychologists in a center for technical aid, 155–157 facilitating awareness of user/client’s context and multidisciplinary team perspectives, 160–164 and professional’s representations of disabled users/clients and AT, 164–170 role in ATA, 149–151, 170–171 what they should do in promoting user/
+
+
+=== Page 124 ===
+ 
+-  Psychotechnology definitions of, 180 first course in, xv Psychotechnology education, example of, 190–197
+
+ Q
+-  Quadriplegia, congenital, 236–239 Quebec User Evaluation of Satisfaction with Assistive Technology 2.0 (QUEST), 39–40
+
+ R
+-  Rational emotive behavioral therapy (REBT), 108–109, 111 Rehab-CYCLE, 19 Rehabilitation; see also Geriatric rehabilitation; User eXperience (UX) concept application in design system for rehabilitation cognitive, 115–116 community-based, 16, 17 pediatric, 245–248 Rehabilitation counseling, vocational, 121–125, 193 Rehabilitation Problem-Solving Form (RPS- Form), 19 Rehabilitation process assessing individual functioning within a, 18–20 Rehabilitation project, ATA process in the, 60–61 Rehabilitation technology service delivery models, see Service delivery models Retina functional division, 204, 205 histological characteristics, 204, 206 projection of visual fields onto left and right, 206, 207 structure, 204, 205 RoboCare, 280
+
+S
+-  Sapienza University of Rome, xv Satisfaction, defined, 333 Scope of Practice in Speech-Language Pathology (ASHA), 302 Search engines, see WhatsOnWeb search engine Self-efficacy theory, 421–422 Service delivery defined, 5
+-  Service delivery models, 5–7, 16–18, 27 Service delivery process of AT, stages in, 139 Service delivery system in different countries, 5–7 Slow cortical potentials (SCPs), 386 Socially assistive robotics systems, 280–281 Social model, 27; see also Service delivery models Sonification, 351–353, 367–368 defined, 333 Special educator, role in ATA, 131–133, 145–146 case studies, 139–145 teaching alternatives using AT, 134–135 Specific learning disabilities (SLDs), 313–320 Speech-language pathologists (SLPs), 322–323 AT assessments and, 307–308 case evaluation in multidisciplinary team vs. as a professional consultant, 320 asking meaningful EBP questions, 320–321 characterizing the client, 320 collecting clinical and personal evidence, 321 locating and reviewing research evidence, 321 using the evidence for MPT process, 321–322 description of professional profile, 301–303 development and implementation of AT intervention plans, 313 evaluation of the effectiveness and usefulness of AT, 311–313 evidence-based practice and, 304–307 matching persons with technology and, 308–311 overlapping domains of language and literacy assessed by, 308 role in advocacy, 313
+-  Index
+
+
+=== Page 125 ===
+ 
+-  Index
+-  Sports disability and, 425–426 historical perspective, 426–427 included and Special Olympics and Paralympics, 425, 426 Sports participation among persons with disabilities, 428–429 STATEMENT project, 145 Stroke, ischemic, 239–242 Support Intensity Scale (SIS), 32, 38–39 Survey of Technology Use (SOTU), 56, 157 Sustainability, see Accessibility, sustainability, and universal design Systems, evaluation of, 343–348
+
+ T
+-  with keyboard, 263 that uses simple switches to scan letters for forming words, 259 Teamwork, 246–247; see also Interdisciplinary team approach; Multidisciplinary team Technology Acceptance Model (TAM), 280 Telemedicine, 369–374 future evolutions, 374–375 Thinking skills, 137 Toilet seat, customized, 257 Toy with adaptive switch, 256 Traumatic brain injury (TBI) case of, 260–264
+
+ U
+-  United Nations (UN) International Seminar on the Measurement of Disability, 25 Universal design (UD), 74, 75, 333; see also Accessibility, sustainability, and universal design; Design for All principles of, 77 in public use infrastructure models, 17, 18 Universal design for learning (UDL), 138–139 Usability defined, 340, 342 rights of access and, 340–341 Usability standards, 341–342 User-assistive technology, 181; see also specific topics
+-  application of UX framework for designing sonified visual Web search engine, 353–354 areas in which it goes beyond usability, 338 in ATA process, 348–351 defined, 337 four phases of, 338, 339 User eXperience (UX) concept application in design system for rehabilitation, 348–351 sonification of the system, 351–353 User eXperience (UX) evaluation evaluator’s mental model for from the
+
+ V
+-  35–36 Visual abilities in behavioral optometry, 208 accommodation, 202, 203, 215–216 binocular vision, 214 convergence, 214–215 field of vision, 218–219 fixation, 211–212 refraction, 216–218 saccadic movements, 213–214 slow pursuit, 212–213 superior perceptive abilities, 219–220 visual acuity, 208–211 Visual functions, evaluation of, 222–223 Visual process from eye to brain, complexity of, 202–208 Visual training, 225 Visus font, 211 Vocal synthesis, 318 Vocational rehabilitation counseling, 121–125, 193 Voice output communication aids (VOCAs), 400 combinations of microswitches and, 407–410 vOICe system, 352–353 Volatile organic compound (VOC)-free manufacturing processes, 77–78 VolumeSonification model, 368
+
+W
+-  Web accessibility, 341; see also Information visualization approach Well-being, 29
+
+
+=== Page 126 ===
+ 
+-  Workplace Technology Device Predisposition Assessment (WT PA), 57, 121 World Health Organization Disability Assessment Schedule (WHODAS), 28
+
+Y
+-  Y-shaped model (rehabilitation process), 18–19
+-  Index

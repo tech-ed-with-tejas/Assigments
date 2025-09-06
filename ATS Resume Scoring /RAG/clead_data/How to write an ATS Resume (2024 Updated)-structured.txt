@@ -1,0 +1,132 @@
+
+=== Page 1 ===
+ 
+-  Resume Advice
+
+How to write an ATS Resume (2024
+-  Ever felt like your resume was the reason you weren't landing interviews? Learn how to write an ATS resume that gets you past the system recruiters use so you can secure your dream job.
+-  Apr 22, 2024 (Updated: Apr 22, 2024) - 5 min read
+-  Written by
+-  As a growth lead, Kevin manages Simplify's blogs, newsletter, and social media growth. He's an experienced job-seeker looking to help others by sharing the latest insights into recruiting.
+-  https://simplify.jobs/blog/how-to-write-an-ats-optimized-resume/
+
+
+=== Page 2 ===
+ 
+-  An ATS can make or break your chances of landing a job interview.
+-  They're the software used by 99% of Fortune 500 companies to manage and process job applications, and they play a major role in the hiring process.
+-  Most notably, they're used as a way to screen job applicants and can determine who gets the job and who doesn't. With Applicant Tracking Systems (ATS) becoming more prevalent in the hiring process, understanding how to tailor your resume to these systems is essential for successful job searching.
+-  In this guide, we will show you how to create an ATS-optimized resume with the latest techniques needed to navigate these systems and land your dream job.
+-  At a high level, an ATS is the software used by recruiters to organize, screen, and manage job applications.
+
+ How an ATS impacts your Job Search:
+-  When job seekers submit their resumes, an ATS parses the documents to extract relevant information such as work experience, skills, and education.
+-  Once that information is organized and in the database, the ATS allows the recruiter to:
+
+Track candidates throughout the application process
+-  https://simplify.jobs/blog/how-to-write-an-ats-optimized-resume/
+
+
+=== Page 3 ===
+ 
+-  For example, let's say a recruiter is looking to hire a Social Media Manager with experience as a Social Media Intern and skills in Adobe Suite, graphic design, and Excel.
+-  When the recruiter searches for those relevant skills/experiences, the ATS will rank the candidates based on who fits the desired candidate the best.
+
+The more keywords your resume has, the higher you may rank as an ideal candidate in the ATS.
+-  Because some of the keywords are present in your resume, you will show up in the search but you will rank below someone who has more keywords.
+-  If the ATS is unable to parse your resume for the desired keywords, your resume will not show up in this search.
+-  https://simplify.jobs/blog/how-to-write-an-ats-optimized-resume/
+
+
+=== Page 4 ===
+ 5 tips to create an ATS Resume
+-  Creating an ATS resume comes down to understanding how these systems work and positioning yourself and your experiences to be seen as a strong candidate.
+-  We'll cover our top 5 tips to get past the ATS and into an interview:
+-  Keep reading to learn more 👇
+
+ Z Simplify | Blog
+
+ 1. Adding the Right Keywords
+-  One of the most critical aspects of writing a resume optimized for the ATS is selecting the right keywords. Start by carefully reviewing the job description and identifying key skills, qualifications, and requirements.
+-  Pay specific attention to hard skills, since these are often the easiest ones to add. Hard skills can include:
+
+Graphic Design: Adobe Photoshop, Figma, Canva
+-  Tailor your resume to include these keywords and phrases exactly as they are in the job description, doing your best so they appear naturally throughout your resume. A great place to include keywords is in your work experience bullet points, or in a separate "skills" section.
+-  https://simplify.jobs/blog/how-to-write-an-ats-optimized-resume/
+
+
+=== Page 5 ===
+ 
+-  Caveat: this doesn't mean adding keywords for the sake of adding keywords — make sure you still have the skills and experiences you're claiming you do.
+-  Boost your keyword effectiveness: make sure to both spell out and include acronyms — “Structured Query Language (SQL)" or "Customer Relationship Management (CRM)".
+-  Simplify's keyword tool tells you which keywords you're missing from each job description. Learn more here!
+
+2. Choosing an ATS Resume Template
+-  Using easy-to-read, formatted resume templates is an easy way to make sure that your resume is properly parsed by the ATS.
+-  Some things to consider for a strong resume format are:
+-  Check out our template here.
+-  https://simplify.jobs/blog/how-to-write-an-ats-optimized-resume/
+
+
+=== Page 6 ===
+ 3. Avoiding Unreadable Graphics/Text
+-  While it can be tempting to try to make your resume look fancy, this will often just make it harder for the ATS to collect the information it needs.
+-  Here's a list of things to avoid:
+
+ Headers/Footers (unreadable by the ATS)
+-  Check your resume for visibility: If you're wondering if your resume will show up in an ATS, try copying and pasting your entire resume into a Google Doc. If some of the text is missing, that means the ATS won't pick it up either.
+
+4. Submitting the correct File Type
+-  These days, Applicant Tracking Systems most commonly are set to read either a Microsoft Word (.docx) or PDF (.pdf) format.
+-  Because formatting can be altered when submitting a Word document, we recommend selecting a PDF format as the standard format to submit your resume.
+-  However, if a company specifically requests a certain file type, always listen to their preference.
+-  Pro tip: Title your resume when you download it so it's clean and professional. An easy label to use is "AdamSmith.Resume.pdf" so that recruiters can quickly differentiate whose resume they're looking at.
+-  https://simplify.jobs/blog/how-to-write-an-ats-optimized-resume/
+-  6/9
+
+
+=== Page 7 ===
+ 5. Testing your Resume
+-  While these are all tried-and-true methods of creating an ATS resume, it's also important to test out your resume in the real world.
+-  To get clear data on what's working for you, consider an A/B test:
+-  This will give you valuable insight into how well your resume performs in different ATS environments.
+-  By testing and refining your resume, you'll ensure that it's fully optimized to get past the digital gatekeepers and into the hands of hiring managers.
+-  Simplify autofills your job applications for free. Start applying here!
+
+ Key Takeaways
+-  In today's digital age, mastering the art of writing an ATS resume is essential for job seekers looking to land their dream roles. By understanding how ATS works and following the tips outlined in this guide, you can significantly increase your chances of getting noticed by employers.
+
+To refresh, here are some major takeaways:
+-  https://simplify.jobs/blog/how-to-write-an-ats-optimized-resume/
+
+
+=== Page 8 ===
+ 
+-  By following these steps, you'll be well on your way to success with an ATS- optimized resume in your job search journey!
+
+ Find your dream job 10x faster with Simplify
+-  Get personalized job recommendations at the most exciting
+-  companies and autofill your applications in 1-click
+-  Get started
+
+Related Articles
+
+
+=== Page 9 ===
+ 
+-  Resume Advice
+
+ How to Use the XYZ Resume Format: A Complete Guide for Job Seekers
+-  Discover the X-Y-Z resume format that Google recruiters love. Learn how to craft a standout resume that makes you irresistible to recruiters. Dive into the XYZ Format now and secure your place at a top company!
+
+ How to Write a Resume Summary in 2024 (10 examples)
+-  Struggling to land interviews? A resume summary might be the answer. Learn how to write an effective resume summary and 10 examples to go along with it!
+-  Kevin Shim 12 May 2024 - 6 min read
+-  Rohan OMalley 20 Jun 2024 - 6 min read
+-  Resume Advice
+
+How to Improve Your Resume with 6 Simple Steps
+-  Unlock the power of a perfectly tailored resume with expert insights on keyword integration, achievement highlighting, and streamlined formatting in today's competitive job market.
+-  Leila Le 4 Nov 2023 - 6 min read
+-  Terms of service
+-  https://simplify.jobs/blog/how-to-write-an-ats-optimized-resume/

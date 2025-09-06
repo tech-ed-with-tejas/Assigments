@@ -1,0 +1,756 @@
+
+=== Page 1 ===
+|
+
+
+=== Page 2 ===
+INTRODUCTION
+-  We find ourselves in a period of significant change and adaptation.
+-  Rapid advancements in technology (ChatGPT), the gig economy and freelancing, and a growing focus on diversity, equity, and inclusion (DEI), continue to reshape workforces in 2023, leading companies to adapt to new models of operation with
+-  What hasn’t changed is the NRWA’s unwavering commitment to you, the job seeker. Our resume-writing experts are dedicated to delivering leading-edge advice and insights to help you navigate the ever-changing job market.
+-  Keeping you informed is our priority. The NRWA ensures you stay ahead of the curve by offering up-to-date information on industry trends, job market dynamics, and best practices, arming you with the most effective strategies for success.
+-  Welcome to our comprehensive online resource: the 2023 edition (Volume 4) of Career Tips for Job Search Success. Here, you'll discover a wealth of job search and career advice, including answers to the most pressing resume questions from our 2022 Ask the Experts blog – such as cover letter creation tips, LinkedIn profile optimization, interview coaching, and job search strategy consultation.
+-  We hope you find our 2023 edition (Volume 4) valuable. And if you are still looking for answers, our experts are just a click away at https://resumeexperts.thenrwa.org/ask-the-experts, ready to provide personalized advice and services to support you as you navigate your job search.
+-  Sara C. Timm NRWA Immediate Past-President 2023 / President, 2022
+-  About the National Résumé Writers’ Association
+-  As the only nonprofit, volunteer-driven association for professional résumé writers, the National Résumé Writers’ Association (NRWA) has set the national standard for excellence in the résumé writing industry.
+
+
+=== Page 3 ===
+FOREWORD
+-  W hile many people are still surprised to hear that the art of resume writing has stimulated the growth of an entire segment of the career services industry, it isn’t as novel as one might think. There is evidence, in fact, that it was inspired by Leonardo da Vinci who, before he was famous for his artistry as a painter, made his living as an armorer — an inventor of weapons.
+-  In what we consider an essential part of the hiring process today, Leonardo handwrote a letter in 1482 to the Duke of Milan seeking his patronage. His remarkable letter listed his skills and experience and, most importantly, called out the benefits his skills would produce for his prospective employer. In other words, Leonardo da Vinci became the first person in recorded history to write what we know today as a resume — a word inspired by the French word for summary.
+-  The resume trend continued with wealthy patrons in the 1500s and 1600s, encouraging the submission of resumes from the skilled artisans and laborers they sought to hire. It doesn’t take too much imagination to suppose that enterprising writers of the day may have assisted in writing these documents for the otherwise widely illiterate population.
+-  Fast forward to the present day. In 1997, the National Résumé Writers’ Association (NRWA) was founded as the first and only nonprofit professional trade association for resume writers in the world. For more than 20 years, the mission of the NRWA has remained unchanged: to increase the visibility of the industry, encourage ethical practices, promote excellence, and raise industry standards through peer marketing and training. While resume writing as a profession was still relatively uncommon in 1997, it has grown over the years, with new members joining the NRWA every month.
+-  Resume writers come from diverse backgrounds: business, human resources, recruiting, and career counseling are common ones. Many resume writers hold advanced degrees and career coaching credentials in addition to the prestigious professional resume writing certification — Nationally Certified Résumé Writer (NCRW) — offered by the NRWA. Acknowledging that the career services industry is not immune to digital disruption, the NRWA rolled out its groundbreaking Nationally Certified Online Profile Expert (NCOPE) certification in 2018. Members who have earned the NCRW credential have demonstrated the highest standards of resume writing excellence. Members who have earned the NCOPE have been trained and certified to help job seekers unleash the power of LinkedIn. Besides these two premier certifications, many of our members have earned other professional resume writing and career coaching credentials as well.
+-  All NRWA members are true resume experts, committed to upholding the highest ethical and professional standards. The NRWA offers members ongoing professional development opportunities utilizing industry- leading webinars, training programs, resources, and conferences. This allows NRWA professionals to stay abreast of changes in the careers industry and best serve our clients and business partners.
+-  In 2018, the Public Image Committee of the NRWA rolled out ResumeExperts.TheNRWA.org, a site dedicated to serving the job-seeking public. Visitors to the site will find valuable information to help them understand the value of working with a professional resume writer and have access to our member database to search and find a professional who will meet their needs.
+
+
+=== Page 4 ===
+
+-  The Ask the Experts section of the ResumeExperts site is a valuable resource for job seekers, providing an easy way to get answers from our expert members about writing a resume, cover letter, and LinkedIn profile, as well as the entire job searching process. This book is a compilation of the questions answered by the many career services experts in the NRWA from January through December 2022.
+-  As da Vinci demonstrated in 1482, there is real artistry involved in writing a compelling and persuasive resume, and NRWA members are steeped in the craft. The resume experts at the NRWA are committed to the career success of the job seekers we work with and offer tremendous inside perspective and advice to help job seekers navigate the evermore complex job market and achieve long-term career goals.
+-  We hope you learn from the advice in this book, and we invite you to visit our Ask the Experts page at ResumeExperts.TheNRWA.org to ask your own questions, which you may find featured on our blog and included in a future volume of this series.
+-  Past NRWA President (2017) and past Chair, NRWA Public Image Committee (2016, 2018)
+
+
+=== Page 5 ===
+TABLE OF CONTENTS
+-  How should my U.S. resume and cover letter differ if I decide to apply for jobs overseas? ................ 5 I’ve always heard that a resume isn’t a venue to tell my life’s story. What should I believe? .............. 6 I just saw a QR code on a resume. Should I be adding that—and for what purpose? ......................... 7 I’ve targeted a company I really want to work for, so I’m applying for multiple jobs? ........................... 7 What are the most common mistakes when writing a resume? ........................................................... 9 How should I write about my education? Add activities, course work, GPA? ................................... 10 I was fired from my last 2 jobs. How do I hide this from prospective employers – or can I? .............. 10 As a Chinese native,what are some best practices around using “nicknames” on a resume? .......... 11 During the pandemic, I couldn’t get an internship. How should I address this on my resume? ......... 13 I am interested in getting roles on both corporate and nonprofit boards. ........................................... 14 I share a name with a person who has a bad public reputation. What can I do about this? .............. 14 I’ve heard that the hiring processes for tech roles at FAAMNG is very different. ............................... 15 I lied on my resume to get my current job. I’m up for promotion.. ....................................................... 15 I don’t think I need a Summary on my resume. ................................................................................... 16 I don’t feel comfortable about some jobs I have done in the past. What do I put on my resume? .... 18 Should I include my military service on my resume? It goes back more than 20 years ago. ............. 18 How much should I disclose to a prospective employer about an old DUI? ...................................... 20
+-  Should I incorporate media in my LinkedIn profile? If so, what? ........................................................ 21 Should I use the public “Open to Work” graphic on my LinkedIn profile photo? ................................ 22 Which LinkedIn privacy settings are important for me to consider when job hunting? ....................... 23 Is it wise to accept connections from everyone who contacts me on LinkedIn? ................................ 23
+
+
+=== Page 6 ===
+ Chapter One
+
+ A WINNING RESUME
+
+Your #1 Career Marketing Tool
+-  Despite the emergence of new and increasingly sophisticated technologies and hiring practices, the resume is still the most relevant and widely used career marketing tool in the job search. A great resume highlights the full scope and depth of your experience while conveying a compelling reason for a prospective employer to need and want your services.
+-  How should my U.S. resume and cover letter differ if I decide to apply for jobs overseas?
+-  Answers from our experts:
+-  Familiarize yourself with your target country’s resume/CV guidelines. Leave your address off your resume UNLESS you have secured a residence in your target country. You can use your cover letter to share details about your relocation plans. Purchase an international phone number that links to your phone, giving the pretense of a local presence and increasing your chances of being contacted.
+-  Kate Williamson, Scientech Resumes
+-  Many countries overseas expect a headshot on your resume (referred to as a CV) along with some personal information like marital status and number of children. In the U.S., neither of these are acceptable to decrease discrimination in hiring. Because different companies have different expectations, it would be worth your time to research the countries you are targeting.
+-  Cathy Lanzalaco, Inspire Careers
+-  Oversees is a very big area filled with unique nuances to consider. Drill down your research by individual country. After completing your value proposition to target your resume and cover letter, write a clear, concise, customized application. Consider the results of your research into the company, its competitors, and its customers. Educate yourself for cultural fit for country and company.
+-  Gayle Draper, Intentional Careers and Human Resources
+
+
+=== Page 7 ===
+
+-  U.S. resumes can differ greatly from those in other countries. There is not a one size fits all. You will want to do some research by going directly to each governments’ department of labor (or similar) website to find best practices for resumes. GoinGlobal (https://www.goinglobal.com/) is another site with country guides that offers this information on both resumés and cover letters.
+-  Jennifer Grunwald, University of Connecticut
+-  I’ve always heard that a resume isn’t a venue to tell my life’s story. That makes sense, but now I’m hearing that I shouldn’t shy away from telling my story. What should I believe?
+-  Answers from our experts:
+-  You need to find a happy medium! Your resume should contain info relevant to the role(s) you’re applying for, but your experience should weave a narrative that tells your story *in relation to that next step*. E.g., if you’re applying for a senior management position, focus on any the leadership roles you’ve had in the past to show how your experiences have built the foundation for your future success.
+-  Amber Barney, Lumen Agents, LLC
+-  Storytelling in resume writing means cohesively sharing your professional experiences, demonstrating what makes you unique, and how you solve an employer’s most pressing problems. Content and impact (quality) should be the cornerstone of your story, not recanting every job you’ve ever held (quantity). The goal of telling your career story is to engage your reader and spark interest in your brand.
+-  Cathy Lazalaco, Inspire Careers
+-  Tell your story in a relevant way! Analyze employer needs from job postings, then selectively add achievements to your resume that directly prove these capabilities, using the C-A-R format to describe the Challenge you faced, Action you took, and the Result of your efforts. Use a resume summary to highlight your personality, value proposition, and approach related to these accomplishments.
+-  Laura Smith Proulx, An Expert Resume
+-  A resume is a summary of your relevant accomplishments: those that would resonate with what the prospective employer needs. It is in a sense a “story” of your career journey in the form of your advancement and contributions. However, the larger “story” can be told during the interview. This is when you can, indeed, tell individual stories of your success and resilience.
+-  Ruth Sternberg, Confident Career Search
+-  A resume serves as a highlight of your achievements. Concentrate on the last 10–15 years, and if your earlier experience is relevant, very briefly summarize it in the document. As you prepare to interview, practice your “CAR” stories. What was the challenge you faced? What action did you take to solve the challenge? What were the results? During the interview, weave your stories into your answers.
+-  Nelly Grinfeld, Top of the Stack Resume
+
+
+=== Page 8 ===
+
+-  Your resume should convey your story just as a movie trailer markets the story for an upcoming movie. Provide highlights; stress the action; customize content for the audience; skillfully format and edit for the viewer. Leave them wanting more. The goal for both is the same—to raise interest in seeing the product. In short, don’t shy away from telling your story, but tell it concisely.
+-  Edward Lawrence, Getstarted LLC
+-  I just saw a QR code on a resume. Should I be adding that—and for what purpose?
+-  Answers from our experts:
+-  Adding a QR (Quick Response) code to your resume enables whoever reads the document to access your online content quickly and easily. QR codes say you’re “tech-savvy,” and they can direct people to a single page (such as your personal website or LinkedIn profile) or, for maximum leverage, to your own page on LinkTree or Lnk.bio, where you can provide a virtually unlimited number of resources.
+-  Paul Bennett, NOVA Career Strategies
+-  I would not add a QR code to a resume sent through an ATS, as it would probably have trouble parsing the information into something readable. I would consider adding a QR code to a physical resume. It would need to be tastefully incorporated into the overall resume design and linked to something valuable to the interview, such as a design portfolio or a GitHub repository of programming projects.
+-  Lisa Dupras, Elev8 Career Coaching
+-  QR codes are a fast and easy way to help direct the reader of your resume to additional resources or content you want to share with them to enhance your career story. QR codes can be created for LinkedIn profiles, websites, diverse media content, and can be modified to coordinate with your branding colors. QR codes can be a great complement to your resume to distinguish your candidacy.
+-  Cathy Lanzalaco, Inspire Careers
+-  QR codes can be inefficient since it forces hiring managers to hunt for details you could include on your resume. That said, it depends on your audience and how you use it. A QR code that links to relevant content, like an online portfolio, can differentiate you if you’re targeting a tech start-up. However, you may want to avoid this approach in more traditional industries like finance.
+-  Kate Williamson, Scientech Resumes
+-  I’ve targeted a company I really want to work for, so I’m applying for multiple jobs. Is that okay? Do I have to use the same resume, or should I change it each time?
+-  Answers from our experts:
+
+
+=== Page 9 ===
+ 
+-  Customize your resume for each job to reflect an understanding of the position’s unique requirements and the contributions you can make. Showcase your familiarity and experience with the job functions in your summary of qualifications and experience. In your cover letter, let the employee know you are applying for other positions because your career goal is to work for their company.
+-  Lorraine Beaman, Interview2work LLC
+-  For the best results, you should tailor your resume to each position you are applying for. While targeting a company and tailoring toward their overall goal and/or vision is great, different positions likely have different requirements and qualifications that you will want to include in your resume to pass potential ATS systems.
+-  Casie Dingwell, Opening Doors Resume & Writing Services
+-  Take the initiative and network your way into a few informational interviews to help you with customization and personal referrals within the company. HR and hiring managers love to hire with current employee referrals and recommendations. Each resume should always be targeted. I recommend the 80/20 rule. Only 20% will need to be tweaked through a value proportion exercise.
+-  Gayle Draper, Intentional Careers and Human Resources
+-  First, make sure you are truly interested in/qualified for each position; applying to too many unrelated jobs could come across as desperate or uninformed. Examine each job posting carefully to spot the differences in requirements. Tailor each resume to capture those unique keywords in your accomplishment bullets. No two jobs are the same—demonstrate how your experience applies to each position.
+-  Alison King, Copyedit Queen
+-  There’s no reason why you can’t apply to multiple jobs with the same employer, but be sure to customize your résumé, wherever possible, for each position: critically evaluate the whole document (especially the summary, employment section, and skills listing), adding, subtracting, modifying and reordering content to emphasize what’s most relevant to that specific resume’s intended job target.
+
+Paul Bennett, NOVA Career Strategies
+-  Companies prefer to hire skilled people who know what they want to do. They don’t want desperate, unfocused people. If you apply for multiple jobs at a company, only apply to similar roles and customize the resume for each role. This strategy shows your continued interest; demonstrates your interest in the general area; and minimizes the amount of required resume customization.
+-  Edward Lawrence, Getstarted, LLC
+-  Blitzing a company with applications can demonstrate your desire to work there, or it can backfire if you are just pressing “Easy Apply” to any job they have posted. For companies on your shortlist, target the jobs that best match your skills and experience and at the level that you seek. Take the time to edit your resume and cover letter to address the specifics of each position.
+-  Cathy Lanzalaco, Inspire Careers
+
+
+=== Page 10 ===
+
+-  What are the most common mistakes when writing a resume?
+-  Answers from our experts:
+-  Career Experience bullets sound like a list of job functions. Bullet points need to showcase values, outcomes, solutions, or quantitative results you can point to; you need to separate job function from delivered value. They think it MUST be one page, and they squeeze so much on that page or leave a lot out; when two/three pages can be the perfect fit to tell your career story.
+-  Thomas Powner, Career Thinker, Inc.
+-  Whether a company uses application tracking software (ATS) or not, three common resume mistakes are often the nemesis of having your resume landing in the NO pile. 1 – Not using keywords found in the job description in citing your experiences and accomplishments. 2 – Listing your responsibilities instead of your accomplishments. 3 – Improper syntax and grammar.
+-  Lisa Hebert, LMH Advisors, Inc.
+-  Focusing on job tasks versus accomplishments, lack of personal branding, and spelling errors are the most common mistakes when writing a resume. A powerful resume describes your accomplishments as a representation of the value you have added; personal branding showcases what is unique about you; and impeccable spelling is always expected.
+-  Cathy Lanzalaco, Inspire Careers
+-  Common resume mistakes: (1) Typos (get someone to proofread your resume). (2) Length (1 page for most mid- to senior-level jobseekers is too short, while 3 pages is too long with notable exceptions in academia and technology). (3) Lack of specific measurable data and projects (hiring officials like to see specifics). And (4) failure to address job-specific requirements (read the job ad text carefully).
+-  Grant Cooper, Strategic Resumes & Business Plans
+-  Most self-authored resumes tend to include a long list of job duties. Instead, a short paragraph describing high-level duties followed by up to 5 bulleted accomplishment statements is more powerful. Hiring managers want to know what you can do for them, so sharing actions you took/results delivered to past employers will set you apart from competitors and be a springboard for interview questions.
+-  Kathy Keshemberg, A Career Advantage
+-  Aside from the obvious (e.g., grammatical errors, formatting inconsistencies), the most common resume mistake is focusing on the wrong things. A resume is a marketing document. Don’t focus on the minutiae of your day-to-day work. What are your wins? Accomplishments? How do you stand out? Quantify (results, figures) and contextualize (team size, workplace/industry needs) to highlight your value.
+-  Amber Barney, Lumen Agents, LLC
+
+
+=== Page 11 ===
+
+-  How should I write about my education? Add activities, course work, GPA …?
+-  Answers from our Experts:
+-  If you are seeking an entry-level role, more education detail is needed (courses, activities, projects) since you won’t have as much experience to rely on. Seasoned professionals can include less (just the school’s name and degree achieved). I only advise including your GPA if you earned a 4.0 or higher. The key is to provide details that will matter to the target audience.
+-  Angela Watts, MyPro Resumes
+-  If you are a recent graduate, and all you have is your academic highlights, by all means, embellish away. Unless your GPA is over 3.5, leave it off. However, once you start your career, your professional accomplishments become most important. Feel free to keep professional affiliations and community contributions under a separate heading, as long as they are relevant to your career.
+-  Nancy Grant, Regional Career & Employment Services
+-  Education section is important for recent grads/those early in career w/out a lot of experience. Include course work related to targeted jobs to get those keywords into your resume. Any activities that are relevant to your desired job should be included and bonus if you held a leadership role. If you’ve held a job for a few years, then education drops down and listing school/degree is sufficient.
+-  Kathy Keshemberg, A Career Advantage
+-  The farther you are away from graduation, the less the details of your education matter. If you are a new graduate, mention it all to boost your value and credibility. If graduation was five or more years ago, drop the GPA and course list, and focus instead on new trainings and certifications since graduation.
+-  Cathy Lanzalaco, Inspire Careers
+-  It all depends on the resume; a recent graduate might need to show more about their education, activities, and GPA as they don’t yet have other experience. This information can be less relevant for someone who graduated 20 years ago. So, it’s all about being current and relevant to your current career target.
+-  Thomas Powner, Career Thinker, Inc.
+-  I was fired from my last 2 jobs. How do I hide this from prospective employers – or can I?
+-  Answers from our Experts:
+
+
+=== Page 12 ===
+
+-  It’s not necessary to note on your resume that you have been fired. However, especially if your termination resulted in career gaps or a short tenure, it is imperative that you prepare an authentic but delicate explanation in case the topic is called into question. If it’s a particularly sensitive topic, preparing with a career coach beforehand can be helpful. Honesty is always the best policy!
+-  Amber Barney, Lumen Agents, LLC
+-  I’m sorry you’ve had this experience. Know that poor job fit happens, but the job for you is out there. You can’t hide being fired from prospective employers nor should you try. The goal is to identify what you have learned from these past experiences and communicate how you have grown and why the job you are interviewing for IS the right fit for both you and the employer. You’ve got this!
+-  Cathy Lanzalaco, Inspire Careers
+-  You don’t. If you do, most employers have a clause in your employment agreement that says if you are not forthcoming, they can terminate you. Work on crafting a truthful story that explains why you were terminated. Don’t lie because it will come back and bite you badly in the end.
+-  Fred Coon, Stewart, Cooper & Coon
+-  On a resume, you do not state why you have left a job, so when a prospective employer reads your resume, they do not know why you left. However, if you are asked in an interview why you left, if you were fired, you need to be honest and state why very briefly. Hopefully, the employer will appreciate your honesty and move on to other questions giving you the opportunity to sell your value to them.
+-  Cherie Heid, Competitive Edge Resume Service
+-  Own it if you were asked to leave. Hiding can influence negativity and bias. Don’t clutter your resume with unnecessary information; the resume is about what you did and your accomplishments. You are under no obligation to give details of a “firing.” If you have many jobs <1 year, then you will practice stories about why moving to a new job made sense.
+-  Kathleen McGrorty, NewView
+-  As a Chinese native, I plan to use my westernized first name, “Jennifer,” on my resume instead of my real name: “Xiaoying.” What are some best practices around using “nicknames” on a resume?
+-  Answers from our Experts:
+-  Name bias is real, repulsive, and career-damaging. Resumes using “American-sounding” nicknames are 2x more likely to get an interview (Kang, 2016). Resumes with African‐American sounding names received 50% fewer callbacks compared to those with white‐sounding names (Bertrand & Mullainathan, 2004). With name bias in mind, use the nickname harmoniously across resume, social, and email.
+-  Cheryl Minnick, University of Montana
+
+
+=== Page 13 ===
+
+-  If you’ve continually used this nickname in your professional career, then you could include it on your resume this way: use Xiaoying “Jennifer” Chen in the name area at the top, and on subsequent pages. If you’re adding testimonials to your resume, you could also ensure they are using the nickname (“Jennifer led our enterprise project…”).
+-  Laura Smith-Proulx, An Expert Resume
+-  Using your nickname on your resume is a good idea, so long as the name isn’t frivolous or potentially offensive (because that could turn off your readers). And be sure to use your nickname consistently everywhere you can be found online (e.g., on LinkedIn) to make it easier for people to find you.
+-  Paul Bennett, NOVA Career Strategies
+-  Your legal name is required when you complete Form I-9 to prove identity and work authorization, and your documents must show that name. Same for tax forms and payroll, and likely also for benefit enrollment forms. Beyond that, if you go by Jennifer, you can list it on your resume with or without your legal first name: Jennifer Smith, or Jennifer (Xiaoying) Smith, or Xiaoying “Jennifer” Smith.
+-  Meg McCormick Martin, HR Meg
+-  Nicknames can be used to let others know how you wish to be addressed. Using your legal name in the resume header with your preferred name or nickname in parenthesis is easy and perfectly acceptable. Cathy Lanzalaco, Inspire Careers
+-  Using a preferred name is common practice. Another widely used strategy is placing your preferred name in quotes. For example, Xiaoying “Jennifer” Lastname. This tells the reader that the name you prefer to be called is “Jennifer.” People are also using name pronunciation features to help others pronounce their names accurately. Both options are great.
+-  Tammeca Riley, Infinite Potential Resumes
+-  Names are an important part of our identity and unless you prefer the name “Jennifer” to Xiaoying, then I would encourage you to use it. You can leverage LinkedIn’s name pronunciation to make people feel more confident in pronouncing your name correctly. If you prefer Jennifer then use it on your resume, but unless it’s been legally changed, use Xiaoying on your application.
+-  Teegan Bartos, Jolt Your Career
+-  Many people are finding roles away from home country. A person’s name is part of who they are and their cultural identity. I recommend starting with the name easily used by your target “country” and use your native first name as the nickname. Example – Jennifer “Xiaoying” SURNAME. You may need to show your surname in a westernized format. My Asian clients have used this method with success.
+-  Kathleen McGrorty, NewView
+
+
+=== Page 14 ===
+
+-  During the COVID-19 pandemic, I couldn’t get an internship. Now I’m graduating with no experience, which is atypical for my chosen career path. How should I address this on my resume?
+-  Answers from our Experts:
+-  What did you do instead of an internship? Take more classes? Volunteer? Focus on sharing other experience or education you gained and how that experience applies to where you are going in your career.
+-  Jaime Chambron, Career Agility System
+-  Besides internships, other things you can add are volunteering, awards, and activities. I would even dive deeper and use your education as experience. Talk about projects you were involved with during classes related to your desired career profession. Highlighting this shows your industry skill and knowledge.
+-  Melissa Carvalho
+-  School projects, simulation work, group projects, and other immersive coursework are all relevant and should be outlined in your resume. Mention any group projects you’ve led or coordinated. Remember to incorporate key terminology when explaining what you’ve learned from your academic work. This information will provide recruiters / hiring managers with great insight into your capabilities.
+-  Tammeca Riley, Infinite Potential Resumes
+-  Aside from internships, there are several areas to explore to find and highlight valuable experiences for new college graduates. Whether academic projects or coursework, volunteer experience, community involvement, clubs, and even sports, offer opportunities to draw upon relevant skills and experience. Skills such as leadership, teamwork, and collaboration are all valuable.
+-  Robert Rosales, EZ Resume Services
+-  On one hand, you may not be alone. On the other hand, you can set yourself apart by illustrating things you've done in lieu of an internship to gain relevant experience. Fill in the gap by joining a professional association, obtain a certification, or continue with professional development relevant to your field. Connect with people in the industry to make up for lost time.
+-  Nancy Grant, Regional Career & Employment Services
+-  It will not be easy to overcome your lack of an internship, which is expected in your field. However, if you have not already done so, I would suggest documenting and describing any school projects that may have a relationship to your job target. Also, start reaching out now to companies, seeking brief, unpaid, virtual volunteer assignments that could partially make up for a lack of an internship.
+-  Grant Cooper, Strategic Resumes & Business Plans
+
+
+=== Page 15 ===
+ 
+-  No internship, no worries! Sadly, this has been a common experience for many in the Class of 2022. Instead, highlight the team projects, sports, and events you were involved in. Call out your leadership and volunteer experiences and what skills you gained from them. Showcase any awards you’ve won and being on the Dean’s List. Communicate everything you DO have and move forward with confidence!
+
+Cathy Lanzalaco, Inspire Careers
+-  I am interested in getting roles on both corporate and nonprofit boards. How do I write my resume for this purpose? Do I need two different resumes – one for corporate board roles and another for nonprofit board opportunities?
+-  Answers from our experts:
+-  To target corporate boards, build a short version of your resume detailing strategic contributions such M&A, growth, turnarounds, and value creation, plus leadership, speaking, and industry expertise. Nonprofit board resumes should also describe the causes you care about, plus your fundraising, marketing, or event planning experience. Both these resumes can use a summarized work history.
+-  Laura Smith-Proulx, An Expert Resume
+-  I share a name with a person who has a bad public reputation, and I think it’s costing me interviews. What can I do about this?
+-  Answers from our Experts:
+-  You have several simple options to differentiate yourself:
+-  > Use a middle initial (Michael B. Jordan).
+-  > Use a full middle name (LaKeisha Monique Smith vs. LaKeisha Smith).
+-  In the long term, improving your online search results will also help. Writing articles and having a social media presence on multiple platforms will dominate the top of the Google results, for example.
+-  Dan Shortridge, Results Resumes
+-  Many recruiters will do a social media scan and an internet (Google) search of your name. Get in front of it on your resume and LinkedIn, call out the situation, and provide a few links to your accurate Google search.
+-  Thomas Powner, Career Thinker, Inc.
+-  Try modifying your name slightly to start. Include a middle initial, change Robert to Rob, use your first initial and last name, or use your first and middle name only to avoid any initial confusion. Just make sure to align your public profiles with the same name you are using for the application. Lastly, make sure to include direct links to your profiles to avoid employers finding the bad ones.
+-  Nancy Grant, Regional Career & Employment Services
+
+
+=== Page 16 ===
+ 
+-  Consider using a middle initial in your LinkedIn Profile and resume (in particularly egregious situations, some people adopt a middle name as a first name). Network extensively with your target employers, making connections and personally introducing yourself where possible; stay active on social media. The relationships and reputation you form will help distinguish you from the other individual.
+
+Laura Smith-Proulx, An Expert Resume
+-  I’ve heard that the hiring processes for tech roles at FAAMNG (Facebook, Apple, Amazon, Microsoft, Netflix, Google) is very different from those at other types of tech companies. What do I need to know in terms of preparing my resume and getting ready for interviews at these specific companies?
+-  Answers from our Experts:
+-  Your resume should show examples of projects proving your tech competencies (algorithm, coding, development, design, etc.). FAAMNG companies expect high-performance, committed performers, so be ready with answers to common interview questions. Research the theory behind curveball questions using Google. Prepare examples of how you use analytical thinking skills to solve complex problems.
+-  Laura Smith-Proulx, An Expert Resume
+-  I lied on my resume to get my current job (I said I had a degree which I do not). I’m up for promotion and they need an updated resume. Should I leave it as is or tell the truth now?
+-  Answers from our Experts:
+-  I recommend telling the truth and preparing for the consequences. Living under a lie takes a mental health toll, impacts your integrity and you will eventually be found out. Execs who have been caught always wish they’d come clean earlier. This may be an opportunity to explain how you’ve championed the role without a degree. Perhaps you can evoke company policy change and advance at some point.
+-  Angela Watts, MyPro Resumes
+-  Busted! Come clean and accept responsibility. It’s up to your employer how they want to handle this. The worst thing you can do is perpetuate the lie. The second worst thing is to over-explain the situation.
+-  Kathleen McGrorty, NewView
+
+
+=== Page 17 ===
+
+-  First, you need to be prepared for the fact that there could be repercussions either way. Worst case: This could cost you the promotion, your job, and your reputation. However, they might not notice or care (if the degree is not a requirement of the position). You should tell the truth; you had a lapse in judgment when initially hired and understand this may impact their decision.
+-  Alison King, Copyedit Queen
+-  So, this is a serious problem; and one that could get you fired. If it was an honest mistake, like you accidentally put a date of completion instead of attendance, maybe approach human resources and come clean. If you’ve been a solid producer, they may understand. However, if you choose to perpetuate a lie, my advice? Hold off on that promotion, finish your degree, or look for a new job!
+-  Nancy Grant, Regional Career & Employment Services
+-  Tell the truth now. Get out in front of it. Realize disclosing this now may lead to disciplinary consequences and possible termination, but to live with the fear of being exposed is worse. With that in mind, be strategic about how you approach it with your boss or HR. Don’t make excuses and be prepared to offer a plan to rebuild their trust including obtaining the degree you don’t have now.
+-  Cathy Lanzalaco, Inspire Careers
+-  Ethically, you should come clean. Unfortunately, lies often have consequences. People have been fired for lying on their resumes, even after years of doing the work well. Consider talking to a lawyer or a union rep, if available. Another option is to submit the updated resume and don’t say anything, unless asked. The resume could be a formality. If asked, though, tell the truth.
+-  Edward Lawrence, Getstarted LLC
+-  Tell the truth, not lies to cover lies. Correct your resume to control the narrative (share credits taken/left for the degree) and repair broken trust. Lying on resumes isn’t technically illegal as resumes are not legal documents, and you won’t be prosecuted for lying. However, you may be terminated like MIT’s admissions dean, Notre Dame’s football coach, Radio Shack’s CEO, and others.
+-  Cheryl Minnick, University of Montana
+-  Submit an updated resume with correct and accurate information. It may be accepted without scrutiny of your earlier document. Of course, there is also the chance that you will be confronted about the discrepancy. In that case, you should come clean, admit to an earlier error in judgment, and let the chips fall where they may. In any event, you should prepare yourself now for a new job search.
+-  Grant Cooper, Strategic Resumes & Business Plans
+-  I don’t think I need a Summary on my resume. Doesn’t a summary duplicate my achievements from the Experience section and thus waste space?
+-  Answers from our Experts:
+
+
+=== Page 18 ===
+
+-  Not true! A personally branded Summary section will make a strong first impression on a recruiter or hiring manager reading your resume and convey the unique value that you offer. It also is a great place to address how your skills and experience align with the job posting for ATS (keyword search) purposes. Use the Experience section to detail your specific achievements as they relate to each job.
+-  Cathy Lanzalaco, Inspire Careers
+-  An effective summary is essential to capture the reader’s attention by clearly identifying your job target and providing an overview of what you have to offer relevant to the position. Include years of experience, areas of expertise, and distinguishing traits that contain keywords aligned with the job. It must generate interest in you. Add supporting details in the experience section.
+-  Robert Rosales, EZ Resume Services
+-  Summary sections can be effective when utilized properly. Use the Summary section to highlight areas where you add value to your industry (e.g., marketing or costs savings), a notable achievement or two, “soft skills” like leadership and creativity, and/or your intentions for a career transition. Much like with a book, the Summary should pique the reader’s interest and drive them to keep reading.
+-  Amber Barney, Lumen Agents, LLC
+-  The Summary section is your first chance on the resume to differentiate yourself from the competition. What do you want an employer to know about you? What’s your superpower? What’s your career theme? State them here. Don’t waste space by duplicating information found in the Experience section. Instead, consider the Summary section to be advertising copy, presenting yourself concisely.
+-  Edward Lawrence, Getstarted LLC
+-  Be strategic. Replace “Summary Section” with your value proposition statement, “STRATEGIC AND ACCOMPLISHED BI-LINGUAL OPERATIONS LEADER”. You can then follow that with two or three bullets that support or add to that statement. “Transformational leader who consistently delivers significant impact on growth and bottom-line results—reduced operations time 30% and operation cost 40%.”
+-  Denise Bitler, Resume-Interview Success, LLC
+-  You can either eliminate the resume Summary with several short taglines that describe your goals and career high points or write a short and potent Summary to direct employers to your career level, where you note achievements at a high level. No matter what, be sure to reference your soft skills by describing how you influence change, spearhead growth, and develop the next generation of talent.
+-  Laura Smith-Proulx, An Expert Resume
+-  Identify your target before you include a resume summary or not. Sending it directly to executive search/3rd party recruiter? They will remove a summary before sending to their client. So, for this scenario, don’t include one. But if you’re networking or marketing yourself to a hiring manager, a summary will give the reader cherry-picked wins relevant to the job you want as a strong 1st impression.
+-  Lisa Rangel, Chameleon Resumes
+
+
+=== Page 19 ===
+
+-  I don’t feel comfortable about some of the jobs I have done in the past. Two of my employers were, shall we say nicely, controversial—as were the jobs I had there. What do I put on my resume?
+-  Answers from our Experts:
+-  You get to choose what you do and do not include in your resume. . . an employment application is another matter. In most instances, it’s advantageous to be ahead of the issues. Tell the story in your words and share what you learned from the experience. You also need to consider, if you omit information, that you may be “found out” down the line. What might this cost you? Is it worth it?
+-  Angela Watts, MyPro Resumes
+-  There are 2 choices depending on comfort level, omit or include controversial jobs on a resume. If choosing to include them, a professional resume writer can help massage details truthfully and prepare you for interviews. Herbalist, AB Greenhouse (pot grower); Hospitality, DE Bar & Lounge (exotic dancer); Reproduction Team, Hatch Agency (surrogate); Toxicology Researcher, GH Lab (animal tester).
+-  Cheryl Minnick, University of Montana
+-  Be truthful on your resume, but that does not mean you have to include every job you’ve ever had if they do not relate to your current career goal. If the skills or experience gained in these past jobs add value to your candidacy for the next one, place the focus on that. You can also use a well-crafted cover letter to address what concerns an employer may have about your previous jobs.
+-  Cathy Lanzalaco, Inspire Careers
+-  Should I include my military service on my resume? It goes back more than 20 years ago.
+-  Answers from our Experts:
+-  Yes, please do! Military experience is often welcomed by employers, as it demonstrates the ability to meet stringent deadlines, follow orders, and collaborate with colleagues. Show the last rank achieved with a brief description of achievements in your work history; omit dates if needed. Showcase your military background up front in the resume summary (such as “Navy veteran”).
+-  Laura Smith-Proulx, An Expert Resume
+-  My suggestion: YES! It’s foundational to your career. For private sector resumes, you can write: Translated Job Title. Military Branch. Month Year-Month Year. List 2-3 Key Accomplishments. For federal resumes, you list Military Service as a category. Translated Job Title. Military Branch. Month Year-Month Year. List 2- 3 Key Accomplishments. You can also list it under Experience to score higher.
+-  Camille Roberts, CC Career Services
+
+
+=== Page 20 ===
+ 
+-  Yes! Many American employers value our military, and they may prefer to hire a veteran. You do not need to list your job duties in great detail since it was 20 years ago unless it relates to the job you are applying to now. At least list the branch of service, dates, and your last job title and rank. On another note: Thank you for your service to our country!
+
+Cherie Heid, Competitive Edge Resume Service
+-  Most times showing your service is beneficial but translated to be relevant to your target positions. I work with former military and each situation is different. Mention it (maybe not all the details) if it helps in the hiring process. Many times, former military are evaluated by a separate team specializing in military hiring. Your service needs to be mentioned to be routed to that team.
+-  Lisa Hebert, LMH Advisors, Inc.
+-  Absolutely. You don’t necessarily need to include the dates, however many employers desire to hire veterans. You should provide the branch of military you served, general titles you held, and the rank you held upon leaving. If you had any significant achievements or roles while enlisted that are relevant to your job search, you can provide them. Otherwise, just a listing of service will do.
+-  Nancy Grant, Regional Career & Employment Services
+-  Yes. Some employers give preference to hiring veterans, and the general public has a favorable opinion of those who have served. The fact that it was 20+ years ago should not pose a major problem, in most cases. You may also want to include your job duties, promotions, military awards, performance evaluations, projects, and training courses. It is best to use civilian terminology, where possible.
+-  Grant Cooper, Strategic Resumes & Business Plans
+-  You do not need to include dates or details about your military service; however, it’s a great idea to mention this in an “Early Career” or “Military Service” section (since many employers give preference to veterans). If your military positions relate to your target roles, then provide more detail in this section.
+-  Angela Watts, MyPro Resumes
+-  Thanks to those who served in the military. U.S. military experience is a marketable resume asset. Some employers specifically recruit veterans due to the skills and variety of job experiences, such as service, discipline, accountability, complex project management, teamwork, and training. Getting assistance highlighting military experience in civilian terminology can help secure interviews.
+-  Ruth Pankratz, Gabby Communications
+-  Skills and experience gained during military service can be highly desirable to an employer and should be included in your resume. When that experience is 20+ years old, you can carve it out from the Work Experience and create its own section to showcase the position(s) you’ve held along with the skills gained— think technology and leadership—and thank you for your service!
+-  Cathy Lanzalaco, Inspire Careers
+
+
+=== Page 21 ===
+
+-  How much should I disclose about an old DUI (more than twenty years) to a prospective employer?
+-  For any offense, don’t try to talk your way out of it by blaming someone or something else. Instead, if someone inquires about it, tell them what you’ve learned from it since then, especially if it was a long time ago. Truth is gold in interviews. If there are no other offenses since then, that speaks volumes as well.
+-  Kiersten Troutman, Second Glance Résumés
+-  Honesty is always best when it comes to background, because they will run a check. DUIs may or may not fall off your record after a certain period. You can address it proactively by saying you have DUI from more than 20 years ago. You have since addressed the issues surrounding it, and you have had a clean record ever since. You needn’t go into details.
+-  Ruth Sternberg, Confident Career Search
+-  Honesty is always the best policy when it comes to past legal infractions. If you had one DUI 20+ years ago and none since, an employer will probably not be concerned, especially if it happened when you were young and less responsible. However, if you don’t disclose the DUI and it comes up in their background check, they will be very concerned about your integrity.
+-  Brenda Bernstein, The Essay Expert LLC
+-  If asked on a job application or in an interview, you must tell the truth. If they ask for any details, continue telling the truth—It was 20 years ago. And I hope you can continue telling the truth: I was much younger; I made a bad mistake. I learned my lesson. I never did it again.
+-  Edward Lawrence, Getstarted LLC
+-  It depends. Know the laws that pertain to DUIs in your state to help you determine if it will need to be disclosed. Consult an attorney, if unclear. Generally speaking, if it is not asked, do not offer the details. If a background check is required, you may need to disclose that it will come up since HR professionals prefer proactive transparency versus reactive justification.
+-  Lisa Rangel, Chameleon Resumes
+-  If the offense was a felony and you are asked to “check the box” on the application, you should disclose the conviction and date. (Unlike your resume, the application is a legal document.) If the offense was a misdemeanor, do not disclose it until you are negotiating a job offer and facing a background check. Keep facts to a minimum and present it as a learning experience that was never repeated.
+-  Mary Jo King, Alliance Résumé & Writing Service
+-  Guidelines for honesty and candor in employment applications: 1) Never directly lie on an application, 2) check state laws to see if they contain relevant provisions that are helpful, 3) never volunteer adverse information that is not specifically requested, and 4) assess the relevancy of information you propose to hide. As just one example, driving records may not be relevant to remote positions.
+-  Grant Cooper, Strategic Resumes & Business Plans
+
+
+=== Page 22 ===
+ Chapter Two BEYOND THE RESUME Leveraging LinkedIn in your Job Search
+
+Chapter Two
+-  Your resume is at the heart of your career marketing campaign, but an attention-grabbing LinkedIn profile can help you stand out among a sea of applicants. With 900 million users across the globe, LinkedIn is clearly the top professional social networking site in the world. To leverage its power, ensure your profile is up to date and stay abreast of new functionality, features, and best practices that can enhance your job search.
+-  Should I incorporate media in my LinkedIn profile? If so, what?
+-  Answers from our experts:
+-  Oh, yes! Please do! Media will enhance the visual appeal of your profile and help to drive engagement with your brand. Start by filming your LinkedIn Cover Story to personally introduce yourself. Then build out your Featured section to add pictures, presentations, podcast interviews, videos, posts, or website links that support your brand and value offering. Have fun with it!
+-  Cathy Lanzalaco, Inspire Careers
+-  The most important media: (1) headshot (use a professional photographer), (2) background image (use something eye-catching that relates to your industry), (3) featured section (write and post relevant articles with attractive graphics, and (4) activities section (post or repost articles with accompanying graphics). Avoid the green “Open to Work” ring on your profile photo as it signals desperation.
+-  Grant Cooper, Strategic Resumes & Business Plans
+-  Yes, you should incorporate media in your LinkedIn profile; it contributes to your visibility and search ranking. As you consider media to include—video, photos, articles, PowerPoint presentations, etc.— remember that all your activity on LinkedIn should be very intentional. LI’s algorithms are driven by AI and ML, so everything you do, say, and post is being measured for relevance.
+-  Mary Jo King, Alliance Résumé & Writing Service
+
+
+=== Page 23 ===
+
+-  Yes! We live in a media-rich world, and we are used to clicking on things and viewing short clips. Adding media (links, videos, images, audio files, and more) gives proof, sets you apart from other jobseekers, and fosters engagement with recruiters and hiring managers who view your profile. Above all, media helps round out your profile, adding depth and personality to your written story.
+-  Paula Christensen, Strategic Career Coaches
+-  If the media constitutes a stellar example of your mojo—what you are really good at and what you want to be doing more of—by all means, put it on your profile. Attach it to the time frame in which it was created. Don’t include off-topic or personal content. See LinkedIn as a digital portfolio that reflects your expertise. Describe how it was created, challenges, time frames, and results.
+-  Laurel Kashinn, Write Stuff Resources, LLC
+-  Should I use the public “Open to Work” graphic on my LinkedIn profile photo?
+-  Answers from our Experts:
+-  When openly searching for a new job, marketing your value versus your unemployment status will strengthen your candidacy to land the job you desire. Instead of turning on the OTW graphic, craft a branded, keyword-rich headline and optimize all sections of your profile to attract recruiter attention. Concentrate on building your network and targeting companies you want to work for.
+-  Cathy Lanzalaco, Inspire Careers
+-  Open to Work may benefit you but before implementing that option, ensure your profile is robust, use the power of LinkedIn for intentional networking to source unposted and posted opportunities. Help recruiters find you by optimizing your SEO by adding keywords in the job titles, headline sections, and skills section. Provide testimonials to others and take a pay-it-forward approach with others.
+-  Gayle Draper, Intentional Careers and Human Resources
+-  Yes, but set the graphic to be visible only to recruiters. Some employers prefer to hire already-employed people, but recruiters are more focused on your skill set than your employment status. There are over 9 million vacant jobs, and around 4 million people have left the workforce. Take advantage of every tool and opportunity to let people know you are available for the right opportunity.
+-  Edward Lawrence, Getstarted LLC
+-  There’s no one-size-fits-all when it comes to “Open to Work.” I’m a fan of A/B testing—which means to put it up for a week and then take it down. Measure the difference in your activity and decide for yourself!
+-  Virginia Franco, Virginia Franco Resumes
+
+
+=== Page 24 ===
+
+-  Which LinkedIn privacy settings are important for me to consider when job hunting?
+-  Answers from our experts:
+-  (1) Turn OFF “Share profile updates with your network” to prevent your connections from getting notified of profile changes.
+-  (2) Turn ON “Signal your interest to recruiters at companies you have created job alerts for” to improve your visibility in being found by recruiters.
+-  (3) Set your “Profile viewing options” to name and headline to gather leads on people who view your profile.
+-  Kate Williamson, Scientech Resumes
+-  Under “Job seeking preferences,” you can save data submitted when applying to jobs, signal your interest to recruiters, and disallow others to use your Profile content in Word’s Resume Assistant. However, in “Visibility,” you should reveal your last name and Profile discoverability off LinkedIn but turn off profile update sharing, so your current employer won’t catch wind of your job search.
+-  Laura Smith-Proulx, An Expert Resume
+-  If recruiters can’t find you, they can’t connect with you! Start with your public profile settings. Create a custom URL, turn on your profile to be viewed by “All LinkedIn members” or “Public” and show all content. Then check visibility and communication settings. Make it easy for recruiters and hiring managers to view your experience and contact you directly.
+-  Anne Barnwell, TheWriteResumes.com
+-  In the Visibility section of your LinkedIn profile turn off “Share profile updates with your network,” if you have updated your profile. Also in the Data Privacy section, turn off “Sharing your profile when you click apply” and “Signal your interest to recruiters at companies you’ve created job alerts for.” Finally, do not complete or include the “Open to Work” badge on your profile.
+-  Nancy Hedrick, The Professional Edge Résumé & Business Services, aka The Professional Edge
+-  Is it wise to accept connections from everyone who contacts me on LinkedIn?
+-  Answers from our experts:
+-  Yes/No. I’m all for meeting new people. Review their profiles. Do they have a photo? Is their profile complete so you can get a sense of who they are? Do they have testimonials? Do they have connections in common with you? It’s easy to do some due diligence before you connect if you have concerns. Remember, your 2nd- and 3rd-level connections are important, so it might be worth the connection.
+-  Camille Roberts, CC Career Services
+
+
+=== Page 25 ===
+
+-  Do you share your contact details with every person in attendance at a networking event? Or are you more selective? What’s the goal of being on LinkedIn? Define your goals and act accordingly. LinkedIn encourages connecting with those you know and trust. If you receive a request from a stranger, consider how you can add value to each other’s networks before automatically accepting an invitation.
+-  Kelli Thomason, Career CAVU
+-  No—but it’s not a 100% foolish move, either. Rather than blindly accepting every request, be purposeful and assess the value you might offer each other, potential areas for an authentic connection, and their intentions. While a diverse and vast network is a wonderful thing to have, a cluttered network full of people trying to sell you products you don’t need or want can do more harm than good.
+-  Amber Barney, Lumen Agents, LLC
+-  What is your goal? LinkedIn is a tool for cultivating a professional network. If a large network of random connections meets your needs, then it’s fine to accept every request. If you prefer a carefully curated network of known resources, you will want to be more selective. As your network grows, you will have access to more hiring authorities, so there are advantages to accepting more requests.
+-  Angela Watts, MyPro Resumes
+-  LinkedIn is great for networking, but I don’t recommend connecting with absolutely everyone who contacts you. I would consider connections that are most aligned with your professional goals, such as recruiters in your target field, personnel at an ideal organization, those with similar titles, and people you know.
+-  Casie Dingwell, Opening Doors Resume & Writing Services
+-  Not everyone who contacts you on LinkedIn is appropriate to enhance your network. Be open to connecting with people you don’t know in industries other than your own, but think strategically about whom you let in. The goal is quality, not quantity. Consider what your goals are for your growing your network and make decisions on an individual basis as to the value they can offer you and you to them.
+-  Cathy Lanzalaco, Inspire Careers
+
+
+=== Page 26 ===
+ Chapter Three
+
+NOW, LET’S USE YOUR JOB SEARCH TOOLS
+-  Maybe you already have an attractive, professionally written resume that is specifically targeted to the roles you want to apply to. So, what’s next? What is your job search strategy? Going to job fairs? Using an online job board to find your next role? How much time should you expect to spend on your job search? Find the answers to those questions and more in this chapter.
+-  I am currently managing a family and working 50+ hours per week (thus the job search), how do I efficiently squeeze a job search into my already overcrowded schedule?
+-  Answers from our experts:
+-  Search with PURPOSE! A targeted hour of search is better than 5 hours of sending applications anywhere. Identify companies/positions of interest, make sure your resume is updated, and create personal connections. E.g., if you find your dream role, look through the company’s LinkedIn to connect with the hiring team and/or members of that specific department to boost your visibility as a candidate.
+-  Amber Barney, Lumen Agents, LLC
+-  Time scarcity is real, which is why prioritizing your goals is so important. Block out chunks of time for activities like updating your resume, networking, and submitting applications. Set boundaries for family time and honor them. Delegate responsibilities to open up your schedule. Having satisfaction in your work benefits your family. Share your concerns with them and ask for their support.
+-  Cathy Lazalaco, Inspire Careers
+-  Set aside 5 minutes 3 days. Day 1: optimize your LinkedIn photo and headline. Day 2: create job alerts so you don’t waste time job searching; let jobs come to you via Indeed, LinkedIn, and industry-specific job boards. Day 3: group email your closest peers to share your career goal, ask for their confidence and support. Allow yourself to take baby steps.
+-  Cheryl Minnick, University of Montana
+
+
+=== Page 27 ===
+
+-  Start by setting aside small amounts of time to identify your target job. This could be online research or aptitude testing. Post your updated resume to sites that aggregate open positions, like Indeed or LinkedIn. Create automated queries that will save time by regularly notifying you of jobs that fit your target. Customize your resume and send out a few quality applications per week.
+-  Lisa Dupras, Elev8 Career Coaching
+-  Talk to your family. Help them know how important undisturbed time is. Pick a 30-minute slot and keep that appointment with yourself each day without fail. Divide your search into achievable steps for each time slot. Work on that and that subject only for that day. Repeat the above. Share results with your family and get feedback. Repeat daily.
+-  Ed Lawrence, Getstarted, LLC
+-  You’re probably spending many hours on job boards. After all, most people look for a job online. But most people land a job through networking. So, step away from the keyboard and network with recruiters and friends. You can [continue to] hit the job boards occasionally, but odds are you’ll see how recruiters and contacts will do a lot more for you than you can do on your own.
+-  Fred Coon, Stewart, Cooper & Coon
+-  Many people say they don’t have time to exercise, but we all know we can fit in exercise if we get up earlier or minimize how much time we spend on reading, watching TV, etc. The same is true for a job search. You need to prioritize the job search and dedicate at least 15 minutes a day (ideally 30–60 minutes). By doing so, you can apply to the jobs you are most qualified for in a timely manner.
+-  Cherie Heid, Competitive Edge Resume Service
+-  Is it worth schlepping to local job fairs? The jobs promoted all seem to be entry-level; I have an MBA and a history of mid-management positions.
+-  Answers from our experts:
+-  It’s a great idea to go to local job fairs. There are many opportunities to meet potential hiring authorities and get to know the people who work for the companies there. Make your job search more about them than about you. Use your resume to educate them on why you are qualified for a higher-level position instead of entry-level. And don’t forget to follow up. The fortune is in the follow up.
+-  Camille Roberts, CC Career Solutions
+-  It depends. I recommend that experienced professionals, targeting certain roles or companies, look at industry-specific job fairs, such as tech or hospitality. Students, new graduates, or career changers may benefit by attending more open job fairs. These can be good opportunities for initiating conversations and building relationships with prospective employers that might have job openings.
+-  Kate Williamson, Scientech Resumes
+
+
+=== Page 28 ===
+
+-  If a company on your target list will be present at the job fair, then yes, you should definitely attend. Making personal contact with hiring authorities is always a good strategy, and it’s an opportunity to learn more about the organization and its hiring processes. In the absence of target companies, you may still benefit from the networking potential. Serendipity does occur!
+-  Mary Jo King, Alliance Résumé & Writing Service
+-  Job fairs are a great way to meet company representatives and find out about available jobs and, yes, they are often targeted toward entry-level job seekers. At your level, these can be an opportunity to meet recruiters face-to-face and ask about other jobs not being promoted at the job fair and set up a time to speak privately after the event about what could be good roles for you.
+-  Cathy Lanzalaco, Inspire Careers
+-  Absolutely, but choose wisely. Employers go to job fairs to recruit candidates for their most frequent openings. However, that does not mean they don’t have other openings. If you see an employer you are targeting, and the type of position you want exists at the company, by all means, go for the introduction. Making a connection with the hiring manager is definitely worth your time.
+-  Nancy Grant, Regional Career & Employment Services
+-  How many resumes should I expect to submit before I get an interview? And what is the timeline I should expect?
+-  Answers from our experts:
+-  No set number of resumes guarantees a job interview. The timeline varies based on the company’s hiring process and the urgency to fill the role. It’s important to use multiple strategies. Online applications are the least effective, with statistics revealing that 1 out of every 200 resumes leads to a job offer. On the other hand, 1 out of 12 informational interviews results in a job offer.
+-  Kate Williamson, Scientech Resumes
+-  Some think job searching is just a numbers game. The more you submit, the more interviews you get. But not so fast. Quality over quantity is key. On average, response rate for applications can be 10%–20%. However, precisely matched qualifications for the job coupled with a high-quality application will yield much better results. Achieve this and you should expect a quick response.
+-  Nancy Grant, Regional Career & Employment Services
+-  If your job search strategy is “hit the job boards,” expect to submit hundreds. That strategy has a low success rate. If the focus of your job search is “networking,” probably far fewer. Have no expectations for any timeline. One company can take weeks; another could take months. Government agencies can take even longer. Networking with contacts could reveal the company’s expected timeline.
+-  Edward Lawrence, Getstarted, LLC
+
+
+=== Page 29 ===
+
+-  One. One high-quality, well-written professional resume that includes branding that speaks to the 4–6 gatekeepers/audiences who are reading and scoring your resume. One resume that aligns you with the job announcement, because you’ve spent time pre-qualifying yourself. One that conveys your value at the very highest level, so you will be invited to interview. Quality over quantity.1:1:1
+-  Camille Roberts, CC Career Services
+-  This depends on many variables: How senior is your target role, how “hot” is your target job market, and is it an employer or employee hiring market when you’re searching. Don’t just blindly upload resumes; you’re far more likely to land interviews if networking is part of your job search strategy. Use LinkedIn to find and interact with hiring managers at your target employers.
+-  Meg McCormick Martin, HR Meg
+-  What file format should I use to send my electronic resume? Any other submission tips?
+-  Answers from our experts:
+-  When emailing a resume, convert your Microsoft Word file to a PDF. This ensures that the format will be preserved. When submitting a resume online, use a Word file as this format works best for applicant tracking software (ATS).
+-  Jennifer Gruwald, University of Connecticut
+-  Use the format requested in the application directions. Most postings will indicate the format the employer wants to see. Always follow the directions. If the format isn’t specified, send a PDF version. It’s much harder for the PDF to be altered (accidentally or intentionally). The PDF prints with the formatting and structure used in the résumé. With a Word file, printing can be problematic.
+-  Lisa Hebert, LMH Advisors, Inc.
+-  Send your resume as a PDF to preserve the formatting and reduce the chance of anyone tampering with the content. Other tips include proofread, proofread, proofread, follow the directions exactly, and if a cover letter is “optional,” submit one anyway to set yourself apart from those who don’t take the time to do so. Cathy Lanzalaco, Inspire Careers
+-  If you’re uploading your resume to an online job portal, I recommend using a PDF. Recruiters in my network frequently remind us that a HUMAN will be the ultimate reader and with a PDF, you can be sure that your resume looks “pretty” to the viewer. Of course, you should use the format requested by the site. If you’re emailing your resume to a contact or a recruiter, send a PDF.
+-  Carol Adams, Ideal Resumes, LLC
+
+
+=== Page 30 ===
+
+-  Use any file format listed in the job posting. If one is not listed, Microsoft Word format, specifically the “docx” format is preferred, as almost all applicant tracking software (ATS) products accept it. Secondary formats that usually work are the portable document format (PDF) and the older MS Word format “doc.” Best submission tip I can offer: Read the employer instructions carefully.
+-  Edward Lawrence, Getstarted, LLC
+-  My answer is “it depends.” First, follow the posting instructions. Some posts provide options to send your resume in Word or PDF format. In this case, send a PDF. If no direction is given, then always submit a Word file (.doc or .docx). Lastly, never put your contact information in a header or footer as applicant tracking software cannot read header or footer content.
+-  Brenda Collard-Mills, Robust Resumes
+-  In most cases, it is advisable to submit resumes in an Adobe PDF format. The three reasons for this are as follows: (1) Nearly 100% of companies and employers have the ability to open and print PDF files, (2) Most PDF files are perfectly scannable by ATS resume scanning programs, and (3) PDF files are compatible for viewing on phones, pads, and other devices, whereas MS Word files are often jumbled.
+-  Grant Cooper, Strategic Resumes & Business Plans
+-  You always follow the job application’s instructions and most guide you through the file formats they accept. You will discover that MS Word and PDF are the most accepted formats. As a recruiter, I liked to see the PDF as the formatting never shifts as it might with the different versions of MS Word a recruiter might be using. Google docs are virtual, need to be downloaded, and can’t be attached.
+-  Thomas Powner, Career Thinker, Inc.
+-  What should I include in my cover letter?
+-  Answers from our experts:
+-  A cover letter can be a powerful way to influence a recruiter that they need to learn more about you and to schedule an interview. Use it to go beyond the traditional, boring spiel, and tell them something they can’t learn from your resume. Call out an athletic accomplishment, life achievement, or personal value, and align it to the company’s mission and the job you seek. Use it to stand out.
+-  Cathy Lanzalaco, Inspire Careers
+-  The cover letter should showcase your value and how you are the right fit for the job description. Speak about how you connect to their mission/vision statement and believe in the products/services they provide, and you can drive results. I call this a human voice cover letter.
+-  Thomas Powner, Career Thinker, Inc.
+
+
+=== Page 31 ===
+
+-  In general order, include the same header used on your resume; a salutation addressed to a specific person; then an opening paragraph that concisely states why you are applying for the role, and why at that company. Next mix in some accomplishments and differentiators that will prompt the reader to say, ”I’ve got to talk to this person.” Finally, wrap up with a positive call for a meeting.
+-  Edward Lawrence, Getstarted LLC
+-  Start with an engaging introduction about what compelled you to apply for that specific position. If you’ve been referred from a notable colleague, mention that right away to grab their attention. Then address how you are uniquely qualified, including your relevant education, experience, or previous successes doing the specific tasks listed in the job description. Close with a call to action.
+-  Nancy Grant, Regional Career & Employment Services
+-  The first thing the recruiter asked me was, “What salary are you looking for?” — even before he had explained the job. What’s the best way to respond to not take myself out of the running nor sell myself short?
+-  Answers from our experts:
+-  Try and postpone giving a hard number until you know more about the position. Say something like, “I’m just starting to learn about the job responsibilities. Once I have a better understanding of what this position will entail, I will be able to provide a more concrete number.” In the meantime, do your research on Glassdoor and other websites to find out what is reasonable to expect.
+-  Kate Lavia Bagley, Institute for Advanced Analytics, North Carolina State University
+-  Because you didn’t have the job description, it seems the recruiter was making a “cold” contact. If so, you will want to ask questions before answering. If not, many people falsely assume recruiters ask about salary as a trick for agreeing to a lower salary. Know recruiters work with candidates and employers for the best match, so they do need to know your requirements.
+-  Jane Roqueplot, JaneCo’s Sensible Solutions
+-  “I’m happy to discuss my salary expectations after we talk some more about the details of the position. Could you please tell me more or email me the job description?”
+-  Like in any other profession, there are excellent, good, and not-so-great recruiters. You have every right to ask them for all the information (and time) you need to make a good decision.
+-  Alison King, Copyedit Queen
+-  Before the job interview, your salary expectation should already be determined based on your research on the company as well as market and salary trends for the desired position and industry. In addition, consider your experience and qualifications for the desired position. Rather than giving a specific number, provide a salary range. Providing a salary range can help with negotiations.
+-  Jeremy Johnson, Opened Door Career Services LLC
+
+
+=== Page 32 ===
+
+-  This question always makes candidates nervous. Instead, take ownership of it. If the recruiter has not explained the job yet, tell him you would like to hear a little more about the specifics of the position’s needs so that you can answer the question accordingly. Remember, the salary should be tied to the position in which you are applying and its needs—not based on your previous salary.
+-  Kiersten Troutman, Second Glance Résumés
+-  Know your value. Research salaries at sites such as O*NET Online, salary.com, and glassdoor.com. Determine a salary range for yourself. When they ask about salary, tell them you have been investigating roles in the $X through $Y range. Then ask, “What’s the range for this position?” As long as their range and your range are fairly close, you will be in the running.
+-  Edward Lawrence, Getstarted LLC
+-  This recruiter has a “screen out” approach and is trying to save you both time, if there won’t be a salary fit. To explore the role first, I recommend answering something along the lines of “I don’t yet know all of the dynamics of the position, so it’s difficult to give an exact number, however, I’m seeking a fair market salary. What are you seeking to pay for this role?”
+-  Angela Watts, MyPro Resumes
+-  Don’t share this info too early. Make it clear that you will discuss salary when you have more specifics about the role. Do your research and have a realistic number in mind before applying. Recruiters often play “numbers games,” You are not a number; you bring VALUE to a company. That value drives the offer.
+-  Kathleen McGrorty, NewView
+-  Flip the question: “What salary range has been budgeted for this position?” Defer: “I’d like to have more information about the job and benefits before I can determine what my salary expectations will be. Can we defer this conversation?”
+-  Give a range: “I would place my salary expectations in the range of $x to $y but I would need a more in- depth understanding of all the job requirements.”
+-  Denise Bitler, Resume-Interview Success, LLC
+-  Know the wage range for your role in the labor market and what knowledge, skills, and expertise are needed. Audit yourself against the opportunity, so you know your value. Build this habit into every application as it will also help you target your resume. Offer a 10% range above and below your market value. The recruiter may move on, but it will save you energy. Negotiate at the time of the offer.
+-  Gayle Draper, Intentional Careers and Human Resources
+-  Postpone answering the question as long as possible and keep the conversation going. Respond by saying you want to learn more about the job before providing an answer and ask questions to uncover the scope of the work. Once you do begin speaking about money, always give a desired salary range versus specific number to allow both sides room for negotiation and a win-win outcome.
+-  Cathy Lanzalaco, Inspire Careers
+
+
+=== Page 33 ===
+
+-  Respond enthusiastically that you are excited about competing for the position, eager to learn more, and confident that a mutual salary can be achieved once a good fit is determined. If he further presses you for a number, you are within your rights to ask what the salary range is before divulging your figure. Recruiters, although often helpful, are paid by and work for employers, not candidates.
+-  Grant Cooper, Strategic Resumes & Business Plans
+-  My company will be downsizing soon, and I know I’m going to get cut. HR says they’ll hire an outplacement firm to help us find a new job. Should I take advantage of this?
+-  Answers from our experts:
+-  All outplacement firms are not created equal, and the deals companies negotiate with them range greatly— from one-on-one resume writing to a quick resume review to support DIY. Consider negotiating funds as part of your exit agreement (equivalent to what the company would have invested with an outplacement firm) for you to use to choose a resume writer or career coach of YOUR choosing!
+-  Virginia Franco, Virginia Franco Resumes
+-  Outplacement firms are valuable resources. Just as onboarding is critical when starting a position, employer-paid offboarding assists workers with a transition into a different job. Navigating unemployment is challenging. Outplacement services provide customized career resources such as coaching, job search, career documents, interview prep, and networking to help people secure work quickly.
+-  Ruth Pankratz, Gabby Communication
+-  Definitely! Companies offer these services during layoffs to soften the blow (and preserve their reputation). It’s one tool of many that you can use to launch your job search—typically on the company’s dime. If the services include a resume or coaching session, be prepared: Bring your most recent resume and be ready to tell PAR (Problem-Action-Result) stories about your accomplishments.
+-  Alison King, Copyedit Queen
+-  Yes! And if you prefer to work with another company for personalized services, ask HR if the monies can be allocated towards coaching/resume writer of your choice. Negotiate this as part of your severance package. But whether or not your employer allows you to go to a specialized firm or not, always take advantage of help you are offered. And if you need more help beyond outplacement, obtain it.
+-  Lisa Rangel, Chameleon Resumes
+-  Yes! Outplacement firms help you with the transition to a new job and usually includes assistance with your job search, resume writing, LinkedIn optimization, job coaching, and training on interviewing and other topics. Depending on what type of package your company selects, it can be incredibly helpful.
+-  Cherie Heid, Competitive Edge Resume Service
+
+
+=== Page 34 ===
+ 
+-  Absolutely! Outplacement services are a great benefit if you are fortunate enough to receive them. The coaching you receive throughout the transition process can help you make the mental shift needed to move forward confidently into your next role and provide the updated career marketing tools (resume, LinkedIn profile) to open up the door to new opportunities.
+-  Cathy Lanzalaco, Inspire Careers
+-  Absolutely! Outplacement firms can provide valuable services for terminated and laid-off employees. Expert services can include career coaching, resume writing, LinkedIn assistance, interview preparation, and networking help. Employers pay for the services and insert them into severance packages where they can help reduce the stress and anxiety associated with unexpected job loss.
+-  Robert Rosales, EZ Resume Services
+-  Absolutely! I encourage you to leverage this in parallel with your individual efforts. This is a resource that can actively catapult your career search in many ways (resume writing, coaching, interview prep, networking, etc.). In addition, the outplacement firm may have the latest information regarding the current market/industry landscape, trends, and best practices. Good luck!
+-  Larissa Williams, Chic Resumes & Services
+-  Yes, it’s part of your severance and costs you nothing. But there is varying quality among outplacement firms, so I suggest you learn everything you can from them while concurrently doing your own research. Make sure that your resume meets modern resume standards, addresses the employer’s needs, and is ATS compatible. If you’re not happy with what you get, speak up!
+-  Carol Adams, Ideal Resumes, LLC
+-  As an outplacement worker, I say, “Definitely!” Outplacement firms can assist with your résumé, cover letters, LinkedIn profile, networking efforts, interview preparation, and more. Some companies arrange for as much as ten weeks assistance for laid off workers. This aid can be a crucial advantage for you as you enter the job market. Don’t go it alone.
+-  Edward Lawrence, Getstarted, LLC
+-  Remember the old saying that you can have it “fast, good, or cheap – pick two”? This could well apply to an outplacement service. Sure, take advantage of the “cheap” (free), but be sure you are also getting the good and the fast too. Don’t depend on the outplacement firm alone. Do your own research and/or hire your own professional to get you back to work fast with quality job search documents.
+
+Donna Tucker, CareerPRO Resume Center
+-  Do take advantage of severance benefits. However, all outplacement firms are not created equal. Many do not provide capable resume writing and LinkedIn profile services–both of which are critical to your success. Some will not adequately coach you on job search best practices. Protect yourself by following up with an NRWA resume/profile writer, many of whom offer free or low-cost consultations.
+-  Mary Jo King, Alliance Résumé & Writing Service
+
+
+=== Page 35 ===
+
+-  Absolutely take advantage of the outplacement resources that your company provides. Do your homework to learn about the quality of services that the firm offers. Many employees affected by layoffs also find it helpful to hire their own career or resume services beyond what the company offers. This is particularly true when the outplacement package largely consists of digital and online resources.
+-  Grant Cooper, Strategic Resumes & Business Plans
+-  Absolutely! Outplacement professionals are highly skilled in assisting you with finding and transitioning to your next job and will help you do so more quickly. This is an employer-paid benefit that will save you time and money by providing you with professional help to develop your resume and LinkedIn profile, create and execute a strategic job search plan, prepare for an interview, and more.
+-  Norine Dagliano, ekm Inspirations
+
+
+=== Page 36 ===
+ACE THE INTERVIEW
+-  Congratulations, you’ve scored an interview! This is one of the most critical parts of your job search – how you perform can outweigh your actual credentials and qualifications. Your poise, preparedness, attitude and ability to communicate are all evaluated along with your experience and education to determine if you are a good fit for the job. Whether you’re meeting in-person or by video chat, make sure you’re prepared.
+-  We’re back to some in-person interviews, what should I bring?
+-  Answers from our experts:
+-  I suggest a simple black or blue pocket folder with several copies of your resume and references page, a small notebook, and a working (pre-tested!) pen. Interviews sometimes involve moving from one interviewer to another and not everyone will have a copy of your resume. Being able to whip it out on the spot shows that you’re organized and prepared. Same thing for the references page.
+-  Carol Adams, Ideal Resumes, LLC
+-  Always bring: (1) Several additional hard copies of your resume, (2) Several copies of your reference list, (3) A copy of your “brag book” with samples of work, certificates, and publicity mentioning you, (4) A pad for anything you need to notate, and (5) Identification, in the event it should be requested.
+-  Grant Cooper, Strategic Resumes & Business Plans
+-  Bring copies of your resume along with any work product or career marketing materials you may want to present during the interview. Have a list of your professional references in case you are asked for them. Most importantly, bring a warm smile, strong handshake, and the belief that you are enough, regardless of the outcome of the interview and go for it!
+-  Cathy Lanzalaco, Inspire Careers
+
+
+=== Page 37 ===
+
+-  Always be prepared with a few copies of a nicely printed resume in a simple portfolio that has some blank paper, a pen, and an extra copy of the job description. You might also want to have a clean copy of references to provide, along with some work samples if relevant. Finally, prepare some questions if you get stuck during the interview. And yes, bring a mask just in case.
+-  Nancy Grant, Regional Career & Employment Services
+-  My brother-in-law flew to a city for a same-day interview. He had to gate-check his bag and the airline somehow lost his luggage. He had a pen, notebook, copies of his resume, a list of good questions to ask the interviewer, plus the casual clothes on his back. Fortunately, he also had a great smile and confidence in his ability to do the work. He got the job.
+-  Edward Lawrence, Getstarted LLC
+-  Thomas Powner, Career Thinker, Inc.
+-  Have an emergency interview kit with comb, lint brush, mints, aspirin/Tums, and spot remover packets. Bring a professional briefcase/tote-bag with business cards, multiple copies of your resume/cover letter/reference page on resume paper, notebook/pen with questions to ask and for taking notes, portfolio, if applicable, and, more importantly, confidence. Smile and be yourself!
+-  Christine Chelstrom, MN Job Partners
+-  I’m in an interview; I realize early on that this will not be a good fit. How can I end the interview without worry about possible repercussions?
+-  Answers from our experts:
+-  I would not end the interview, and here is why:
+-  1 – The conversation might shift, and your opinion can change. 2 – Your discussion can make the interviewer see you as a match for a different position at that company. 3 – We can all use interview practice; at the least, you can make great professional connections.
+-  Thomas Powner, Career Thinker, Inc.
+-  I encourage you to ask yourself if you have all the information you need to make that decision right then. Maybe reaching out to others after the interview to validate your perspectives will help you truly understand if it is a good fit or not. If you still find it isn’t a fit, a note to the recruiter letting them know you are no longer interested is appropriate. Bottom line, finish the interview.
+-  Lisa Hebert, LMH Advisors
+
+
+=== Page 38 ===
+
+-  This can be disappointing, but it happens. Interviews are meant to determine a fit on both sides, so if you are not feeling that the alignment is there, mention it. Your candor will be appreciated. Give the interviewer an opportunity to provide additional insights on the role that may change or confirm your initial assessment and allow you to move forward with confidence.
+-  Cathy Lanzalaco, Inspire Careers
+-  You should always see the interview to completion. You agreed to go to the interview and interviewers have taken time from their day to meet with you. Ask questions that may help you gain clarity. Be honest but stay for the entire interview. If you know after that you are not interested, you may withdraw in writing after the interview, but reflect on that decision for 24 hours at minimum.
+-  Jennifer Grunwald, University of Connecticut
+-  Since the company and interviewer have reserved valuable time to extend and conduct an interview, any impression that you are electing to jettison yourself from the process may be interpreted as unprofessional. Even though you never intend to work at the company, reports about your lack of professionalism could reach others. Consider every interview as good practice, regardless of the outcome.
+-  Grant Cooper, Strategic Resumes & Business Plans
+-  Always stay in the interview and at least build a good rapport and relationship. You never know what other job might develop from the conversation. Learn what you can and give it your best. If you end up with a job offer, you can always kindly decline and maybe even give them a referral for the perfect candidate now that you know what they really want.
+-  Nancy Grant, Regional Career & Employment Services
+-  Easy. Continue thought the interview. Why? Practice, Practice, Practice. At the end of the interview, thank them. If they make you an offer, you can politely refuse. So, practice your polite refusal. If they don’t make you an offer; then you will have had one more interview under your belt. Either way, you win.
+-  Fred Coon, Stewart Cooper & Coon
+-  I’ve heard I should take notes during my interview. How do I do that while still paying attention and making eye contact?
+-  Answers from our experts:
+
+
+=== Page 39 ===
+
+-  Keep in mind that your focus is to ensure that you have a positive interview experience! Therefore, during the interview, jot down a few keywords to help you remember a particular topic instead of trying to transcribe the interview conversation word-for-word. That way, your note taking is not a distraction and you’re at the top of your game to ace the interview!
+-  Jeremy Johnson, Opened Door Career Services LLC
+-  Taking notes during an interview shows that you are listening carefully and have a true interest in the company and the role. I’ve always kept a padfolio on my lap during interviews. To reinforce focused attention while taking notes, look up periodically and nod your head that you heard what they were saying. A smile goes a long way too. Also, take brief notes; it’s not a novel.
+-  Kiersten Troutman, Second Glance Résumés
+-  First, ask the interviewer if she/he minds you taking notes; most will take it as a good sign. Then just jot down major points, or questions, while trying to keep eye contact throughout the conversation. If you’re asked a question you can’t answer, say: “Give me a sec, I’d like to write that down so I can get back to you.” The interviewer will respect that. If not, that’s a red flag.
+-  Carol Adams, Ideal Resumes, LLC
+-  Set the stage by asking, “Do you mind my taking notes.” Rarely will they say no. Write key words, not sentences. Prepare a list of symbols ahead of time that will expand the meaning of your quick notes; for example, a symbol for “important” or one for “follow up on this.” Most importantly, listen first and maintain eye contact before trying to write any note. This will help maintain eye contact.
+-  Edward Lawrence, Getstarted LLC
+-  Simply explain that you will be taking a few notes to make the most of the conversation. Ask if that’s ok. If you want to write, nod your head once or twice look back up to show you’re still engaged while writing. Make it your goal to write only those things that are critical; to capture the high points—not everything that is said. You can take time afterward to jot more down from memory.
+-  Ruth Sternberg, Confident Career Search
+-  The essential task in any in-person interview process is to create a positive bond with the interviewer(s). This dynamic connection can be accomplished via charisma, eye contact, smiling, giving unhesitating answers, and providing concise, relevant responses, coupled with examples of your achievements in work settings. If taking notes interferes with any of the above, it may be counterproductive.
+-  Grant Cooper, Strategic Resumes & Business Plans
+-  Every successful professional knows that it makes sense to take notes at a business meeting, and what meeting is more important than a job interview?! Simply begin the interview by asking “do you mind if I take notes” and then open your notepad and jot down key points the interviewer shares that you would like to ask about or discuss further. You’re not transcribing every word—just key points!
+-  Norine Dagliano, ekm Inspirations
+
+
+=== Page 40 ===
+
+-  First, ask your interviewer, “Do you mind if I take some notes?” Then, as the interview progresses, jot down key points about the company, specific job, and any projects or specific needs that arise during your conversation. Make eye contact in between writing and ask questions related to notes you’ve taken. This will show interviewers that you’re fully engaged in the process.
+-  Laura Smith-Proulx, An Expert Resume
+-  I’ve been told that I need to research the organization to prepare for my interview. Where do I look and what do I look for?
+-  Answers from our experts:
+-  Interviewers love informed candidates. Start with the company website. Examine all sections, especially press/news. Then “Google” search the company and look for news. Search Yahoo! Finance for information about publicly traded entities. Search global news sources to determine their reputation. What questions might you ask the interviewer? Ask what you genuinely are curious about.
+-  Kathleen McGrorty, New View
+-  When you peruse their website, look beyond the main pages to find a News or Publications section; read a few of the most recent entries. Also, follow the company on social media (especially LinkedIn) to see what topics the company and their employees write about. Take notes on anything that may pertain to your ideal role within the company—which you can bring up in your cover letter or interview!
+-  Alison King, Copyedit Queen
+-  Researching an organization:
+-  Company corporate website—mission/value statement, initiatives, commitment to employees Company financials—quarterly shareholder reports, website investor page, corporate governance (things in the pipeline or issues reported to shareholders)
+-  Competitor’s corporate/retail websites, financials
+-  People you will be meeting with
+-  Denise Bitler, Resume-Interview Success, LLC
+-  Start with the obvious: Google the company name, explore the company website, find and read the LinkedIn page; but also connect with employees who work at the company (or used to work at the company) on LinkedIn and get some first-hand insight.
+-  Donna Tucker, CareerPRO Resume Center
+
+
+=== Page 41 ===
+
+-  The company website should provide you with most of the information you’ll need. Look at the mission statement, products/services, customers/competitors, and press releases. You can also use LinkedIn to search for and connect with current/former employees. GlassDoor lets you look at anonymous reviews on company culture, hiring processes, management, compensation, and career opportunities.
+-  Kate Williamson, Scientech Resumes
+-  Read News or Media pages on the company site, read their annual reports, and google the company to see analyst and market reactions to their announcements. Dig deeper and look at their competitors in a similar way. These data points will provide you with insights on their challenges, growth ventures, and other related information—which are all helpful for asking intelligent interview questions.
+-  Laura Smith-Proulx, An Expert Resume
+
+
+=== Page 42 ===
+ CONTRIBUTING EXPERTS
+-  The NRWA thanks the following contributors for generously sharing their expertise with their colleagues, job seekers, and the public. Answers submitted to questions on the Resume Experts forum are reviewed carefully and scored by a Nationally Certified Resume Writer according to rigorous NRWA standards and the best answers are posted online. Those whose answers are selected earn the honor of displaying the Ask the Experts Contributor badge (right) on their website and other materials. If you need expert help with your job search, look no further than here:
+-  Adams, Carol Ideal Resumes, LLC Contact Details / View NRWA member profile
+
+ Chelstrom, Christine
+-  Barney, Amber Lumen Agents, LLC Contact Details / View NRWA member profile
+-  Christensen, Paula Strategic Career Coaches Contact Details / View NRWA member profile
+-  Barnwell, Ann TheWriteResumes.com Contact Details / View NRWA member profile
+-  Collard-Mills, Brenda Robust Resumes Contact Details / View NRWA member profile
+-  Bartos, Teegan Jolt Your Career Contact Details / View NRWA member profile
+
+ Coon, Fred
+-  Stewart Cooper & Coon Contact Details / View NRWA member profile
+-  Beaman, Lorraine Interview2work LLC Contact Details / View NRWA member profile
+
+ Cooper, Grant
+-  Strategic Resumes & Business Plans Contact Details / View NRWA member profile
+-  Bennett, Paul NOVA Career Strategies Contact Details / View NRWA member profile
+-  Dagliano, Norine ekm Inspirations Contact Details / View NRWA member profile
+-  Bernstein, Brenda The Essay Expert LLC Contact Details / View NRWA member profile
+-  Dingwell, Casie Opening Doors Resume & Writing Services Contact Details / View NRWA member profile
+-  Bitler, Denise Resume-Interview Success, LLC Contact Details / View NRWA member profile
+
+Draper, Gayle
+-  Intentional Careers and Human Resources Contact Details / View NRWA member profile
+-  Carvalho, Melissa Contact Details / View NRWA member profile
+-  Chambron, Jaime Career Agility System Contact Details / View NRWA member profile
+-  Dupras, Lisa Elev8 Career Coaching Contact Details / View NRWA member profile
+-  Franco, Virginia Virginia Franco Resumes Contact Details / View NRWA member profile
+
+
+=== Page 43 ===
+ Grant, Nancy
+-  Regional Career & Employment Services Contact Details / View NRWA member profile
+-  Grinfeld, Nelly Top of the Stack Resume Contact Details / View NRWA member profile
+-  Grunwald, Jennifer University of Connecticut Contact Details / View NRWA member profile
+-  Hebert, Lisa LMH Advisors, Inc. Contact Details / View NRWA member profile
+
+ Hedrick, Nancy
+-  The Professional Edge Résumé & Business Services, aka The Professional Edge Contact Details / View NRWA member profile
+
+ Heid, Cherie
+-  Competitive Edge Resume Service Contact Details / View NRWA member profile
+-  Johnson, Jeremy Opened Door Career Services LLC Contact Details / View NRWA member profile
+-  Kashinn, Laurel A. Write Stuff Resources, LLC Contact Details / View NRWA member profile
+-  Keshemberg, Kathy A Career Advantage Contact Details / View NRWA member profile
+
+ King, Alison
+-  Copyedit Queen Contact Details / View NRWA member profile
+-  King, Mary Jo Alliance Résumé & Writing Service Contact Details / View NRWA member profile
+-  Lanzalaco, Cathy Inspire Careers Contact Details / View NRWA member profile
+
+Lavia Bagley, Kate
+-  Institute for Advanced Analytics, North Carolina State University Contact Details / View NRWA member profile
+-  Lawrence, Edward Getstarted LLC Contact Details / View NRWA member profile
+-  Martin, Meg McCormick HR Meg Contact Details / View NRWA member profile
+-  McGrorty, Kathleen
+-  Minnick, Dr. Cheryl University of Montana Contact Details / View NRWA member profile
+-  Pankratz, Ruth Gabby Communication Contact Details / View NRWA member profile
+-  Powner, Thomas Career Thinker, Inc. Contact Details / View NRWA member profile
+-  Rangel, Lisa
+-  Chameleon Resumes Contact Details / View NRWA member profile
+-  Riley, Tammeca Infinite Potential Resumes Contact Details / View NRWA member profile
+-  Roberts, Camille Carboneau CC Career Services Contact Details / View NRWA member profile
+-  Roqueplot, Jane JaneCo's Sensible Solutions Contact Details / View NRWA member profile
+-  Rosales, Robert EZ Resume Services Contact Details / View NRWA member profile
+-  Shortridge, Dan Results Resumes Contact Details / View NRWA member profile
+-  Smith-Proulx, Laura An Expert Resume Contact Details / View NRWA member profile
+-  Sternberg, Ruth Confident Career Search Contact Details / View NRWA member profile
+
+
+=== Page 44 ===
+ 
+-  Kelli Thomason Career CAVU Contact Details / View NRWA member profile
+
+ Watts, Angela
+-  MyPro Resumes Contact Details / View NRWA member profile
+-  Troutman, Kiersten
+-  Tucker, Donna CareerPRO Resume Center Contact Details / View NRWA member profile
+-  Williams, Larisa Chic Resumes & Services Contact Details / View NRWA member profile
+-  Williamson, Kate Scientech Resumes Contact Details / View NRWA member profile
+
+ EDITORS
+-  Kathi Fuller Contact Details / View NRWA member profile
+-  Jane Roqueplot Contact Details / View NRWA member profile
+-  Sara Timm Contact Details / View NRWA member profile
+-  Donna Tucker Contact Details / View NRWA member profile
+
+NRWA PUBLIC IMAGE COMMITTEE
+-  The NRWA Public Image Committee is tasked with establishing and maintaining a positive public image for the NRWA by effectively communicating its mission, values, and accomplishments to all stakeholders. The committee strives to enhance the association's reputation and brand recognition by developing and implementing strategic communication and marketing plans, building strong relationships with the media and key influencers, and promoting engagement and transparency with our members and the wider community.
+-  Current PIC Committee members:
+-  Brenda M. Cunningham, 2023 Chair Amanda Brandon Melissa Carvahlo Norine Dagliano Kathi Fuller Jane Roqueplot Robert Rosales Sara Timm Donna Tucker

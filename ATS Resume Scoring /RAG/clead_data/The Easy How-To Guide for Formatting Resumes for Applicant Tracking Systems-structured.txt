@@ -1,0 +1,35 @@
+
+=== Page 1 ===
+ 
+-  Features Tips & Insights FAQ All Premium Solutions
+-  Return to Resources
+-  The Easy How-To Guide to Formatting Resumes for Applicant Tracking Systems
+-  Have you ever sent in a resume via a company’s website only to hear crickets for weeks? This has become all too common as companies move toward applicant tracking systems (ATS) to help screen candidates.
+-  These systems aren’t going anywhere, so it’s time to learn how to work with them. The best rule of thumb is that when it comes to your online resume, simplicity is best.
+-  What is an Applicant Tracking System (ATS)?
+-  An applicant tracking system (ATS) is software that works like a resume database to help companies streamline their hiring process and review applications more quickly.
+-  With paper applications becoming obsolete and the volume of applicants increasing, the majority of companies are moving toward digital systems to track applicants make sure their recruitment process complies with labor laws. Not only do these systems organize and sort applications, they can also be programmed to screen candidates based on what content you include in your resume.
+-  Commons applicant tracking systems include iCIMS, Bullhorn and Ascendify that digest uploaded resumes submitted via job postings.
+-  Share
+
+How does an ATS work?
+-  At a basic level, an ATS consists of opening new positions and posting them online via the company’s corporate homepage or job boards. Once the position is open, all submitted applications are stored in a database. At this point, recruiters can search submissions using keywords and phrases to identify candidates to advance through the hiring process.
+-  Many ATSs score applications based on parameters of the open position. Applicants are then ranked and sorted based on their score. You can think of it as the ATS doing the ﬁrst screening instead of the recruiter.
+-  It is important to note that not all ATSs are alike. Some systems can handle small graphics, while others can’t. Some prefer pdfs while others require Word ﬁles. It’s no surprise that your resume is at risk of getting lost in the shufﬂe.
+-  While no process is foolproof, use this guide to better prepare your resume for an online application. See here for an example of an ATS-optimized resume.
+-  Step 1: Answer filter questions completely and properly
+-  A staggering 72% of resumes are never seen by employers, so it is important to start the process right. An ATS typically screens candidates based on information provided in the application such as location and level of experience. Make sure to answer all the questions on the application, because when a question is left blank, the ATS may discard your resume. Completing all the information asked in an online application will improve your chances of your resume being seen by a person.
+-  Step 2: Format your resume in an ATS-friendly manner
+-  When applying online, avoid anything on your resume that could potentially clog the system. The key is to avoid templates and keep formatting simple.
+-  https://premium.linkedin.com/content/premium/global/en_us/index/jobsearch/articles/the-easy-how-to-guide-for-formatting-resumes-for-applicant-tracking-syste… 1/2
+
+
+=== Page 2 ===
+
+-  Now that you’ve got the formatting nailed down, let’s take a look at the actual content of the resume and make sure it is compatible with an ATS.
+-  To improve your chances of being discovered by the ATS, make sure to include any certiﬁcations you’ve received and mention any industry-speciﬁc terminology (ie. Salesforce for sales professionals or Oncology for healthcare professionals). Include both the spelled-out version and abbreviations of the same word.
+-  Optimize your professional summary with bulleted achievements and skills that relate to the job description. Then, ﬁnd a natural way to include those keywords and phrases in your summary and throughout your resume.
+-  You can also optimize your headers and titles based on the job description. Let’s say you see the term “communication skills” sprinkled throughout the job description. In your resume, make sure you mention you “communication skills” as an exact phrase.
+-  Do you need keywords? Absolutely. But stuffy keywords throughout your resume won't get you anywhere.
+-  At the end of the day, make sure your ATS-optimized resume is simple, straightforward, and will delight both a machine and human reader. And by all means, feel free to use a more designed version of your resume once you’ve landed the job interview!
+-  https://premium.linkedin.com/content/premium/global/en_us/index/jobsearch/articles/the-easy-how-to-guide-for-formatting-resumes-for-applicant-tracking-syste… 2/2

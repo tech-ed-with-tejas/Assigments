@@ -1,0 +1,106 @@
+
+=== Page 1 ===
+ 
+-  Resumes & Cover Letters 13 Best Practices to Impress an Applicant Tracking System
+
+ 13 Best Practices to Impress an Applicant Tracking System
+
+ Written by Indeed Editorial Team
+-  Updated July 30, 2024
+-  When submitting your resume and cover letter for consideration, your application may go through an applicant tracking system. Employers use this software to find qualified employees efficiently. Knowing more about applicant tracking systems and how to prepare your resume and cover letter to go through them can help you stand out over other candidates. In this article, we explain what applicant tracking systems are, how they work, and 13 best practices for getting your resume through one.
+
+What is an applicant tracking system?
+-  https://ca.indeed.com/career-advice/resumes-cover-letters/applicant-tracking-system?_gl=1*11hftag*_ga*MzkyNTc1MTE3LjE3NTYwMjQ4OTM.*_ga_5KTM… 1/8
+
+
+=== Page 2 ===
+ 
+-  An applicant tracking system (ATS) is software that employers use to find the most qualified candidates for a role. These systems help streamline the hiring process and remove resumes that don't meet the employer's requirements. An ATS is more likely to submit your application to the hiring manager for review if you've optimized your resume and cover letter for each specific job.
+
+ How do applicant tracking systems work?
+-  Applicant tracking systems work by scanning your submitted resume and cover letter to find keywords that match the job posting. They also store submitted resumes in a database for hiring managers and human resources professionals to look through later on. The ATS may highlight and rank any applications it has determined to be a good match for the role.
+
+ Related: Why Quality Over Quantity Matter in Your Job Applications
+
+ Search jobs and companies hiring now
+
+ Search
+
+ tracking systems
+-  To improve your chances of receiving an invitation to interview and getting your dream job, it's important to tailor your resume to specific roles and applicant tracking systems. Here are 13 ways you can consider to improve your resume and get it through any ATS to the hiring manager:
+
+1. Only apply for jobs you qualify for
+-  https://ca.indeed.com/career-advice/resumes-cover-letters/applicant-tracking-system?_gl=1*11hftag*_ga*MzkyNTc1MTE3LjE3NTYwMjQ4OTM.*_ga_5KTM… 2/8
+
+
+=== Page 3 ===
+ 
+-  Applicant tracking systems are looking for candidates that meet all the employer's requirements. This can include specific certifications, degrees, or experience the employer wants an employee to have. To improve your chances of making it through an ATS, only apply for jobs you're qualified for. Look through job postings you're interested in carefully to determine what education, skills, and experience the employer wants you to have. If you meet all their requirements, send in your application.
+
+ 2. Be selective about the jobs you apply for at one company
+-  Many companies post multiple jobs at once. While you may be interested in each role, it's better to be selective about the jobs you apply for as human resources can see how many active applications you have at their company. If you have too many, employers may think you're not passionate or serious about any specific role. Choose one or two roles you're qualified for and interested in and submit your application.
+-  Applicant tracking systems filter through resumes by looking for specific keywords. If you include these keywords in your resume, you have a better chance of making it through the ATS. Look at the job posting or description and note keywords that come up a lot, such as specific skills or years of experience. Try looking up similar jobs for inspiration as well. Once you have a list of keywords, include them naturally in your resume or cover letter.
+
+Related: 14 Resume Writing Tips to Help You Land a Job
+-  experience. Including the keywords may be enough for the ATS to send your resume through, but the hiring managers looking at it want to see genuine experience. Mention examples of times you used specific skills or experience successfully. Think about what makes you and your resume more unique than other candidates and highlight that. Explain to the hiring manager why you're the best person for the position.
+-  Most resumes include a skills section, but different formats focus more on your skills than others. For example, a functional resume places your skills at the top to highlight them. This is a great option for those with little to no work experience. If you have relevant work experience, you can use a chronological resume, which still includes a skills section near the bottom.
+-  https://ca.indeed.com/career-advice/resumes-cover-letters/applicant-tracking-system?_gl=1*11hftag*_ga*MzkyNTc1MTE3LjE3NTYwMjQ4OTM.*_ga_5KTM… 3/8
+
+
+=== Page 4 ===
+ 
+-  No matter which resume format you choose, try to include any other keywords you're missing in the skills section. It can be a bullet-point list of specific skills and attributes you have that may help you succeed in the role. Having a concise list like this makes it easier for hiring managers to skim your resume to ensure you have the skills and experience they're looking for in a candidate.
+
+ Related: Personal Skills and Professional Skills You Should Have on Your Resume
+-  Although you want your resume to be professional, you don't want it to be too formal. Uncommon language, such as role-specific jargon, can confuse applicant tracking systems, so it's best to use basic language when creating your resume. You can elaborate on certain sections in your cover letter or an interview if you receive one, so just keep your resume concise and easy-to-understand.
+-  One type of uncommon language you may want to avoid is abbreviations. Acronyms and initialisms are words formed with the first letter or letters of a phrase or term. For example, SEO is an initialism for search engine optimization. While some acronyms and initialisms may be common knowledge, applicant tracking systems may not recognize them. To be safe, write the long-form of the term or phrase you want to include. You can even include both the long form with the abbreviation next to in brackets to be sure the system can pick up one or both versions.
+-  To ensure you include all the information employers are looking for in your resume, create a new resume for every job you apply for. This can seem redundant when you're applying for similar roles, but companies tailor their ATS to what they're looking for, so one company may focus on your skills while another may focus on your credentials.
+-  Create an original resume that you can edit and adjust for each job. This saves you time while ensuring you're still including information tailored to each company. To determine what to include, look through the website of the company you're interested in. This gives you an idea of their values and the type of work they do so you can include aspects of it in your resume and stand out over other candidates.
+
+Related: Why Creating Multiple Versions of Your Resume Works
+-  https://ca.indeed.com/career-advice/resumes-cover-letters/applicant-tracking-system?_gl=1*11hftag*_ga*MzkyNTc1MTE3LjE3NTYwMjQ4OTM.*_ga_5KTM… 4/8
+
+
+=== Page 5 ===
+
+-  It can be tempting to create a graphically enhanced resume to help you stand out, but many applicant tracking systems have trouble processing complicated resumes. If the system can't process your resume, it may reject it automatically. Try to avoid borders, pictures, special or coloured fonts, or other designs. Keep your resume simple and allow your skills and experience to speak for themselves.
+-  If your resume makes it through the ATS, hiring managers still read it to see if you'd be a good fit for the position. As they may still have many resumes to look at, make yours easy to skim. One of the best ways to do this is to use standard resume section headings, such as "Work experience" or "Skills." This allows hiring managers to look at each section quickly and ensure you have the necessary qualifications.
+-  Once you complete your unique resume, assess the job posting to determine how the employer wants you to submit it. Many employers mention specific file types they want, such as a PDF. If you submit the wrong type, the ATS may not be able to process it. If the job posting doesn't mention a specific document type, choose a simple .docx or .pdf document as applicant tracking systems tend to find them easier to read.
+-  Some applicant tracking systems do more than search the resume you've submitted. They may also search the web for your information to make sure it all matches. Keep your online profiles professional and up to date to make your application more complete.
+-  Referrals have always been an important part of getting a job. Hiring managers want to hear directly from someone who knows you and can vouch for your work ethic. During an online application, there's often a section that asks if a current employee of the company has referred you to the role. If this is the case, remember to put your friend or colleague's name here to increase your chances of making it through the ATS.
+-  Some companies even have employee referral systems that can move your application straight through the ATS to a hiring manager, so you can use this to your advantage if you have a contact within an organization.
+-  https://ca.indeed.com/career-advice/resumes-cover-letters/applicant-tracking-system?_gl=1*11hftag*_ga*MzkyNTc1MTE3LjE3NTYwMjQ4OTM.*_ga_5KTM… 5/8
+
+
+=== Page 6 ===
+ 
+-  The information on this site is provided as a courtesy and for informational purposes only. Indeed is not a career or legal advisor and does not guarantee job interviews or offers.
+
+ Related articles
+
+How To Write an ATS-Compliant Resume (With Tips and FAQs)
+-  https://ca.indeed.com/career-advice/resumes-cover-letters/applicant-tracking-system?_gl=1*11hftag*_ga*MzkyNTc1MTE3LjE3NTYwMjQ4OTM.*_ga_5KTM… 6/8
+
+
+=== Page 7 ===
+ 
+-  Why Quality Over Quantity Matters in Your Job Applications
+-  What Are Resume Keywords and Why Are They Important?
+
+Explore more articles
+-  Housekeeper Resume Skills: Definition and Examples
+-  https://ca.indeed.com/career-advice/resumes-cover-letters/applicant-tracking-system?_gl=1*11hftag*_ga*MzkyNTc1MTE3LjE3NTYwMjQ4OTM.*_ga_5KTM… 7/8
+
+
+=== Page 8 ===
+
+-  Using a Google Docs Resume Template (With Helpful Tips)
+-  How to Become a Babysitter (With Steps, Benefits, and FAQs)
+-  Career Guide
+-  21 Jobs in Architecture (With Salaries and Duties)
+-  How to Become a CFA: A Step-by-Step Guide
+-  14 Resume Writing Tips to Help You Land a Job
+-  What Does an Editor Do? (With Responsibilities and Duties)
+-  Work at Indeed Countries About Help ESG at Indeed
+-  © 2025 Indeed Accessibility at Indeed Privacy Centre and Ad Choices
+-  https://ca.indeed.com/career-advice/resumes-cover-letters/applicant-tracking-system?_gl=1*11hftag*_ga*MzkyNTc1MTE3LjE3NTYwMjQ4OTM.*_ga_5KTM… 8/8

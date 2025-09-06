@@ -1,0 +1,721 @@
+
+=== Page 1 ===
+ FOR JOB SEARCH SUCCESS
+
+NRW NATIONAL RESUME WRITERS’ ASSOCIATION
+-  Cutting-edge strategies for job seekers fromgthe NRWA, the only national nonprofit organization for professional resumé writers.
+
+
+=== Page 2 ===
+ INTRODUCTION
+-  Throughout 2023, we heard stories about AI taking over the hiring process and making both resumes and career professionals extinct. However, amidst the technological advancements, it is essential to recognize the limitations of AI. Although algorithms excel at processing vast amounts of data, they lack the nuanced understanding, creativity, and emotional intelligence that a human touch brings.
+-  It has become evident that AI cannot replace the intrinsic value offered by a career services expert. Instead, for a credentialed career professional, AI can be leveraged as a powerful tool, enhancing their capabilities, and providing clients with a competitive edge in an ever-evolving job market.
+-  This e-book underscores the irreplaceable role of human expertise in crafting resumes, providing personalized career guidance, and navigating the intricacies of the job market. The NRWA, as a steadfast advocate for career professionals and job seekers, emphasizes the enduring importance of human connection and expertise in the face of technological progress.
+-  As you journey through the 2024 edition of Career Tips for Job Search Success (Volume 5) be confident that the knowledge, tips, and best practices included chart a course for job seekers to thrive in an ever-evolving job market while demonstrating that the future of job search lies in the harmonious collaboration between human expertise and technological innovation.
+-  Robert Rosales, NCRW, NCOPE NRWA Immediate Past President 2024 NRWA President 2023
+
+About the National Résumé Writers’ Association
+-  As the only nonprofit, volunteer-driven association for professional résumé writers, the National Résumé Writers’ Association (NRWA) has set the national standard for excellence in the résumé writing industry.
+
+
+=== Page 3 ===
+FOREWORD
+-  W hile many people are surprised to hear that the art of résumé writing has stimulated the growth of an entire segment of the career services industry, it isn’t as novel as one might think. There is, in fact, evidence that it was inspired by Leonardo da Vinci, who made his living as an armorer — an inventor of weapons — before he became famous for his artistry as a painter.
+-  In what we consider an essential part of the hiring process today, Leonardo wrote a letter in 1482 to the Duke of Milan seeking his patronage. His remarkable letter listed his skills and experience and, most importantly, called out the benefits his skills would produce for his prospective employer. In other words, Leonardo da Vinci became the first person in recorded history to write what we know today as a résumé — a word inspired by the French word for summary.
+-  The résumé trend continued with wealthy patrons in the 1500s and 1600s, encouraging the submission of résumés from the skilled artisans and laborers they sought to hire. It doesn’t take too much imagination to suppose that enterprising writers of the day may have assisted in writing these documents for the otherwise widely illiterate population.
+-  Fast forward to the present day. In 1997, the National Résumé Writers’ Association (NRWA) was founded as the first and only nonprofit professional trade association for résumé writers in the world. For more than 20 years, the mission of the NRWA has remained unchanged: to increase the visibility of the industry, encourage ethical practices, promote excellence, and raise industry standards through peer marketing and training. While résumé writing as a profession was still relatively uncommon in 1997, it has grown over the years, with new members joining the NRWA every month.
+-  Résumé writers come from diverse backgrounds: business, human resources, recruiting, and career counseling are common ones. Many résumé writers hold advanced degrees and career coaching credentials in addition to the prestigious professional résumé writing certification — Nationally Certified Résumé Writer (NCRW) — offered by the NRWA. Acknowledging that the career services industry is not immune to digital disruption, the NRWA rolled out its groundbreaking Nationally Certified Online Profile Expert (NCOPE) certification in 2018. Members who have earned the NCRW credential have demonstrated the highest standards of résumé writing excellence. Members who have earned the NCOPE have been educated and certified to help job seekers unleash the power of LinkedIn. Besides these two premier certifications, many of our members have earned other professional résumé writing and career coaching credentials as well.
+-  All NRWA members are true résumé experts, committed to upholding the highest ethical and professional standards. The NRWA offers members ongoing professional development opportunities utilizing industry-leading webinars, training programs, resources, and conferences. This allows NRWA professionals to stay abreast of changes in the careers industry and best serve our clients and business partners.
+-  In 2018, the Public Image Committee of the NRWA rolled out ResumeExperts.TheNRWA.org, a site dedicated to serving the job-seeking public. Visitors to the site will find valuable information to help them understand the value of working with a professional résumé writer and have access to our member database to search and find a
+-  The Ask the Experts section of the ResumeExperts site is a valuable resource for job seekers, providing an easy way to get answers from our expert members about writing a résumé, cover letter, and LinkedIn profile, as well as the entire job searching process. This book is a compilation of the questions answered by the many career services experts in the NRWA from January through December 2022.
+-  As da Vinci demonstrated in 1482, there is real artistry involved in writing a compelling and persuasive résumé, and NRWA members are steeped in the craft. The résumé experts at the NRWA are committed to the career
+
+
+=== Page 4 ===
+
+-  success of the job seekers we work with and offer tremendous inside perspective and advice to help job seekers navigate the evermore complex job market and achieve long-term career goals.
+-  We hope you learn from the advice in this book, and we invite you to visit our Ask the Experts page at ResumeExperts.TheNRWA.org to ask your own questions, which you may find featured on our blog and included in a future volume of this series.
+-  Michelle Dumas
+-  Past NRWA President (2017) and past Chair, NRWA Public Image Committee (2016, 2018)
+
+
+=== Page 5 ===
+ TABLE OF CONTENTS
+
+ Chapter One: A Winning Résumé
+-  How do I “sell” myself as manager-capable on my résumé without the experience? I took an internship in college at a church. Should I list it on my résumé? I didn’t finish my bachelor’s degree. How should I represent this on my résumé? I want to explore new career opportunities. How do I write the résumé for such a big change? Can I trust ChatGPT to write my résumé? Will it work to land interviews? What should I consider in my résumé formatting to work well with Applicant Tracking Software (ATS). I am disappointed in the résumé I received from a professional résumé writer. What can I do? What’s the key to writing good accomplishments on my résumé? What do I write on my résumé if I don't have any experience in the job field I'm applying to? My résumé writer does not have recruiting experience, does that matter? How do I identify key experience from my military service to apply for a civilian role? If I contract with a professional résumé writer, what should I be looking for? How about pricing? I will have my MBA completed shortly. How do I present this on my résumé? How do I turn a good résumé into a great résumé? I’m targeting multiple roles; how should I create my LinkedIn profile to attract recruiters? Aside from LinkedIn, are there other platforms that might be practical to attract recruiters? I’m nervous about social media. Do I really need a LinkedIn profile? How do I customize my LinkedIn URL? Why is it important? How do I use LinkedIn to build my personal brand?
+-  How can my résumé help me prepare for an interview?
+-  I used to hear about the hidden job market? Is that still a thing?
+-  I don’t have a computer. How can I conduct my job search efficiently on my smartphone?
+-  How do I balance my job search with my current job?
+-  Should I apply for a job if I’m missing one or more job requirements?
+-  What do I do if I don't hear back from an employer within 10 days after submitting a résumé?
+-  I left my last job 6 months ago. How soon should I update my LinkedIn profile and résumé?
+-  Will applying for a job in a different state hurt my chances for hire?
+-  I'm trying to interview for a job I tried and failed to get before. How do I handle a second chance?
+
+ CONTRIBUTING EXPERTS
+
+EDITORS
+
+
+=== Page 6 ===
+ Chapter One A WINNING RÉSUMÉ
+-  Your #1 Career Marketing Tool
+-  After 10 years in my industry, I am ready for a management role. How do I “sell” myself as manager-capable on my résumé without the experience?
+
+Answers from our experts:
+-  When it comes time to take the next level in your career, your résumé needs to highlight any and all management related tasks you have been specifically assigned and the outcomes you achieved. Were you selected to lead a team project because your manager relies on the strengths you offer? Excellent! Anything that shows leadership and supervision are the key to taking that next step.
+-  Nancy Grant
+-  Concisely describe your leadership skills in the profile summary. Then prove it with accomplishments under “Experience.” Dig deep and find examples of how you stepped up and contributed to the company’s success; when you made decisions; took initiative; conceived and implemented new ideas; resolved problems; and/or helped co-workers.
+-  Stacie Ferhm
+
+
+=== Page 7 ===
+ 
+-  Management roles require strong people skills and the ability to build teams and develop others. To position yourself as a manager, consider the impact and influence you have exercised working in teams and integrate those skills into your résumé. Demonstrate your commitment to learning what it takes to be successful as a manager; take a new manager training course and add it to your résumé.
+-  Cathy Lanzalaco
+-  Position yourself for the role you want, not the one you have. Highlight career success stories emphasizing your leadership, communication, and teamwork skills and achievements to show how you will be successful at the management level. These examples could include special projects, a progressive record of advancement, leadership courses, training/coaching/mentorship experience, etc.
+-  Kate Williamson
+-  I took an internship in college that was effectively an unpaid full-time job that directly aligns with the skills I use in my career. But it was for a church; I’ve been told I shouldn't list it on my résumé for this reason. Is this true?
+
+Answers from our experts:
+-  Churches and other nonprofits can provide valuable professional experience through internships or paying permanent positions. These organizations need leaders, community partners, and support staff to keep them viable, so don’t feel you have to shy away from them. When quantifying that experience on your résumé, describe what you learned and the skills you developed like any other internship.
+-  Cathy Lanzalaco
+-  You demonstrated why it should be on your résumé by including in your question the fact that the skills applied were aligned with those needed in your target career. Include those skills and combine them with measurable achievements. Use specific numbers or data if possible.
+-  Jane Roqueplot
+-  The fact that the internship was for a church is not a reason that it shouldn't be included in your résumé. The number of years you have been working in your career, how far back the internship extends in comparison, and if it would benefit you to show this is where you gained the valuable skills you still use would be three factors to consider regarding whether to include that information or not.
+-  Not true! Your résumé serves to demonstrate that you are qualified. Include key words and emphasize accomplishments. Put your boldfaced title first then the name of the church, as you would any other employer. Avoid religious and political controversy by omitting any particular cause unless, of course, you are applying for jobs that promote that cause.
+-  Stacie Fehrm
+-  Yes, include it! Any relevant experience you gain through paid or unpaid internships, regardless of the business type or affiliation, should be included. Many internships are unpaid and should be on your resume, especially if the responsibilities align with your career goals and skills. For example, teachers who intern for private, Christian schools include their internships on their résumés.
+-  Lucie Yeomans
+-  If the accomplishments are valuable to your career, include the experience on your résumé. Religious organizations are businesses too. List it the same as you would an employer. However, keep your achievements
+
+
+=== Page 8 ===
+ 
+-  relatable and demonstrate how they are transferable in all business settings. Operating successfully in a business regardless of what type of business it may be.
+-  Nancy Grant
+-  I’ve taken a few courses toward a bachelor's degree but didn’t finish the degree. I've had a long and successful career despite this. How should I represent this on my résumé?
+
+ Answers from our experts:
+-  If the courses you took toward the degree are relevant to your current career goals, you can include them in an “Education” section on your résumé or quantify how many credits you attained. Also, list any training, certifications, and other independent learning you have completed. Presenting continuous learning demonstrates your commitment to professional development.
+-  Cathy Lanzalaco
+-  Many degrees become outdated not long after completion. Performing successfully is the key for continued professional growth. Many times, employers will outweigh experience for formal education. However, continued professional development is important to demonstrate you have stayed current as trends have emerged. Showing more recent industry training or certifications may prove more valuable.
+-  Nancy Grant
+-  If the courses are relevant to your job target, it belongs on your résumé. It can be noted as "in process" or you can simply list the courses. Just be careful not to mislead the reader that you obtained a degree.
+-  How can I reinvent myself? I want to explore new career opportunities. How do I write the résumé for such a big change?
+
+Answers from our experts:
+-  Identify the sectors that you are considering. Research the qualifications required for those roles. You can find these by reading job postings. Review your job history to discover the elements in your background that match the needed skills and feature them on your new résumé. Finally, enroll in relevant training courses that address your skills gaps and highlight them on your new résumé.
+-  Grant Cooper
+-  Transferable skills are the key to helping an employer see you in a role outside of what you have previously done in your career. Highlight those in your résumé and draw the correlation between the skill and the result you delivered. Creating a strong branding statement at the top of your résumé that showcases the highlights of the value you have created will garner immediate attention.
+-  Cathy Lanzalaco
+-  First, make an informed decision for satisfaction and success by selecting job titles matching your natural strengths, transferrable skills, and other criteria. A ProfilingPro Career Management DISC Assessment with a NRWA résumé writer and career coach is key. The results of your career exploration process should be highlighted in your résumé and other job campaign materials.
+-  Jane Roqueplot
+
+
+=== Page 9 ===
+ 
+-  You're putting the cart before the horse. Begin with your career exploration and once you have a clear goal in mind, determine what skills and experience you have that will reveal why you are qualified. Then develop a strategic résumé containing all the relevant information to position you as the ideal candidate.
+-  Norine Dagliano
+-  Can I trust ChatGPT to write my résumé? Will it work to land interviews?
+
+Answers from our experts:
+-  ChatGPT is a tool to guide you through the résumé design process, providing new ideas and prompts when you struggle to write your résumé; however, the downside is that the output will be too generic and could misrepresent your actual skills, qualifications, and experiences, limiting your chances of getting noticed and landing interviews.
+-  Jessica Visek
+-  ChatGPT is great for easily (and quickly) generating coherent, contextually appropriate content. While using it to write your résumé is tempting, it has limitations. It is only as good as the inputs you feed it. Its content is based on recognizable patterns and common phrases, which can result in skewed, biased, and popular (but incorrect) data. Employers want YOUR career story, not a commodity.
+-  Kate Williamson
+-  From ChatGPT: "As an AI language model, I am capable of generating text that can be used to create a résumé. However, it is important to note that I am not a professional résumé writer and am unable to fully understand your unique skills, experiences, and career goals. The success of your resume will depend on a variety of factors, including the strength and presentation of your qualifications."
+-  Mary Jo King
+-  While you can rely on ChatGPT to provide ideas for résumé content, you cannot trust it to get the personalization accurate, nor will it format a résumé for you aligned with best practices. While ChatGPT is a great tool for generating ideas and content prompts, the responsibility lies with the user to ensure résumé accuracy, truthfulness, and personal branding, which are key to landing interviews.
+-  Cathy Lanzalaco
+-  ChatGPT can be a handy tool to help identify key words and criteria to highlight in a résumé. It may even land you an interview. However, it will not draw out the human element that elevates your candidacy among others. At least not yet. Note, as more people use ChatGPT for résumés, the more common terms become. If you want to stand out in the crowd, be outstanding, not a carbon copy.
+-  Nancy Grant
+
+
+=== Page 10 ===
+ 
+-  What should I consider in my résumé formatting to work well with Applicant Tracking Software (ATS).
+
+ Answers from our experts:
+-  Content is critical for ATS optimization. Analyze 3-5 job postings for an accurate sample size of common keywords. You will want to integrate these into your résumé headline, summary, and skills sections. Stick with traditional résumé headings (i.e., Professional Experience). Avoid text boxes, headers, and footers. Do not justify text.
+-  Kate Williamson
+-  There are 800+ ATS packages. They all have their quirks and limitations. So, the best strategy is “keep it simple.” Avoid columns and section breaks. Keep tables brief. On the other hand, most ATS handle fonts, font sizes, bold, italics, underline, and colors without any issues. ATS don’t read photos, graphics, and text boxes but won’t reject them. So, don’t be afraid to be a bit artistic.
+-  Edward Lawrence
+-  I am disappointed in the résumé I received from a professional résumé writer. What can I do?
+
+Answers from our experts:
+-  Every individual has different goals, persona, and experience they want to embody in their résumé. If you’re not 100% satisfied with your résumé, speak up so it can be fixed! Convey specifically what you’re looking for to help the writer to meet your expectations. There may be reasons behind their approach, so I encourage you to ask questions for understanding, as well!
+-  Katrina Pankuch
+-  Always circle back with the professional résumé writer you've hired to provide feedback or corrections. Most professional writers are eager to ensure your satisfaction and will work with you to revise documents to your satisfaction. Many of us provide real-time editing and follow-up to walk through all aspects of your branding and value proposition for accuracy.
+-  Laura Smith-Proulx
+-  In my opinion, the best thing to do is have a conversation with your résumé writer. If they are a member of the National Résumé Writers' Association or another reputable career industry association, I can assure you they are interested in your success and satisfaction and would want the opportunity to have a conversation with you and course correct. Good communication is the key to everything.
+-  Camille Roberts
+-  If you hired a "professional" résumé writer, you need to contact them to explain what you don't like. Any business with good customer service will work with you. Sometimes the job seeker is unaware of why a résumé is organized a certain way, so reaching out enables the résumé writer to educate you. However, it is best to hire a "Certified Résumé Writer" who has passed industry exams.
+-  Cherie Heid
+
+
+=== Page 11 ===
+ 
+-  Review the résumé to list what has disappointed you: format, content, or cost. Contact the writer to share your confusion. A professional résumé writer will be industry-trained and/or certified in best practices, ATS, strategic writing, résumé trends, and HR practices and open to sharing the résumé's strategy. It is your résumé and professional brand, and you should be confident in it.
+-  Cheryl Minnick
+-  Discuss your reasons for disappointment with the résumé writer. Professionals will justify their objectives for developing your résumé as is and/or appreciate your input and consider making appropriate edits. Edits will be done as necessary to meet the standards of professional writing.
+-  Jane Roqueplot
+-  What’s the key to writing good accomplishments on my résumé?
+
+Answers from our experts:
+-  Truly compelling accomplishment statements include a description of the situation, your actions, and the result — especially if you quantify the outcome! Try describing how you solved a problem or met a deadline, with details on the challenge and how your work made a difference, such as "Cut monthly close time 65% with new SAP system" or "Generated $1.2M by displacing competitors in 5 accounts."
+-  Laura Smith-Proulx
+-  Review the top 5 qualifications/requirements on the job announcement. Identify your best accomplishments that relate to each one. Draft your answer as if you were answering the question in the interview. Identify the result/impact, then frontload those at the beginning of your statement then fill in the rest of the bullet with the key points of your answer. We teach the proprietary STCARI Method™.
+-  Camille Roberts
+-  To write strong accomplishments on your résumé, be clear, specific, and results-oriented. Quantify your achievements using numbers or percentages to showcase their impact. Highlight how your actions positively influenced the organization or team. Employ the STAR (Situation, Task, Action, Result) method to structure your accomplishments.
+-  Jessica Visek
+-  Good accomplishments written on résumés must be relevant on the targeted position of the job seeker. Other than that, it would be best if it contains stories on what was done and what skills were utilized in order to achieve those accomplishments.
+-  MarkGabriel Morales
+-  Clarity and proper formatting. People read from left to right, so if you want to "get them at hello," place the result first, followed by the "how" and make it impactful with as much qualitative and/or quantitative data you can. Make it easy for the recruiter to assess at a glance what you can do for them. You'll pique interest with clarity. Avoid "TLDR" — too long, didn't read.
+-  Barbara Schultz
+-  A good accomplishment begins with a strong action verb. Avoid using “responsible for” or “duties included”! Then tell the story in a tight, clean way. Focus on the result, any numbers you can add, and what your action was specifically. Consider using the STAR method to frame the story: Situation/Task, Action, and Result.
+
+
+=== Page 12 ===
+ 
+-  Use the CAR technique - Challenge, Action, and Result. When you add it to the résumé, write the CAR in reverse Result, Action, and drop off the challenge. Front-loaded bullets with the value first will engage the reader to learn more value about you in that position. Keep bullets to one line, two max; remember recruiters scan résumés the first time before reading their favorite valuable candidates.
+-  Thomas Powner
+-  Front-loading each bulleted statement with the results upfront. Quantifying and qualifying your achievements with numbers to give context to the breadth and depth of your work. Ensuring that the accomplishments tell a story about how you solved a problem/saved money/streamlined operations, etc. Strong accomplishments answer the question, "What difference did you make in this job?"
+-  Emily Christakis
+-  Use the STAR approach. Briefly describe the Situation, the Task, your Approach, and the Result. Get as specific as you can, like "Beat quota 125%," "Saved 10% in costs," or "Improved time to value 50%." I often start the sentence with the result then the why and how.
+-  Jaime Chambron
+-  What do I write on my résumé if I don't have any experience in the job field I'm applying to?
+
+Answers from our experts:
+-  First, mine job posts for keywords and requirements. Create a brief summary of qualifications that highlights your transferable skills and matching requirements. This strategy allows you to present at the top of your document any relevant experience from earlier in your career. You may also acquire online courses to make up for shortfalls in experience and reflect this training on your new résumé.
+-  Focus on transferable skills when applying for jobs outside of your work experience. Think hard skills, like coding and data analysis, or soft skills like communication and relationship building. Check the job posting to identify the skills needed for the new job. If you have taken training, gained certifications, or had any informal experience in the job field you are applying to, include those.
+-  Cathy Lanzalaco
+-  Easy. Focus on your transferable skills. Make sure you know what skills are important for the field you are applying and what qualifications are necessary. Choose achievements that are relatable and demonstrate your ability to succeed in other settings. Lastly, do an informational interview with someone in the field to get feedback on what skills you offer that would be relevant to highlight.
+-  Nancy Grant
+-  Presumably, you are not an entry-level jobseeker. Nearly all jobs at mid to senior levels have a variety of transferable skills. Most involve, to one degree or another, the elements of quality assurance, resource budgeting, professional communications, stakeholder relations, compliance, and much more. In addition to highlighting those, consider volunteering in a relevant area in your spare time.
+-  Grant Cooper
+
+
+=== Page 13 ===
+ 
+-  My résumé writer does not have recruiting experience, does that matter?
+
+ Answers from our experts:
+-  No, your résumé writer does not need recruiting experience to craft a powerful and effective résumé. What they do need is a deep understanding of the job market and hiring practices, strong professional writing skills, and working knowledge of the role Applicant Tracking Software (ATS) plays in the recruiting process.
+-  Cathleen Lanzalaco
+-  While it is helpful to know what a recruiter does and looks for, a résumé writer who is trained and experienced in how to write a great résumé is better than a recruiter who does not.
+-  Jaime Chambron
+-  While it may not be absolutely critical that your résumé writer has direct experience as a recruiter, it is definitely helpful that the writer has had experience coordinating with them. Many seasoned résumé writers have worked closely with recruiters, often in cases in which the recruiter reaches out to the writer to help improve a candidate's résumé presentation.
+-  Grant Cooper
+-  How do I identify key experience from my military service to apply for a civilian role?
+
+ Answers from our experts:
+-  First you need to understand the type of role or function you are leaning into. Once you know that you can review example job descriptions to better understand the skills and experiences they are looking for in selecting candidates. From there, reflect on what you do and what you have delivered in the military that matches what the jobs are looking for, then home in on those experiences.
+-  Jaime Chambron
+-  The military generates detailed personnel data that is helpful in constructing an effective military transition résumé. The DD-214 is a form that all military personnel receive upon separating from service, and it has basic information. Depending on the branch of service, the best source often often can be found in the annual Fitness Reports, Rater Profiles, and other performance evaluation documents.
+-  If I contract with a professional résumé writer, what should I be looking for? How about pricing?
+
+Answers from our experts:
+-  Seek an expert who possesses deep industry knowledge, understanding the nuances of your field. The process should involve comprehensive consultations to extract your unique achievements and experiences. A well-structured, collaborative approach is key to crafting a standout résumé. Pricing should be reflective of the level of customization required for your specific needs.
+-  Crystal Johnson
+
+
+=== Page 14 ===
+ 
+-  Choose a résumé writer who will collaborate with you and who offers proof of wordsmithing skills and branding expertise on their LinkedIn profile and website along with direct client testimonials. While budget is important, selecting a service on price alone can lead to subpar results. Low-cost providers may simply dump your information into a template format.
+-  Tammy Shoup
+-  Although certification and experience are important to selecting a professional résumé writer, your ability to communicate with the writer and your level of trust in the writer's capability is tantamount. Pricing for professional résumé writing services can vary depending on the complexity of the job and level of service that you choose. Look for packages for best pricing; get multiple quotes.
+-  Donna Tucker
+-  Hire the résumé writer that makes you feel comfortable and gives you the confidence that you will be satisfied with his/her services. If your selection is based only on pricing, you may not be satisfied.
+-  Jane Roqueplot
+-  I will have my MBA completed shortly and want to start now to leverage the degree for a higher-level position with significantly higher pay. How do I present this on my résumé?
+
+Answers from our experts:
+-  Honestly. The MBA could be included in EDUCATION or the career summary section with the "expected" month and year of graduation. For instance: Master of Business Administration (MBA), University of Montana, Missoula, MT, expected May 2024. Note: one becomes a master of business administration, but one holds (owns) a master's degree (with a possessive apostrophe).
+-  Cheryl Minnick
+-  If you are completing your MBA within the next six months to one year, then mention it in your summary statement near the top of your résumé. Reference yourself as either an MBA Candidate or mention the degree with the expected graduation date (month and year) in parentheses. By including this information immediately at the top, you are already starting to leverage the degree.
+-  Heather Rothbauer-Wanish
+-  It is perfectly acceptable to place the MBA degree on your résumé, as long as you insert "anticipated graduation, Dec. 2024" or similar wording to show your expected date of graduation. While course names are rarely listed for undergraduate degrees, listing the MBA courses can be useful, room permitting. If your GPA is above 3.2, you can add it, as well as any clubs, societies, or scholarships.
+-  Grant Cooper
+-  To showcase it on your résumé, create a dedicated "Education" section, listing the degree, expected graduation date, and the institution. Highlight relevant coursework or achievements. Also, consider mentioning it in your summary or objective statement to emphasize your commitment to career growth and higher-level positions.
+-  First, refer to it in your professional profile at the top of your résumé. You could write something like: "Currently completing an MBA with a focus in finance." Second, add it to your education section like this: "Pursuing MBA in Finance | University Name | City, ST | Expected 5/2024." These two additions make it clear to potential employers that you will soon have the degree.
+-  Carol Adams
+
+
+=== Page 15 ===
+ 
+-  Congratulations! You should be proud to share this accomplishment and use it to gain momentum in your career. Update your résumé immediately to reflect your degree by showing an anticipated graduation date. You should also highlight any relevant achievements on your job that show leadership and your new competencies. Lastly, stay connected and network with your cohort for potential opportunities.
+-  Nancy Grant
+-  On your résumé, prominently feature your impending MBA graduation by appending "MBA Candidate" or "MBA (Expected [Month, Year])" next to your name in the header. In the education section, detail your MBA program, emphasizing any relevant courses or projects that align with your targeted role. Incorporate this newfound knowledge and expertise into your professional summary, showcasing how your MBA will add value. Scott Gardner
+-  Absolutely! I recommend this as a best practice if you are within 12 months of degree completion. List your degree name, followed by the name of the university then in parenthesis, the anticipated graduation date. An example would look like this: Master of Business Administration, University of Washington (Anticipated Graduation June 2024).
+-  Sarah Vallieu
+-  To highlight your upcoming MBA on your résumé, include it in the 'Education' section as: "MBA, [Institution Name], Expected [Completion Date]." In your summary, note: "Seasoned professional nearing MBA completion." Feature pertinent MBA projects in "Academic Achievements." Accentuate skills acquired from your MBA and elaborate on its significance in your cover letter.
+-  Jessica Visek
+-  How do I turn a good résumé into a great résumé?
+
+Answers from our experts:
+-  The difference between a good résumé and a great one is impact, and impact = value: show the company what you’ve accomplished, the difference you’ve made, and how you did it. Great résumés are aligned with the specific job posting, weaving a blend of hard and soft skills that create a compelling brand that help employers see you in that job.
+-  Cathy Lanzalaco
+-  The most direct way to enhance your résumé is to identify a top-level, credentialed résumé writer in order to craft a résumé that is visually attractive, responsive to the positions you are seeking, aligns with ATS technology, focuses on achievements, provides quantifiable metrics, is the appropriate length, and uses the latest in résumé best practices to attract interviews.
+-  Grant Cooper
+-  Great résumés include all of the following:
+-  Jaime Chambron
+
+
+=== Page 16 ===
+
+-  Focus less on tasks and responsibilities and focus more on accomplishments. Summarize your description and then highlight your performance outcomes. Synthesize your résumé to match the specific goals the employer is targeting. A great résumé tells a story quickly, so don't bury the great among the good. Ensure what is most important is highlighted and easy to find.
+-  Nancy Grant
+-  Tom Powner
+-  To turn a good résumé into a great one, focus on quantifying achievements, use action verbs, tailor it to the specific job, and ensure a clean, professional layout. Highlight relevant skills and experiences and include precise metrics to demonstrate impact. Proofread meticulously to avoid any errors and consider feedback from professionals in your field. Keep it concise.
+-  A great résumé is like a movie trailer. Compared to the movie of your life, it is brief; demonstrates action and passion; includes only the best stuff; and doesn’t try to explain everything. It looks good, shows care went into the production, and knows its audience. It convinces them to think: “I’ve got to see you!”
+-  Ed Lawrence
+-  Don’t overlook formatting when taking your résumé from good to great. A well-formatted résumé is straightforward and easy to read, drawing attention to your most compelling accomplishments. By employing a strategic approach to formatting, you ensure your suitability for the role is easily identified by recruiters and hiring managers.
+-  Sara Catherine Timm
+
+
+=== Page 17 ===
+ Chapter Two BEYOND THE RÉSUMÉ
+-  Leveraging LinkedIn in your Job Search
+-  I’m targeting multiple roles; how should I create my LinkedIn profile to attract recruiters?
+
+Answers from our experts:
+-  LinkedIn assigns a generic "headline" that mirrors your most recent job title. You are allowed to replace that with a detailed headline that you can feature on your profile. The headline is a prominent factor in search algorithms used by recruiters and others to seek talent. In the headline, as well as elsewhere within your LinkedIn profile, you can address the multiple roles you wish to target.
+-  Grant Cooper
+-  Keywords are king when attracting attention to your LinkedIn profile, so focus on a primary target and build your headline with those keywords. Select different job titles from the Open to Work feature to show recruiters what positions you are interested in. Use the About section to share what other roles you are a good match for and choose skills aligned with your specific targets.
+-  Cathy Lanzalaco
+
+
+=== Page 18 ===
+ 
+-  Use keywords that overlap for each of the roles you are targeting. Ensure that you tell a story in your LinkedIn; this is not about providing a life and work history. It entails showcasing your talents, accomplishments, and interests through storytelling while integrating strong keywords that are searchable by recruiters. You will need to research and explore requirements of each role.
+-  Jennifer Grunwald
+-  When you're pursuing multiple roles, your LinkedIn profile becomes a dynamic narrative of your career journey. Start by identifying the common skills, accomplishments, and qualities that make you an asset across different positions. Highlight these transferable attributes prominently. Remember, your profile should resonate with the overarching theme of being a valuable, adaptable professional.
+-  Crystal Johnson
+-  I know that LinkedIn is a great social media tool for job searching, but are there other platforms that might be practical to attract recruiters?
+
+Answers from our experts:
+-  There are many niche sites by level and function that some recruiters leverage (Above Board, Experteer, Ladders, to name a few), and recruiters will still use their own websites. Instead, leverage the Google job search interface and set up an alert that provides job postings from across the web (type Jobs in the search bar to uncover the job search interface).
+-  Jaime Chambron
+-  LinkedIn is key for job hunting, but other platforms like X (formerly Twitter), Facebook, and Instagram also offer opportunities. For creatives, Behance and Dribbble are ideal; tech pros can turn to GitHub and Stack Overflow. AngelList targets startups, Glassdoor provides job listings and insights, and Reddit hosts job-focused subreddits. Ensure a polished profile and engage actively.
+-  Jessica Visek
+-  Besides LinkedIn, platforms like X/Twitter, Instagram, GitHub, and industry-specific networks can also attract recruiters. Many industries have Slack communities where professionals gather to discuss trends, job opportunities, and to collaborate on projects. It's a goldmine for networking.
+-  Arno Markus
+-  Absolutely! While LinkedIn is indeed a powerhouse for professional networking and job searching, several other platforms can also be effective. For instance, platforms like Behance and Dribbble are essential for creatives to showcase portfolios. GitHub is a go-to for tech professionals to display coding projects. Engage in industry- specific forums or community sites too. The key is to be active.
+-  Scott Gardner
+-  LinkedIn is increasingly seen as a primary tool for jobseekers. Most users who are pursuing new job opportunities via LinkedIn are using only a fraction of its capabilities. Contact a career coach or do online research to uncover the many strategies that are available to you via LinkedIn. That being said, Indeed, Glassdoor, Getwork, ZipRecruiter, and USAjobs.gov (federal jobs) can also be helpful.
+-  Grant Cooper
+-  Use a niche job board! One specializing in listings within your specific industry or profession. A niche job board will provide a curated selection of opportunities aligned with your expertise and career goals. Niche job boards also attract employers who value specialized skills, increasing your likelihood of finding a match.
+
+
+=== Page 19 ===
+ 
+-  I’m nervous about social media. Do I really need a LinkedIn profile?
+
+Answers from our experts:
+-  Google yourself and you'll realize there's already information online about you. Why not control the narrative? Your LinkedIn profile offers a great opportunity to outline your career steps, leadership skills, educational background, and achievements in your own words (with as much or little detail as you prefer). Best of all, it helps employers recruit you and colleagues network with you.
+-  Laura Smith-Proulx
+-  It depends on what your career goals are and what you are applying for. There are numerous strategies for just about everything. I work with clients in intelligence who rarely have a photo or a complete LinkedIn profile, but I teach how to leverage LI to work. For clients who are nervous, typically, they just need a strategic consultation to discover how they can leverage their situation.
+-  Camille Roberts
+-  Social media can be intimidating, but having a LinkedIn profile is crucial in today's professional landscape. LinkedIn is a platform designed specifically for professional networking and job searching. It allows you to showcase your skills, experience, and accomplishments to potential employers and recruiters.
+-  If you want recruiters coming to you while you sleep, then create a LinkedIn profile! If you want access to decision makers at your dream companies, then create a LinkedIn profile! If you want to find former colleagues, alumni, and friends who could potentially be a referral and skyrocket your candidacy, create a LinkedIn profile… and use it ;)
+-  Teegan Bartos
+-  LinkedIn has become the #1 way to network and be found online when it comes to the job search. Almost everyone needs a profile, even if you keep it somewhat basic. Focus on uploading a nice picture and filling out your Headline, About, Experience, and Skills sections. A good profile can help make the difference when your résumé goes up against others with similar backgrounds!
+-  Laura Fontenot
+-  Yes and no. LinkedIn (LI) is a form of social media; specifically caters to the professional aspect of your life. It serves as a digital platform for your career and a tool for companies to discover candidates. Companies are using LI to initiate conversations and explore new talent. Think of LI as an amplified version of your résumé, offering more space to tell your professional story.
+-  Thomas Powner
+
+
+=== Page 20 ===
+ 
+-  How do I customize my LinkedIn URL? Why is it important?
+
+ Answers from our experts:
+-  Click the “Me” icon at the top of your LinkedIn homepage. Click “View profile.” Click “Edit public profile & URL” on the right-hand side of your profile page. Under “Edit your custom URL,” click the “Edit” icon next to your public profile URL. Remove the algorithm-generated numbers after your name and click “Save.” A vanity URL looks professional, strengthens your branding, and is easier to share.
+-  Cathleen Lanzalaco
+-  There is a "custom URL" button when you go into your profile. You will need to play around with possible URLs as what you want may already be taken. It is important when you are networking and including your URL on your résumé so it is simple and straightforward to remember. You want to be memorable.
+-  Jaime Chambron
+-  Open your LinkedIn profile. At the top right of the screen, you will see a link, "Edit public profile & URL." A new page will appear. In the top right of that page, you will see, "Edit your custom URL" and "Personalize the URL for your profile." Click on the little blue pencil icon. You can insert 3–100 letters or numbers in the underlined space. Do not use symbols, spaces, or special characters.
+-  Grant Cooper
+-  How do I use LinkedIn to build my personal brand?
+
+Answers from our experts:
+-  Establish branding messages in your banner image, headline, and about page. Write articles and posts showcasing your SME (Subject Matter Expert). Follow people that align with your brand, be active, and comment on their content. Be consistent; don't post for 2 weeks and nothing for 4 weeks; create a schedule you can stick to, then expand. Building your brand takes time, consistency is critical.
+-  Thomas Powner
+-  LinkedIn is an amazing platform to grow your brand. First you need a great profile that clearly articulates what you do, for who, and the value you provide. Second, engage with others on LinkedIn, from liking a post, sharing a post, or commenting on one. Third, leverage the platform to grow your network. Lastly, build yourself up as an authority and SME by publishing your own points of view.
+-  Jaime Chambron
+-  To build a personal brand on LinkedIn: Start with a professional photo, a compelling headline, and a detailed summary. Share content relevant to your industry and engage by commenting on and liking posts to display thought leadership. Join industry-specific groups to expand your network. Seek endorsements and recommendations to validate your skills
+-  Omonzuwa Ogieuhi
+
+
+=== Page 21 ===
+
+-  LinkedIn is the #1 vehicle to build and grow your personal brand. Here are your "must do" steps: (1) Upload a professional, smiling headshot, (2) take advantage of the "valuable real estate" of the Headline to create a brand-elevating statement, (3) complete relevant sections with descriptive content, and (4) reach out to decision-makers at companies you want to work for and invite them to connect.
+-  Grant Cooper
+-  Andy Watkins
+
+
+=== Page 22 ===
+ Chapter Three NOW, LET’S USE YOUR JOB SEARCH TOOLS
+
+ Find the strategies that work for you.
+-  How can I find companies that are hiring?
+
+Answers from our experts:
+-  Because of natural attrition, most companies of a significant size are either currently hiring or will soon be hiring. While many jobseekers wait until a company has posted a position, career coaching candidates are encouraged to network in their fields of interest and engage with decision-makers, regardless of postings. In this way, they learn about jobs before the general public.
+-  Grant Cooper
+-  A more focused approach of targeting specific companies you want to work for will streamline and expedite your search. Develop a list of target companies that align with your professional experience and personal values — follow them, contact them, set up job alerts, and try to connect with people inside to learn about positions not posted publicly.
+-  Cathy Lanzalaco
+
+
+=== Page 23 ===
+ 
+-  Look at the job search in a different way. Find companies who can benefit from someone with your skills and experience and then network your way into having a conversation with key decision makers within the company to discuss their goals, needs, and what you have to offer. Often positions are created due to these conversations — even if the company wasn't advertising that it was hiring.
+-  Norine Dagliano
+-  How can my résumé help me prepare for an interview?
+
+ Answers from our experts:
+-  A strong résumé uses career stories to highlight relevant achievements, contributions, and impact on the team, department, company, etc. Know your résumé backward. You can anticipate interview questions by studying the job posting requirements, matching them to specific career stories on your résumé, and preparing to expand on these examples using the challenge, action, results, or CAR framework.
+-  Kate Williamson
+-  Interview prep starts by having a clear understanding of the job title(s) you’re targeting and reviewing 2 or 3 job postings. Then focus your résumé writing on responses you would give in a job interview to prove you’re a worthy candidate meeting the qualifications to jump in and succeed in the role. You’re now well prepared to answer questions clearly and confidently in an interview.
+-  Brenda Collard-Mills
+-  Yes, your résumé can help prepare you for an interview by recounting all the amazing accomplishments you’ve had and the value you’ve provided at each job you’ve held, particularly the less recent ones. Use your résumé as a guide to create stories that you can share during an interview and enhance your impact on the interviewer. People remember great stories. Practice them and own them!
+-  Cathy Lanzalaco
+-  I used to hear about the hidden job market? Is that still a thing?
+
+Answers from our experts:
+-  Most positions are filled via networking. Anywhere from 50% to 80% of jobs are not posted online. By targeting companies, not jobs, you create farther-reaching employment opportunities for yourself (less competition) and build connections with people who can serve as valuable referral sources down the road.
+-  Kate Williamson
+-  The covert, hidden job market has always been a thing and is still a thing. Someone tells a friend or colleague about a job they know is going to open (or is already open but unadvertised). Then "someone" makes a call or emails, and before you know it, "someone" networks their way to coffee and a new job. That is why casting a wide networking net is key to finding and securing a hidden job.
+-  Cheryl Minnick
+-  Yes, it is. The saying is still true that 80%-ish of jobs are not posted online. They are in the hands of headhunters (executive recruiters) or are created and filled when someone pitches the value they can deliver if a role was
+-  Jaime Chambron
+
+
+=== Page 24 ===
+ 
+-  Surveys show consistently that around 2/3 of jobs never make it to the job boards. These “hidden” jobs are filled internally, through referrals, or even created for specific skilled people. The most successful method for uncovering these jobs is via “networking.” Build relationships with people at companies so they can alert you to those hidden opportunities.
+
+ Edward Lawrence
+-  Yes, it's a myth that this type of job market has gone away. Many companies utilize referrals/word of mouth to save money, and some search you out on tools like LinkedIn for the same reason. For those who only advertise their jobs on their company job board and not on Indeed or Monster, aggregators like www.getwork.com can help you find them. Use all tools available to you to find a new job.
+-  Karen Silins
+-  What should I look for when targeting a company? And then how do I use that information in my tailored résumé?
+
+Answers from our experts:
+-  Compatibility is key to landing a fulfilling job. Start by clarifying your desired career path, work-life balance, and important values. Create a list of 10–20 companies in your target industry and view their websites, including their careers and mission pages, to check for alignment. Look for keywords and themes on their job postings to integrate into your résumé.
+-  Kate Williamson
+-  I would first consider where you have experience based on company size (revenue), type (startup, venture capital backed, private equity backed, or public), and industry. Once you know where you are leaning into make sure to highlight those attributes on the résumé — i.e., add one sentence under each company to explain what they do, estimate annual revenue, type of firm, industry, and if global.
+-  Jaime Chambron
+-  Apply to companies that match your values for jobs that match your skills and interests. Peruse the job description and highlight words that match your skills, qualifications, and traits. These are your keywords. Update your résumé to appropriately include the keywords. Note duties you performed in previous roles and edit your résumé to incorporate some of the job posting language.
+-  Edward Lawrence
+-  I don’t have a computer. How can I conduct my job search efficiently on my smartphone?
+-  Mobile-friendly job platforms that are mobile-optimized: LinkedIn, Glassdoor, and Indeed. Tailored Alerts and Notifications: Set up job alerts. Set up a professional email signature on your phone. Cloud Storage for Documents: Apps like Google Drive, Dropbox, or iCloud to store your résumé/cover letter. Bookmark and Organize: Important job listings or company career pages for easy access.
+-  Thomas Powner
+-  Using a smartphone for job searching can be efficient. Start by optimizing your résumé for mobile viewing using apps like Google Drive or OneDrive. Download job-centric apps like LinkedIn and Indeed to access listings on the go; then set alerts to get real-time notifications for relevant openings. Staying organized is crucial; track your applications using some cloud storage tools.
+
+
+=== Page 25 ===
+ 
+-  You can conduct and optimize smartphone job searches by using free job board apps. Download Indeed, LinkedIn, Glassdoor, ZipRecruiter, and other job boards. Save your résumé in an accessible mobile folder. Enable job alerts and push notifications to stay updated on new job posts, application status, and employer messages. Stay proactive and efficient in your job hunt!
+-  Alison Smith
+-  Smartphone Job Search: (1) Check that your email mobile app is functional, (2) create a professional email signature, (3) get a PDF résumé/cover letter to attach, (4) download job search mobile apps (LinkedIn, Indeed, etc.), (5) enable alerts, (6) answer your phone and do so professionally, (7) engage with employers by commenting on posts, and (8) make polite follow-up calls, (9) send thank you emails.
+-  Grant Cooper
+-  Many job search websites/job boards have mobile-friendly versions or apps. Use platforms like LinkedIn, Indeed, Glassdoor that offer a seamless mobile experience. Set up alerts, network on social media, save important documents on cloud storage, use email for communication, and prepare for virtual interviews on video conferencing apps (Zoom, Teams). Stay organized with productivity apps.
+-  Andy Watkins
+-  How do I balance my job search with my current job?
+
+Answers from our experts:
+-  Your current job is a priority; successfully navigate with efficient time management and clear goals. Dedicate specific times, mornings, lunch, or evenings. Use spreadsheets or apps to track applications, follow-ups, and interviews. Set clear goals and prioritize opportunities that align. Ensure you're setting aside time for relaxation, exercise, or activities you enjoy to prevent burnout.
+-  Thomas Powner
+-  The best advice I ever received was, “You won’t find time; you have to MAKE time.” Set a realistic goal (i.e., 30 minutes each day) to apply for relevant jobs, research companies, and identify opportunities. Use your lunch hour to connect with hiring managers via LinkedIn and send personalized messages of interest. If you need to save PTO for interviews, do so. It will be worth it in the end!
+-  Katrina Pankuch
+-  (1) Map out a schedule to devote focused time on your job search and set timers.
+-  (2) Keep a log or spreadsheet to update, track, and maintain your progress all in one place. Document the roles and companies pursued, actions completed, responses received, dates, and contacts. 3) Prepare your action plan ahead of time for upcoming days.
+-  Tammeca Riley
+-  To effectively balance your job search with your current job, set clear goals, allocate specific time slots for searching, prioritize tasks, and maintain confidentiality. Utilize networking, tailor applications, stay organized, and seek support as needed to stay on track. Conduct all job search activities on personal computers and internet. Many employers track internet activity.
+-  Andy Watkins
+
+
+=== Page 26 ===
+ 
+-  Know what you want and how you fit in the labor market as part of your career transition plan. This critical first phase will save you time and energy. Front end your time with a professional résumé and LinkedIn profile with a certified résumé writer and career coach. Once your strategy and career materials are in place, focus 1 hour, 3 times a week for customizing and 30 minutes a day networking.
+-  Gayle Draper
+-  When I read job announcements, I often see that I’m missing one or more job requirements, but I know I can do the job. Should I apply anyway?
+
+ Answers from our experts:
+-  Yes! Focus on your proven abilities and accomplishments that align with the core responsibilities of the position. Tailor your application to emphasize these relevant qualifications. Highlight your potential to contribute and excel. Confidence in your abilities can go a long way in convincing employers to consider you despite minor gaps in qualifications.
+-  Crystal Johnson
+-  Give it your best shot — IF you really want that job and know you can perform to goals. Highlight the qualifications you DO have in your résumé and use your cover letter to show your interest, enthusiasm, and fit for the job — but be honest. Every hiring manager has their own set of priorities, and you may be just what he/she is looking for. In the meantime, bone up on areas in which you're lacking.
+-  Donna Tucker
+-  Yes, you should consider applying even if you don’t meet all of the listed requirements. Highlight your relevant skills + experiences in alignment with the job’s core responsibilities. Use your cover letter to further outline your enthusiasm for the role. Taking the initiative to apply can lead to opportunities you might otherwise miss. Tammy Shoup
+-  As I job search, how concerned must I be about having tattoos and piercings in today’s market? Should I hide them or present myself as who I am?
+
+Answers from our experts:
+-  It depends on the industry! While it is becoming more acceptable to have tattoos and piercings, many workplaces will still require you to conform to a dress code. Research the company ahead of time to find out more about their culture. Dress for the interview accordingly!
+-  Laura Fontenot
+-  Large tech companies, including Google, Amazon, and Facebook, can be tolerant of tattoos or piercings, with greater latitude given in graphics and creative departments. Exceptions that are less tolerated include facial tattoos, offensive or provocative text or imagery, extreme piercings, and other practices that push the envelope. Ask for and review the company handbook and dress code manual.
+-  Grant Cooper
+-  If you want to work for a company that values you and your skillset, look for a company that also values DEI. Your tattoos and piercings are part of your authentic self and do not impact what you are capable of
+
+
+=== Page 27 ===
+ 
+-  accomplishing. That being said, it is best to avoid facial piercings in the workplace, unless you are working for a company where that is commonplace and/or accepted.
+-  Lucie Yeomans
+-  This depends on the job or employer you are targeting. More conservative employers may shy away from tattoos and piercings for a customer facing position. The interview is the time to have your skills and competencies shine. You don't want anything to distract from your candidacy. Body art can be a great conversational piece, but there is a time and place to talk about it when you're hired.
+-  Nancy Grant
+-  Navigating the job market with tattoos and piercings requires a balance of understanding the company culture and being authentic. While many companies have become increasingly open to personal expressions, some traditional industries or roles might still lean conservative. Research the company's culture; if it's more progressive, you can be more open about your tattoos and piercings.
+-  Scott Gardner
+-  What do I do if I don't hear back from an employer within, say, 10 days after submitting a résumé? Should I call, email, write ...?
+
+Answers from our experts:
+-  If you are super jazzed about an opportunity, get creative in getting in front of the right recruiter and/or hiring manager. It can help to connect with someone you know in the company to ask on your behalf. You can also send a handwritten note or present something that showcases what you do and how you are the right candidate for the job.
+-  Jaime Chambron
+-  Always follow up if you have not received a response from a job application. Oftentimes, following up can be seen as a greater sign of interest in the position because you have taken the time to make the effort, and that could be a deciding factor in your favor. Use whatever contact method you can find and reach out. If you know the recruiter’s or hiring manager’s name, use it.
+-  Cathy Lanzalaco
+-  You should absolutely follow up; an email is ideal. Express your continued interest, briefly reinforce your qualifications, highlighting why you are a good fit for the role, and end the email with a polite inquiry about the status of your application and the position in general. This will show initiative without being pushy.
+-  My clients are coached to attempt personal contact via phone call 7–10 days after applying. This presumes you have done the research to find the name of the hiring authority, which is often simply achieved on LinkedIn or by asking the receptionist at the target company. Lacking that, you would attempt to follow up via the method provided in the job post or ATS auto-reply.
+-  Mary Jo King
+-  If you have done your homework on the company, you will have the names and email addresses of highly placed managers at the targeted company. It is perfectly acceptable, should you not hear back in a reasonable time, to reach out via email to them or the individual(s) listed in the posting to ask if they could check on your application or otherwise provide any guidance on the selection process.
+-  Grant Cooper
+
+
+=== Page 28 ===
+ 
+-  If you haven't received a response from an employer within about 10 days of submitting your résumé, it's a good idea to take a proactive approach and follow up by sending an email to the HR contact or person who received your application. Express continued interest in the position and inquire about the status of your application. Persistence pays but stay professional and courteous.
+-  Tammy Shoup
+-  Job seekers' and recruiters' time expectations can be drastically different. Emails will be less intrusive than a phone call, but contacting to see if your application is being reviewed is okay. You need to understand a recruiter can have hundreds of résumés for every job they are filling, so your outreach may not get a reply. Stay positive and patient and keep your foot on the job search pedal.
+-  Thomas Powner
+-  Communicate with the employer in whatever way you previously communicated, be it phone, text, or email. Keep your inquiry simple, saying that you’re just checking in to see how the hiring process is going and whether they’ve made a decision. Be sure to thank them again for the opportunity. Then move on to the next.
+-  If no response in 10 days, follow up with a polite email. Express continued interest and inquire about the hiring timeline. Avoid calling unless previously instructed. Persistence is good but respect their process.
+-  When is the best time of the year to job search? Does it matter when you submit the résumé — as soon as it is posted or just before the close date?
+
+Answers from our experts:
+-  While there are historical "peaks" to job openings (January and February in particular), you should always be circulating your name no matter when or if you are looking as you never know when the right opportunity will present itself. If you are applying to jobs, focus on applying when the job first opens. Most recruiters will find the top 4 to 6 candidates to interview in the first few days.
+-  Jaime Chambron
+-  There is no “best” time of the year to job search, as hiring is happening all year long, but consider that holiday weeks can be slower for both postings and responses as recruiters and hiring managers may be taking time off. I recommend submitting your résumé as soon as possible after the job is posted because many companies start reviewing applications and scheduling interviews immediately.
+-  The best time of year to search for a job is TODAY. No time of year is better than any other. Networking is the proven way to land jobs, and you can network year-round. Apply sooner than later. Companies receive hundreds of applications for a position. They may stop looking at résumés before the cutoff date.
+-  Ed Lawrence
+-  Statistically, early spring and fall are the traditional hiring peaks. However, employers fill jobs throughout the year. The best strategy is to keep your résumé updated. When you see a position that appeals to you, tailor your résumé for the role and submit it quickly. Applications received over the weekend or early in the week usually get the most attention.
+-  Robert Rosales
+
+
+=== Page 29 ===
+ 
+-  There is no one best time to job search as quality opportunities can arise anytime. There is a general opinion that there are better times than the holiday season; however, there are also typically fewer candidates. You should submit your application as soon as a position is posted. If you are a good-fit candidate, you will likely displace the competition and the position will be quickly filled.
+
+Deirdre Rock
+-  Surprising to many, 4th quarter can be a great time to conduct a job search. There are fewer active job seekers, and some companies are planning annual budgets. That said, the best time for a job search is when you're ready — with clear goals, a targeted, achievement-oriented résumé, and a robust LinkedIn profile. Submit your résumé when the job post is fresh; there is no advantage in waiting.
+-  Mary Jo King
+-  There are benefits to each quarter; therefore, it’s essential to consider your industry as hiring trends vary. My best advice is to maintain a continuous and proactive approach rather than focusing on time of year and submit your résumé as soon as the position is posted to increase your chances of being noticed. Having an up-to-date résumé at the ready is your most valuable asset in the job market.
+-  Tammy Shoup
+-  The best time is when you're fully prepared to transition with updated résumés and Linkedin profile, and when you can devote time to the job search — other factors include industry cycles, hiring budgets, and personal circumstances. The beginning of the year is active; companies have new budget allocations and business goals. For non-government jobs, applying within the first week is best, but there are no rules.
+-  Thomas Powner
+-  Hiring seasons differ by industry. Company budgets are set, and applicants make goals for the new year at the end of the year, making Jan.–Feb. strong hiring months. Winter holiday season and summer have weaker hiring rates due to employee vacation scheduling. Use these times to update your résumé, then submit early but only after your résumé is tailored to the industry, exuding job value.
+-  Cheryl Minnick
+-  January is a hot month, but great jobs come along all year. Be ready. When you see one you like, go for it. A higher volume of résumés generally filters in when jobs are first opened. The sooner you apply, the better. However, don’t be afraid to apply if it’s been open a while. They may not like the existing applicants. They may be waiting for the right person to come along — which could be you!
+-  Jan Johnston Osburn
+-  Statistically, more hires are made in the last three months of the year and the first few weeks of the new year than at any other time. Some companies start interviews as soon as they receive applications. Because recruiters report getting 200, 300, and even 1,000 applications for every job posted. It’s in your best interest to apply as quickly as possible.
+-  Carol Adams
+-  Any time of the year is a good time for a job search. Every company has openings at different times of the year. Typically, you will see fewer job ads around the holidays except in the retail and restaurant industries. The best time to submit your résumé is as soon as you see the ad posted in case the HR department reads the résumé right away to fill an urgent vacancy.
+-  Cherie Heid
+
+
+=== Page 30 ===
+ 
+-  It's a myth hiring slows during the holiday season. What's true is fewer people job search. It's a great time not only to network during holiday events but to apply to openings. Employers hire when they need to fill positions. The best time to apply is when the job is posted as hiring managers tend to start selecting candidates for interviews immediately. Late applicants may not make the first round.
+-  Nancy Grant
+-  I left my last job 6 months ago. How soon should I update my LinkedIn profile and résumé?
+
+Answers from our experts:
+-  6 months is a while! I recommend having my client's assets updated within a few weeks of a change or once a year, so you do not lose sight of the value you provided. If it has been 6 months since you were employed, I would recommend noting a career break on your LinkedIn profile or add an experience entry to detail what you have been doing since you left your job.
+-  Jaime Chambron
+-  Keeping your LinkedIn profile and résumé updated at all times is the best practice so these tools are always at the ready, so do it now. Recruiters will expect your résumé to always be current, and you may miss out on being found by recruiters on LinkedIn if your profile is outdated.
+-  Cathy Lanzalaco
+-  I’m going to say you are already late! It's a good practice to keep your LinkedIn profile and résumé updated regularly, ideally every few months; this ensures you are always ready should an opportunity arise. As LinkedIn is a "live" online professional “marketing” platform, having a profile that reflects your current skills and accomplishments positions you competitively.
+-  Deirdre Rock
+-  Wait no longer than 2 weeks to update your career marketing tools if you are actively looking for a job. Recruiters won't appreciate the deception when they uncover the actual dates of your last employment. Keep your last role on LinkedIn listed as "Present" and put the actual end date after the job title so you are still included in searches for employed candidates. It's an honest workaround!
+-  Mary Jo King
+-  While there is no rule on when to record the departure date on your LinkedIn profile or résumé, 6 months is approaching the limits of that consideration. Particularly, if those 6 months cross over a calendar year, you should update your status in both places. If you only list your dates in years, not months (more common in recent trends), you can simply show the ending date as the current year.
+-  Grant Cooper
+-  Ultimately, the best career and job readiness plan is to keep both the résumé and LinkedIn profile updated at all times to reflect current role, job knowledge, experience, accomplishments, training, and certifications. By maintaining a current résumé and LinkedIn profile, a worker can easily pivot and quickly transition to job seeker, reducing anxiety and stress.
+-  Alison Smith
+-  You can feel comfortable leaving a present date on your résumé and LI for about 2–3 months, but be 100% transparent if you are interviewed. After a few months, recruiters will see it as being deceitful. There are some techniques to keep a present date and end date simultaneously on your LI, so you stay on any LI recruiter search filters.
+
+
+=== Page 31 ===
+ 
+-  You want to update both immediately, but leave the date ambiguous. For example, if you are still in the same year, leave it as such instead of putting an ending month and year. If you left voluntarily, share your motivation for moving forward in your letter of interest in a positive way. Employers are attracted to stories of authenticity.
+-  Nancy Grant
+-  Will applying for a job in a different state hurt my chances for hire? What should I do differently from local applications?
+
+Answers from our experts:
+-  Location bias is real, and it could mean the difference between you getting an offer vs. someone who lives closer to the company office with perceived easier access for meetings, events, etc. The best way to combat this is to communicate your plan for collaboration and accessibility for team events and client meetings. If you don’t have a plan, don’t expect an employer to create one for you.
+-  Cathy Lanzalaco
+-  If you are in a high-demand or technical position, applying to out-of-state jobs should be no problem. For other positions, employers may prefer to hire in-state candidates since they are familiar with the area and may not seek relocation benefits. If you are determined to seek a position in another state, try to find a local address you can use on your résumé, such as a friend or mailbox service.
+-  Grant Cooper
+-  Applying out-of-state won't hurt if you address relocation upfront and show you can move quickly. In your cover letter and résumé, mention ties to the area. Discuss applicable market trends. Tailor your résumé to the job while highlighting adaptability and relevant skills. Lastly, leverage LinkedIn to network within the state and attend virtual events to prove you're a serious candidate.
+-  Jonathan Estreich
+-  This can be tricky. However, not impossible. Start by enabling your targeted areas in your LinkedIn and Indeed accounts. If you are sending a résumé to a direct person, address your relocation goals in the cover letter. Ideally, you should have a plan for how you could move quickly if necessary and mention such to the recruiter. Lastly, be realistic and consider the logistics.
+-  Nancy Grant
+-  No, it won't necessarily hurt your chances but be strategic and include a statement on your cover letter and résumé that indicates your desire to relocate to THAT area. "Will be relocating to City, ST, in June 2024." Also, set your location preferences in LinkedIn to include the out-of-state location.
+-  Brenda Mariah
+
+
+=== Page 32 ===
+ 
+-  There are a few quick tips that make you much more desirable as an out-of-state candidate in this scenario. (1) Change your location on your LinkedIn Profile to match the metro area where you want to work. (2) Delete your full address from your résumé, and instead only list your destination town/ZIP code. (3) Be prepared to answer relocation-related questions — how soon, relocation assistance, etc.
+-  Scot Hulshizer
+-  I'm trying to interview for a job I tried and failed to get before. How do I handle a second chance?
+
+Answers from our experts:
+-  If you are lucky enough to get a second bite at the apple, it is important to demonstrate growth since your last interview, showing resilience, gratitude, and a persistent commitment to the role. Address any previous feedback directly, focusing on your strengthened fit for the position and challenging questions. Be clear about what has changed with you and how you will add value to the company.
+-  Cathy Lanzalaco
+-  Persistence is the single most important attribute in landing the job you are seeking. By all means, apply again, and review your previously submitted materials to improve them. Practice your interview skills, research the company, reach out via LinkedIn to individuals from their staff to get insider tips, and utilize confidence-building techniques to project a positive presentation.
+-  Grant Cooper
+-  Gather any feedback from the potential employer to understand why you did not get an offer and do your own introspection. Identify any gaps in your knowledge, skills, and abilities and address them for an improved chance for consideration. Take an objective look to determine if you are a good match, and/or if you weren't properly prepared for the interview. Proceed with confidence.
+-  Seize this second chance by showcasing growth and industry awareness. Reflect on feedback from your first attempt; address those areas in your application. Highlight new skills or experiences. Next, demonstrate knowledge of recent company developments, such as leadership changes or exciting initiatives. Express long- term interest in the role, emphasizing your dedication and commitment.
+-  Embrace it with optimism, a positive attitude, and preparedness! Reflect on past feedback; show growth and how you've addressed previous concerns. Research the company again, noting any changes. Prepare to discuss what's changed since the last interview—new skills, experiences, and education. Be honest about past interviews but focus on current qualifications and enthusiasm.
+-  Tom Powner
+-  In a second interview for a job you previously didn't get, show growth and learning since your last attempt. Address any feedback you received, highlighting how you've improved or gained new skills. Be positive, showing enthusiasm and commitment to the role. Demonstrate your understanding of the company's current needs and how you're now a better fit for the position.
+-  Scott Gardner
+
+
+=== Page 33 ===
+
+-  Address the elephant in the room about this being your second time around and let them know you're known for your perseverance and that you've heeded their feedback and leaned into development in the key areas. You are back this time as a stronger candidate, ready to demonstrate that you listen, are skilled, and leverage constructive feedback to the benefit of the organization.
+-  Brenda Mariah
+
+
+=== Page 34 ===
+ CONTRIBUTING EXPERTS
+-  The NRWA thanks the following contributors for generously sharing their expertise with their colleagues, job seekers, and the public. Answers submitted to questions on the Résumé Experts forum are reviewed carefully and scored by a Nationally Certified Résumé Writer according to rigorous NRWA standards and the best answers are posted online. Those whose answers are selected earn the honor of displaying the Ask the Experts Contributor badge (right) on their website and other materials. If you need expert help with your job search, look no further than here:
+
+ Adams, Carol
+-  Ideal Resumes, LLC Contact Details / View NRWA member profile
+-  Edwards, Karin
+
+ Bartos, Teegan
+-  Jolt Your Career Contact Details / View NRWA member profile
+
+ Estreich, Jonathan
+-  Natfluence Contact Details / View NRWA member profile
+
+ Chambron, Jaime
+-  Career Agility System Contact Details / View NRWA member profile
+-  Stacie Writes Resumes Contact Details / View NRWA member profile
+-  Christakis, Emily Contact Details / View NRWA member profile
+
+ Fontenot, Laura
+-  Masterwork Resumes Contact Details / View NRWA member profile
+
+ Collard-Mills, Brenda
+-  Robust Resumes Contact Details / View NRWA member profile
+-  Gardner, Scott Vitae Express Contact Details / View NRWA member profile
+
+ Coon, Fred
+
+ Grant, Nancy
+-  Fred, Stewart, Cooper, & Coon Contact Details / View NRWA member profile
+-  Regional Career & Employment Services Contact Details / View NRWA member profile
+
+ Cooper, Grant
+-  Strategic Resumes & Business Plans Contact Details / View NRWA member profile
+
+ Grunwald, Jennifer
+-  University of Connecticut Contact Details / View NRWA member profile
+-  Czerniak, Jenny
+-  Dagliano, Norine ekm Inspirations Contact Details / View NRWA member profile
+
+ Hait, Beate
+-  Resumes Plus Contact Details / View NRWA member profile
+
+ Heid, Cherie
+
+Draper, Gayle
+-  Competitive Edge Resume Service Contact Details / View NRWA member profile
+-  Intentional Careers and Human Resources Contact Details / View NRWA member profile
+
+
+=== Page 35 ===
+ 
+-  Hines, Candace Get It Write Contact Details / View NRWA member profile
+
+ Hulshizer, Scot
+-  The Career Expert Contact Details / View NRWA member profile
+-  Johnson, Crystal Johnson Consulting Services LLC Contact Details / View NRWA member profile
+-  Johnston Osburn, Jan Empower 365
+
+ King, Mary Jo
+-  Alliance Résumé & Writing Service Contact Details / View NRWA member profile
+
+ Lanzalaco, Cathy
+-  Inspire Careers Contact Details / View NRWA member profile
+-  Lawrence, Edward Getstarted LLC Contact Details / View NRWA member profile
+
+ Mariah, Brenda
+-  Push Career Management Contact Details / View NRWA member profile
+
+ Markus, Arno
+-  iCareerSolutions Contact Details / View NRWA member profile
+
+ Martin, Meg
+-  HRMeg Contact Details / View NRWA member profile
+
+ Minnick, Cheryl
+-  University of Montana Contact Details / View NRWA member profile
+-  Morales, MarkGabriel Contact Details / View NRWA member profile
+-  Ogieuhi, Omonzuwa Linkr Research Team Contact Details / View NRWA member profile
+
+ Pankuch, Katrina
+-  Aspire Talent Solutions Contact Details / View NRWA member profile
+
+ Powner, Thomas
+-  Career Thinker, Inc. Contact Details / View NRWA member profile
+
+ Riley, Tammeca
+-  Infinite Potential Resumes Contact Details / View NRWA member profile
+
+ Rosales, Rob
+-  EZ Resume Services Contact Details / View NRWA member profile
+-  Roberts, Camile CC Career Solutions Contact Details / View NRWA member profile
+
+ Rock, Deidre
+-  Composed Career Contact Details / View NRWA member profile
+-  Roqueplot, Jane JaneCo’s Sensible Solutions Contact Details / View NRWA member profile
+
+ Rothbauer-Wanish, Heather
+-  Feather Communications Contact Details / View NRWA member profile
+-  Sara Valleau
+-  Schultz, Barbara The Career Stager Contact Details / View NRWA member profile
+-  Shoup, Tammy Breakthrough Resumes Contact Details / View NRWA member profile
+
+ Silins, Karen
+-  A-Plus Career & Resume, LLC Contact Details / View NRWA member profile
+
+Smith, Alison
+-  Radical Resumes Contact Details / View NRWA member profile
+
+
+=== Page 36 ===
+ Smith-Proulx, Laura
+-  An Expert Resume Contact Details / View NRWA member profile
+
+ Timm, Sara Catherine
+-  DFW Resume Contact Details / View NRWA member profile
+-  Tucker, Donna CareerPRO Resume Center Contact Details / View NRWA member profile
+-  Visek, Jessica
+-  Jane Roqueplot Contact Details / View NRWA member profile
+-  Sara Timm Contact Details / View NRWA member profile
+-  Donna Tucker Contact Details / View NRWA member profile
+-  Cathy Lanzalaco Contact Details / View NRWA member profile
+-  Your Resume Partner Contact Details / View NRWA member profile
+-  Watkins, Andy Advise Your Career Contact Details / View NRWA member profile
+
+ Williamson, Kate
+-  Scientech Resumes Contact Details / View NRWA member profile
+-  Yeomans, Lucie Your Career Ally Contact Details / View NRWA member profile
+
+EDITORS

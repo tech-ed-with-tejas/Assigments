@@ -1,0 +1,113 @@
+
+=== Page 1 ===
+ career.io
+-  Career Advice Resume & CV's How does ATS work? An in-depth explanation
+-  Helen Oswald
+
+How does ATS work? An in-depth explanation
+-  Build your resume
+-  Companies are increasingly recognizing the value of applicant tracking systems in helping them quickly find applicants with the right skills and qualifications. So, how exactly does ATS work? Here’s our in-depth guide to help you beat the bots.
+-  https://career.io/career-advice/how-does-ats-work
+
+
+=== Page 2 ===
+ career.io
+-  system (ATS) to determine whether you’re a good match for the job opening.
+-  Employers receive upward of 100 resumes per vacancy, so it makes sense that companies use ATS to manage these high-volume applications and identify the most suitable candidates for the job. So, how does ATS work and how can you make sure your resume doesn’t get thrown in a proverbial black hole? In this article, we’ll explore:
+
+How does ATS software work?
+-  An Applicant Tracking System, or ATS, is software that automates the recruitment process for both small and large-scale companies. ATS collects, organizes, parses, and ranks job applications for open positions, making the hiring process a lot easier and efficient for recruiters.
+-  Some ATS score resumes based on how closely they match the job description, the higher the score, the more likely you are to move forward in the hiring process. Application tracking systems can also be used by recruiters to filter applications, much like a Google search.
+-  For example, 100 applications may be received following a job advert and these are collated in the ATS database. Hiring managers can then filter applicants by searching the job title, such as Senior Software Engineer, and reduce the candidate pool to say 50. The recruiter will then enter more specific search criteria, such as machine learning, AI, and SQL, leading to perhaps 10 applicants who tick all the boxes. Clearly, anyone who doesn’t have the right keywords will be less likely to stand out and earn a review by the hiring manager.
+-  Statistical Insight
+-  Ensuring your resume is ATS-friendly is imperative according to a recent article by Forbes. Approximately 98% of Fortune 500 companies use applicant tracking systems as well as 66% of large companies and 35% of small organizations.
+-  https://career.io/career-advice/how-does-ats-work
+
+
+=== Page 3 ===
+ 
+-  Sign Up
+-  Applicant tracking systems don’t reject resumes, the people who set the parameters do. However, one thing you do need to bear in mind with ATS are knockout questions. These are typically yes or no type screening questions used to instantly eliminate applicants who don’t meet the essential criteria for the role. Here’s some examples:
+-  The best approach with these types of questions is to answer honestly. If you don’t meet the requirements of these deal breaker questions, your time is better spent on looking for new job opportunities that better fit your qualifications, experience, character, and work situation.
+
+ Expert Tip
+-  Networking can help you circumvent ATS. Connecting with recruiters at target companies via LinkedIn, requesting an informational interview, and seeking referrals from relevant employees can place you in a strong position for future job openings.
+
+ How to beat applicant tracking systems
+-  Understanding how ATS works can increase your chances of getting hired. Here’s five top strategies to help you navigate ATS software to your advantage:
+
+1. Create your resume in an ATS-friendly format
+-  Naturally, when you create your resume you’ll want it to stand out from the crowd, so you may be tempted to add some eye-catching design elements and graphics. However, it’s best to reign in your creative side as design-heavy resumes don’t perform well on ATS. Tables, images, and columns can all make your resume difficult for the software to parse.
+-  While a splash of color here and there is fine, try to keep your resume as simple and straightforward as possible. Basic formatting, reverse-chronological order, and traditional
+-  https://career.io/career-advice/how-does-ats-work
+
+
+=== Page 4 ===
+ career.io
+
+ 2. Optimize your keywords
+-  Including the right resume keywords is critical. These keywords need to be targeted to each specific job opportunity as much as possible. While this may be time-consuming, it’s definitely worth the effort. Tailoring your resume to each role will improve your ATS score and the chances of getting noticed when recruiters filter applications.
+-  Review the job description and look for terms that are repeated and emphasized as important skills and experience. You should then sprinkle these keywords across your resume. This includes both hard (industry-specific) skills as well as soft skills, such as communication, creative problem-solving, and collaboration.
+
+ 3. Update your online profiles
+-  In today’s digital age, ATS software continues to evolve and become more sophisticated. Many ATS are capable of searching the web for more information on candidates, including checking social media profiles to get a full picture of your suitability for the role and company. Updating your online presence to ensure it’s professional and aligns with your career goals is key to representing the best version of yourself to a recruiter.
+
+ Do
+
+ Don't
+
+4. Be selective when applying for jobs at the same company
+-  While it’s perfectly fine to apply for multiple, similar roles in the same company, try to avoid applying for too many, vastly different roles. If you fire off 15 applications for job openings in marketing, sales, software development, and operations in the same company (even if you
+-  https://career.io/career-advice/how-does-ats-work
+
+
+=== Page 5 ===
+ career.io
+
+ 5. Follow instructions
+-  Checking the job advert for specific instructions and following these to the letter can avoid your application being filtered out by ATS. This could involve including requested information or sending your resume and cover letter in a specific document format.
+
+ Can I test whether my resume is ATS friendly?
+-  Employers use different ATS software and each has its own quirks, so there’s no universal test that can guarantee ATS success. However, using one of the more effective ATS checkers will help you get a good steer on whether your resume hits the mark or needs a few more tweaks.
+-  Check out reputable sites that offer resume review options. Career.io has a great resume review tool (that’s also free!) that allows you to get the results applicant tracking systems will see when they parse your resume. You’ll also receive constructive suggestions on how to optimize the content, formatting, and overall presentation of your resume.
+
+Key takeaways
+-  https://career.io/career-advice/how-does-ats-work
+
+
+=== Page 6 ===
+ career.io
+
+Helen Oswald
+-  Helen is an experienced freelance writer with a strong background in job search and career advice, in particular resume best practices, interviewing, and personal and professional development. Before Career.io, Helen worked for high-profile recruitment firms and in the field of HR management, so she has a strong sense of what recruiters are looking for in a potential employee as well as experience in supporting career growth and development.
+-  Share this article
+-  Our Company
+-  About Us
+-  Updates
+-  Press
+-  Partnerships
+-  Enterprise
+-  Work For Us
+-  Career Guides
+-  https://career.io/career-advice/how-does-ats-work
+
+
+=== Page 7 ===
+career.io
+-  How to get hired
+-  Negotiating salaries
+-  Following up a job offer
+-  Career Advice
+-  Resumes & CVs
+-  Cover letters
+-  Interviewing
+-  Finding a Job
+-  Career Development
+-  Support
+-  Contact Us
+-  FAQ
+-  Terms of Service
+-  Privacy Policy
+-  Cookie Policy
+-  https://career.io/career-advice/how-does-ats-work
+-  © 2025 Career.io. All Rights Reserved

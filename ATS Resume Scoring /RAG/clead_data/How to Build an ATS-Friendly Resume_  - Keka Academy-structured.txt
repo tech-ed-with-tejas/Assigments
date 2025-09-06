@@ -1,0 +1,186 @@
+
+=== Page 1 ===
+ 
+-  . Home 2. Blog login Register 3. How to Build an ATS-Friendly Resume?
+
+ How to Build an ATS-Friendly Resume?
+
+ Learn to build your ATS-Friendly resume
+-  Published: 1 August, 2025 Last Modiﬁed: 19 August, 2025
+-  So, how do you counter that? This is what we will address in this article. By the end, you’ll understand what an Applicant Tracking System (ATS) does. You’ll also learn how to create a resume that gets past the bots and reaches a real recruiter. Let’s dive right in!
+
+What is an ATS?
+-  An Applicant Tracking System (ATS) is recruitment software that makes the hiring process easier for the recruiter. ATS automates the entire hiring process by sourcing, scanning, and screening resumes and effectively tracking candidates. AI-driven matching, keyword-based parsing, and screening are used by
+
+
+=== Page 2 ===
+ 
+-  Businesses use ATS to minimize manual scanning, screen candidates, and enhance the quality of hire. login Register Some well-known ATS platforms are Keka Hiro, Bamboo HR, Workday, etc.
+
+ How does an ATS work
+-  If you are making an ATS friendly resume, it is helpful to know how these systems work. Understanding how an ATS scans, ﬁlters, and ranks applications can lead to writing a resume that will stand out. Here we will break down what an ATS does and how it impacts the hiring process.
+
+ 1. Resume Parsing
+-  The system ﬁlters resume for critical data points such as:
+-  1. Work experience
+-  2. Academic history
+-  5. Keywords from job posting
+
+ 2. Keyword Correspondence
+-  The ATS matches the keywords given in the speciﬁc job description with keywords in the candidate’s resume. If your resume lacks enough matching keywords, the ATS will mark it as low priority.
+
+ 3. Filtering and Ranking
+-  Each resume is associated with a certain resume score, helping it rank in the software compared to the other resumes. The best-ranked resumes are later ﬁltered by the recruiter for screening. example: Suppose the job description is for an SEO analyst, the key skills required in the resume will be “Keyword Research”, “SEO Tools”, “Competitor Research”, etc.
+-  A candidate who does not directly put these keywords in his application can be ranked low or even disregarded.
+
+4. Candidate Tracking
+-  The ATS ensures clear communication between the recruiter and candidate. The recruiters can send emails directly, track chats, & monitor progress directly on the system without relying on any third-party
+-  Explore how ATS works within HRMS.
+
+
+=== Page 3 ===
+ Why Tailor Your Resume for ATS
+-  login Register
+-  An ATS-friendly resume helps you avoid software rejection and increases your chances of attracting a recruiter’s or hiring manager’s attention. You can create an ATS-friendly resume using tools like Canva, Resumenova, and others, but ensure the formatting is correct.
+-  By optimizing your resume for an ATS-friendly resume checker, you improve your resume score, increasing visibility and boosting the chances of landing an interview.
+
+ Create an ATS-friendly Resume
+-  The ATS-friendly resume meaning lies in creating a document that an applicant tracking system can scan, process, and evaluate easily. By intentionally formatting and including relevant keywords, a resume may, among other reasons, survive the ﬁrst cut. This section outlines some practical tips for ensuring visibility and compatibility within an ATS.
+
+ 1. Keep it clean and simple
+-  Stick to a clear, straightforward layout, no fancy fonts, graphics, or cluttered designs. The heading should highlight “Experience,” “Skills,” and “Education” to ensure the ATS can easily navigate your resume.
+
+ 2. Use job-speciﬁc keywords
+-  The ATS is designed to scan for speciﬁc keywords mentioned in the job description. Keyword matching is your golden ticket to passing the ATS ﬁlter and landing on the recruiter’s desk.
+
+ 3. Avoid fancy fonts and graphics
+-  ATS prioritizes content, so readable fonts work best. Select Arial and Calibri to make it more readable by ATS. Skip the graphics, images, and complex formatting that can confuse the software and lead to your resume being rejected.
+
+ 4. Save your ﬁle in an appropriate format
+-  Save your resume in .docx or PDF format; these are the ﬁle types most ATS systems can read without an issue. Avoid resume formats such as .jpg or .png.
+
+ 5. Use clear and speciﬁc job titles
+-  Your job titles should be recognizable and aligned with industry standards. For example, if you’re a ‘Project Coordinator,’ avoid getting creative by labeling it as ‘Project Wizard.’ ATS systems scan for speciﬁc keywords, so using clear and direct language ensures your roles are properly recognized.
+
+6. Use bullet points
+-  Bullet points make your resume easier to scan for both the ATS and the recruiter- by highlighting your achievements and key qualiﬁcations.
+
+
+=== Page 4 ===
+ 7. Balance hard skills and soft skills
+-  ATS scans for both hard skills (job-related tools) and soft skills (like ‘fast learner’ or ‘communication’). login Register Be sure to highlight your core competencies in both areas- especially those listed in the job description.
+
+ 8. Do not overcomplicate the format
+-  ATS avoids headers, footers, or columns. Stick to a basic, easy-to-read text format. Your resume should be a seamless experience for the ATS to read, not a puzzle to solve.
+
+ 9. Spell out acronyms
+-  While abbreviations (like “SEO”) are common, always spell out terms at least once (e.g., “Search Engine Optimization (SEO)”). This ensures the ATS captures both the full form and the abbreviation.
+
+ 0. Check ATS score before you submit
+-  Before you click “submit” on your application, take a moment to check your ATS score. Use an ATS resume checker to get a preview of how well your document will perform. It’s like getting a sneak peek before the real game begins.
+
+Tips to create ATS Friendly Resume
+
+
+=== Page 5 ===
+ Common Mistakes to Avoid in an ATS-Friendly login Register Resume
+
+ 1. Do not use complex designs or images:
+-  Graphics, icons, headshots, charts, or innovative layouts may look great. However, most ATS cannot read graphics or unusual formatting. A complex design or too many images can make your resume unreadable by the system. This might cause it to be rejected before a recruiter ever sees it.
+
+ 2. Do not use unusual fonts:
+-  Decorative or unusual fonts might seem unique, but they can be a trap. ATS systems parse simple, text-based resumes, and using nonstandard fonts causes errors, misreads information, or even skips important content entirely.
+
+ 3. Do not use tables, columns, or text boxes:
+-  Tables and columns can interfere with an ATS’s ability to accurately parse your resume. Most ATS tools read content in a top-to-bottom, left-to-right sequence. Unusual layouts or misaligned elements can confuse the system, leading to missed or scrambled information.
+
+ 4. Do not put crucial information in headers or footers:
+-  Avoid placing contact details in headers or footers, as ATS may miss reading them and fail to pick up your email address or phone number.
+
+ 5. Avoid formatting errors and misplaced information:
+-  The recruiter will reject your resume if you share it in the wrong ﬁle format. Always send in .docx or plain PDF. Never send .jpg, .png, or any other format that is not ATS-readable.
+
+ 6. Do not use buzzwords:
+-  Avoid vague terms like “platoon player” or “go-getter” as ATS may overlook them. Rather, make sure to incorporate work-speciﬁc language that images the job.
+
+ Key Takeaways:
+
+ 1. ATS prioritizes data over design:
+-  ATS does the initial screening, evaluating resumes based on structured data rather than visual design.
+
+2. Simple formatting outperforms creativity:
+-  Resumes with clean formatting, standard fonts, and conventional headings are more likely to pass ATS. It ﬁlters resumes with less complex layouts or overly creative designs.
+
+
+=== Page 6 ===
+ 3. Keyword optimization is essential:
+-  cademy
+-  Resumes must contain speciﬁc keywords directly sourced from the job description, as ATS software login Register identiﬁes and ranks candidates based on these terms.
+
+ 4. Resume customization is crucial:
+-  Tailoring your resume for each job boosts ATS visibility and ranking.
+
+ 5. Avoid formatting errors and misplaced information:
+-  Unusual fonts, tables, columns, vague titles, and header/footer data can cause ATS errors/exclusion.
+
+ 6. Use compatible ﬁle formats:
+-  Submitting resumes in ATS-friendly formats such as .docx or plain PDF ensures accurate parsing. Other formats may disrupt content recognition.
+
+ 7. ATS optimization requires a strategy:
+-  An ATS-compatible resume requires structure, keyword alignment, and format over aesthetics.
+
+ Summary
+-  Creating an ATS-friendly resume is essential to avoid being eliminated before having a conversation with the recruiter. This blog explains what an applicant tracking system is, the importance of clean formatting, keyword compliance, and supported ﬁle types. With identiﬁable job titles, organized content, and layouts that don’t hinder ATS ﬁlters, one can create resumes that are ATS-friendly. Making the resume ATS-friendly is not only to get around the system, but also to enhance visibility where it counts the most.
+
+ Subscribe to our Blogs
+-  Subscribe
+
+Table of content
+
+
+=== Page 7 ===
+ 
+-  login
+-  Register
+
+ Want to ask something from us?
+
+ 1. Can we use Canva to make ATS friendly Resume template?
+-  Only those templates that are speciﬁcally marked as ATS-friendly should be used. Many Canva templates have complex designs that cannot be parsed by ATS.
+
+ 2. What is the best resume format for new graduates applying online?
+-  A simple format is recommended, emphasizing education, internships, relevant skills, and certiﬁcations. It should have the correct alignment, headers, and be keyword-optimized with appropriate keywords. 3. How does one check a resume's ATS compatibility?
+-  Compatibility can be determined using ATS checker software or websites such as Resume Worded and other resume score scanners that look at formatting and
+
+ 4. What type of ﬁle should be included when applying with a resume?
+-  Submit resumes in .docx or PDF format (if acceptable to the employer). Avoid using ﬁle format such as JPG or PNG.
+
+ 5. Does the ATS merely look for keywords?
+-  No. Although keywords are important, the ATS also considers the overall format, standard job titles, formatting, and relevance of skills.
+
+ Still need help?
+-  Click on the purple round button at the bottom right corner of this page. You can also email our support team at support@keka.com
+
+Contact Us
+
+
+=== Page 8 ===
+ 
+-  login Register
+
+ Keka Academy Team
+-  We're a team of curious, driven, and slightly HR-obsessed young professionals — that's the Keka Academy Editorial Team. We dive into new HR trends, decode complex concepts, and create content that actually speaks to the next-gen HR tribe.
+
+ Related Blogs
+-  Comparison
+
+Best HR Certiﬁcation Platforms in 2025
+
+
+=== Page 9 ===
+ Difference between HRBP & HR Generalist
+-  AI in HR
+
+10 Must-Use ChatGPT Prompts for HR Professionals in 2025
+-  © 2025 - Keka Academy
+-  Social links:

@@ -1,0 +1,12 @@
+[theme]
+base = "light"                    # optional, ensures light palette
+backgroundColor = "#e0d7d7ff"       # main body background
+secondaryBackgroundColor = "#FFFFFF"  # widgets/containers background (optional)
+textColor = "#000000"             # optional for contrast
+
+
+[theme.sidebar]
+backgroundColor = "#FFEFD5"              # sidebar background
+textColor = "#111827"                    # sidebar text
+primaryColor = "#2563EB"                 # sidebar accent (focus, active)
+borderColor = "#E5E7EB"                  # sidebar border
